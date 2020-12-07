@@ -1,0 +1,2207 @@
+[
+  {
+    "Day": 1,
+    "Daily_ICU_occupancy_USA": 1299,
+    "Daily_ICU_occupancy_UK": 1813,
+    "Daily_ICU_occupancy_Italy": 26,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 215,
+    "Daily_ICU_occupancy_Bulgaria": 26
+  },
+  {
+    "Day": 2,
+    "Daily_ICU_occupancy_USA": 1792,
+    "Daily_ICU_occupancy_UK": 2120,
+    "Daily_ICU_occupancy_Italy": 35,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 219,
+    "Daily_ICU_occupancy_Bulgaria": 26
+  },
+  {
+    "Day": 3,
+    "Daily_ICU_occupancy_USA": 2174,
+    "Daily_ICU_occupancy_UK": 2309,
+    "Daily_ICU_occupancy_Italy": 36,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 245,
+    "Daily_ICU_occupancy_Bulgaria": 27
+  },
+  {
+    "Day": 4,
+    "Daily_ICU_occupancy_USA": 2456,
+    "Daily_ICU_occupancy_UK": 2469,
+    "Daily_ICU_occupancy_Italy": 56,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 245,
+    "Daily_ICU_occupancy_Bulgaria": 32
+  },
+  {
+    "Day": 5,
+    "Daily_ICU_occupancy_USA": 3087,
+    "Daily_ICU_occupancy_UK": 2644,
+    "Daily_ICU_occupancy_Italy": 64,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 244,
+    "Daily_ICU_occupancy_Bulgaria": 33
+  },
+  {
+    "Day": 6,
+    "Daily_ICU_occupancy_USA": 3487,
+    "Daily_ICU_occupancy_UK": 2864,
+    "Daily_ICU_occupancy_Italy": 105,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 250,
+    "Daily_ICU_occupancy_Bulgaria": 35
+  },
+  {
+    "Day": 7,
+    "Daily_ICU_occupancy_USA": 3937,
+    "Daily_ICU_occupancy_UK": 2967,
+    "Daily_ICU_occupancy_Italy": 140,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 243,
+    "Daily_ICU_occupancy_Bulgaria": 36
+  },
+  {
+    "Day": 8,
+    "Daily_ICU_occupancy_USA": 4513,
+    "Daily_ICU_occupancy_UK": 2963,
+    "Daily_ICU_occupancy_Italy": 166,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 267,
+    "Daily_ICU_occupancy_Bulgaria": 36
+  },
+  {
+    "Day": 9,
+    "Daily_ICU_occupancy_USA": 4928,
+    "Daily_ICU_occupancy_UK": 3228,
+    "Daily_ICU_occupancy_Italy": 229,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 266,
+    "Daily_ICU_occupancy_Bulgaria": 29
+  },
+  {
+    "Day": 10,
+    "Daily_ICU_occupancy_USA": 5500,
+    "Daily_ICU_occupancy_UK": 3274,
+    "Daily_ICU_occupancy_Italy": 295,
+    "Daily_ICU_occupancy_France": 1,
+    "Daily_ICU_occupancy_Austria": 261,
+    "Daily_ICU_occupancy_Bulgaria": 31
+  },
+  {
+    "Day": 11,
+    "Daily_ICU_occupancy_USA": 5811,
+    "Daily_ICU_occupancy_UK": 3301,
+    "Daily_ICU_occupancy_Italy": 351,
+    "Daily_ICU_occupancy_France": 2,
+    "Daily_ICU_occupancy_Austria": 245,
+    "Daily_ICU_occupancy_Bulgaria": 37
+  },
+  {
+    "Day": 12,
+    "Daily_ICU_occupancy_USA": 7079,
+    "Daily_ICU_occupancy_UK": 3277,
+    "Daily_ICU_occupancy_Italy": 462,
+    "Daily_ICU_occupancy_France": 9,
+    "Daily_ICU_occupancy_Austria": 243,
+    "Daily_ICU_occupancy_Bulgaria": 44
+  },
+  {
+    "Day": 13,
+    "Daily_ICU_occupancy_USA": 9978,
+    "Daily_ICU_occupancy_UK": 3234,
+    "Daily_ICU_occupancy_Italy": 567,
+    "Daily_ICU_occupancy_France": 9,
+    "Daily_ICU_occupancy_Austria": 239,
+    "Daily_ICU_occupancy_Bulgaria": 44
+  },
+  {
+    "Day": 14,
+    "Daily_ICU_occupancy_USA": 10337,
+    "Daily_ICU_occupancy_UK": 3228,
+    "Daily_ICU_occupancy_Italy": 650,
+    "Daily_ICU_occupancy_France": 15,
+    "Daily_ICU_occupancy_Austria": 243,
+    "Daily_ICU_occupancy_Bulgaria": 36
+  },
+  {
+    "Day": 15,
+    "Daily_ICU_occupancy_USA": 12450,
+    "Daily_ICU_occupancy_UK": 3222,
+    "Daily_ICU_occupancy_Italy": 733,
+    "Daily_ICU_occupancy_France": 23,
+    "Daily_ICU_occupancy_Austria": 232,
+    "Daily_ICU_occupancy_Bulgaria": 36
+  },
+  {
+    "Day": 16,
+    "Daily_ICU_occupancy_USA": 12693,
+    "Daily_ICU_occupancy_UK": 3162,
+    "Daily_ICU_occupancy_Italy": 877,
+    "Daily_ICU_occupancy_France": 39,
+    "Daily_ICU_occupancy_Austria": 238,
+    "Daily_ICU_occupancy_Bulgaria": 34
+  },
+  {
+    "Day": 17,
+    "Daily_ICU_occupancy_USA": 13285,
+    "Daily_ICU_occupancy_UK": 3247,
+    "Daily_ICU_occupancy_Italy": 1028,
+    "Daily_ICU_occupancy_France": 45,
+    "Daily_ICU_occupancy_Austria": 227,
+    "Daily_ICU_occupancy_Bulgaria": 40
+  },
+  {
+    "Day": 18,
+    "Daily_ICU_occupancy_USA": 13620,
+    "Daily_ICU_occupancy_UK": 3176,
+    "Daily_ICU_occupancy_Italy": 1153,
+    "Daily_ICU_occupancy_France": 66,
+    "Daily_ICU_occupancy_Austria": 208,
+    "Daily_ICU_occupancy_Bulgaria": 37
+  },
+  {
+    "Day": 19,
+    "Daily_ICU_occupancy_USA": 13620,
+    "Daily_ICU_occupancy_UK": 3130,
+    "Daily_ICU_occupancy_Italy": 1328,
+    "Daily_ICU_occupancy_France": 86,
+    "Daily_ICU_occupancy_Austria": 204,
+    "Daily_ICU_occupancy_Bulgaria": 41
+  },
+  {
+    "Day": 20,
+    "Daily_ICU_occupancy_USA": 14039,
+    "Daily_ICU_occupancy_UK": 3036,
+    "Daily_ICU_occupancy_Italy": 1518,
+    "Daily_ICU_occupancy_France": 105,
+    "Daily_ICU_occupancy_Austria": 194,
+    "Daily_ICU_occupancy_Bulgaria": 41
+  },
+  {
+    "Day": 21,
+    "Daily_ICU_occupancy_USA": 14646,
+    "Daily_ICU_occupancy_UK": 2964,
+    "Daily_ICU_occupancy_Italy": 1672,
+    "Daily_ICU_occupancy_France": 129,
+    "Daily_ICU_occupancy_Austria": 196,
+    "Daily_ICU_occupancy_Bulgaria": 37
+  },
+  {
+    "Day": 22,
+    "Daily_ICU_occupancy_USA": 15130,
+    "Daily_ICU_occupancy_UK": 2867,
+    "Daily_ICU_occupancy_Italy": 1851,
+    "Daily_ICU_occupancy_France": 300,
+    "Daily_ICU_occupancy_Austria": 176,
+    "Daily_ICU_occupancy_Bulgaria": 41
+  },
+  {
+    "Day": 23,
+    "Daily_ICU_occupancy_USA": 14890,
+    "Daily_ICU_occupancy_UK": 2703,
+    "Daily_ICU_occupancy_Italy": 2060,
+    "Daily_ICU_occupancy_France": 699,
+    "Daily_ICU_occupancy_Austria": 169,
+    "Daily_ICU_occupancy_Bulgaria": 39
+  },
+  {
+    "Day": 24,
+    "Daily_ICU_occupancy_USA": 14769,
+    "Daily_ICU_occupancy_UK": 2702,
+    "Daily_ICU_occupancy_Italy": 2257,
+    "Daily_ICU_occupancy_France": 771,
+    "Daily_ICU_occupancy_Austria": 156,
+    "Daily_ICU_occupancy_Bulgaria": 39
+  },
+  {
+    "Day": 25,
+    "Daily_ICU_occupancy_USA": 14385,
+    "Daily_ICU_occupancy_UK": 2580,
+    "Daily_ICU_occupancy_Italy": 2498,
+    "Daily_ICU_occupancy_France": 1002,
+    "Daily_ICU_occupancy_Austria": 148,
+    "Daily_ICU_occupancy_Bulgaria": 40
+  },
+  {
+    "Day": 26,
+    "Daily_ICU_occupancy_USA": 14463,
+    "Daily_ICU_occupancy_UK": 2454,
+    "Daily_ICU_occupancy_Italy": 2655,
+    "Daily_ICU_occupancy_France": 1297,
+    "Daily_ICU_occupancy_Austria": 145,
+    "Daily_ICU_occupancy_Bulgaria": 43
+  },
+  {
+    "Day": 27,
+    "Daily_ICU_occupancy_USA": 14941,
+    "Daily_ICU_occupancy_UK": 2347,
+    "Daily_ICU_occupancy_Italy": 2857,
+    "Daily_ICU_occupancy_France": 1453,
+    "Daily_ICU_occupancy_Austria": 140,
+    "Daily_ICU_occupancy_Bulgaria": 43
+  },
+  {
+    "Day": 28,
+    "Daily_ICU_occupancy_USA": 15013,
+    "Daily_ICU_occupancy_UK": 2286,
+    "Daily_ICU_occupancy_Italy": 3009,
+    "Daily_ICU_occupancy_France": 1674,
+    "Daily_ICU_occupancy_Austria": 136,
+    "Daily_ICU_occupancy_Bulgaria": 40
+  },
+  {
+    "Day": 29,
+    "Daily_ICU_occupancy_USA": 14744,
+    "Daily_ICU_occupancy_UK": 2224,
+    "Daily_ICU_occupancy_Italy": 3204,
+    "Daily_ICU_occupancy_France": 2080,
+    "Daily_ICU_occupancy_Austria": 131,
+    "Daily_ICU_occupancy_Bulgaria": 40
+  },
+  {
+    "Day": 30,
+    "Daily_ICU_occupancy_USA": 14605,
+    "Daily_ICU_occupancy_UK": 2178,
+    "Daily_ICU_occupancy_Italy": 3396,
+    "Daily_ICU_occupancy_France": 2503,
+    "Daily_ICU_occupancy_Austria": 128,
+    "Daily_ICU_occupancy_Bulgaria": 37
+  },
+  {
+    "Day": 31,
+    "Daily_ICU_occupancy_USA": 14415,
+    "Daily_ICU_occupancy_UK": 2068,
+    "Daily_ICU_occupancy_Italy": 3489,
+    "Daily_ICU_occupancy_France": 2935,
+    "Daily_ICU_occupancy_Austria": 124,
+    "Daily_ICU_occupancy_Bulgaria": 39
+  },
+  {
+    "Day": 32,
+    "Daily_ICU_occupancy_USA": 14104,
+    "Daily_ICU_occupancy_UK": 2009,
+    "Daily_ICU_occupancy_Italy": 3612,
+    "Daily_ICU_occupancy_France": 3351,
+    "Daily_ICU_occupancy_Austria": 114,
+    "Daily_ICU_occupancy_Bulgaria": 38
+  },
+  {
+    "Day": 33,
+    "Daily_ICU_occupancy_USA": 13812,
+    "Daily_ICU_occupancy_UK": 1936,
+    "Daily_ICU_occupancy_Italy": 3732,
+    "Daily_ICU_occupancy_France": 3758,
+    "Daily_ICU_occupancy_Austria": 114,
+    "Daily_ICU_occupancy_Bulgaria": 43
+  },
+  {
+    "Day": 34,
+    "Daily_ICU_occupancy_USA": 13562,
+    "Daily_ICU_occupancy_UK": 1874,
+    "Daily_ICU_occupancy_Italy": 3856,
+    "Daily_ICU_occupancy_France": 4236,
+    "Daily_ICU_occupancy_Austria": 111,
+    "Daily_ICU_occupancy_Bulgaria": 49
+  },
+  {
+    "Day": 35,
+    "Daily_ICU_occupancy_USA": 13535,
+    "Daily_ICU_occupancy_UK": 1802,
+    "Daily_ICU_occupancy_Italy": 3906,
+    "Daily_ICU_occupancy_France": 4592,
+    "Daily_ICU_occupancy_Austria": 104,
+    "Daily_ICU_occupancy_Bulgaria": 56
+  },
+  {
+    "Day": 36,
+    "Daily_ICU_occupancy_USA": 13255,
+    "Daily_ICU_occupancy_UK": 1685,
+    "Daily_ICU_occupancy_Italy": 3981,
+    "Daily_ICU_occupancy_France": 5056,
+    "Daily_ICU_occupancy_Austria": 97,
+    "Daily_ICU_occupancy_Bulgaria": 58
+  },
+  {
+    "Day": 37,
+    "Daily_ICU_occupancy_USA": 12845,
+    "Daily_ICU_occupancy_UK": 1641,
+    "Daily_ICU_occupancy_Italy": 4023,
+    "Daily_ICU_occupancy_France": 5496,
+    "Daily_ICU_occupancy_Austria": 92,
+    "Daily_ICU_occupancy_Bulgaria": 50
+  },
+  {
+    "Day": 38,
+    "Daily_ICU_occupancy_USA": 12905,
+    "Daily_ICU_occupancy_UK": 1585,
+    "Daily_ICU_occupancy_Italy": 4035,
+    "Daily_ICU_occupancy_France": 5940,
+    "Daily_ICU_occupancy_Austria": 81,
+    "Daily_ICU_occupancy_Bulgaria": 51
+  },
+  {
+    "Day": 39,
+    "Daily_ICU_occupancy_USA": 12720,
+    "Daily_ICU_occupancy_UK": 1538,
+    "Daily_ICU_occupancy_Italy": 4053,
+    "Daily_ICU_occupancy_France": 6305,
+    "Daily_ICU_occupancy_Austria": 79,
+    "Daily_ICU_occupancy_Bulgaria": 51
+  },
+  {
+    "Day": 40,
+    "Daily_ICU_occupancy_USA": 12696,
+    "Daily_ICU_occupancy_UK": 1485,
+    "Daily_ICU_occupancy_Italy": 4068,
+    "Daily_ICU_occupancy_France": 6556,
+    "Daily_ICU_occupancy_Austria": 72,
+    "Daily_ICU_occupancy_Bulgaria": 49
+  },
+  {
+    "Day": 41,
+    "Daily_ICU_occupancy_USA": 12628,
+    "Daily_ICU_occupancy_UK": 1414,
+    "Daily_ICU_occupancy_Italy": 3994,
+    "Daily_ICU_occupancy_France": 6723,
+    "Daily_ICU_occupancy_Austria": 68,
+    "Daily_ICU_occupancy_Bulgaria": 45
+  },
+  {
+    "Day": 42,
+    "Daily_ICU_occupancy_USA": 12478,
+    "Daily_ICU_occupancy_UK": 1342,
+    "Daily_ICU_occupancy_Italy": 3977,
+    "Daily_ICU_occupancy_France": 6859,
+    "Daily_ICU_occupancy_Austria": 59,
+    "Daily_ICU_occupancy_Bulgaria": 46
+  },
+  {
+    "Day": 43,
+    "Daily_ICU_occupancy_USA": 12136,
+    "Daily_ICU_occupancy_UK": 1314,
+    "Daily_ICU_occupancy_Italy": 3898,
+    "Daily_ICU_occupancy_France": 6948,
+    "Daily_ICU_occupancy_Austria": 55,
+    "Daily_ICU_occupancy_Bulgaria": 43
+  },
+  {
+    "Day": 44,
+    "Daily_ICU_occupancy_USA": 11780,
+    "Daily_ICU_occupancy_UK": 1302,
+    "Daily_ICU_occupancy_Italy": 3792,
+    "Daily_ICU_occupancy_France": 7004,
+    "Daily_ICU_occupancy_Austria": 54,
+    "Daily_ICU_occupancy_Bulgaria": 36
+  },
+  {
+    "Day": 45,
+    "Daily_ICU_occupancy_USA": 11496,
+    "Daily_ICU_occupancy_UK": 1234,
+    "Daily_ICU_occupancy_Italy": 3693,
+    "Daily_ICU_occupancy_France": 7019,
+    "Daily_ICU_occupancy_Austria": 47,
+    "Daily_ICU_occupancy_Bulgaria": 33
+  },
+  {
+    "Day": 46,
+    "Daily_ICU_occupancy_USA": 11393,
+    "Daily_ICU_occupancy_UK": 1196,
+    "Daily_ICU_occupancy_Italy": 3605,
+    "Daily_ICU_occupancy_France": 6937,
+    "Daily_ICU_occupancy_Austria": 50,
+    "Daily_ICU_occupancy_Bulgaria": 31
+  },
+  {
+    "Day": 47,
+    "Daily_ICU_occupancy_USA": 11148,
+    "Daily_ICU_occupancy_UK": 1141,
+    "Daily_ICU_occupancy_Italy": 3497,
+    "Daily_ICU_occupancy_France": 6875,
+    "Daily_ICU_occupancy_Austria": 48,
+    "Daily_ICU_occupancy_Bulgaria": 29
+  },
+  {
+    "Day": 48,
+    "Daily_ICU_occupancy_USA": 11240,
+    "Daily_ICU_occupancy_UK": 1106,
+    "Daily_ICU_occupancy_Italy": 3381,
+    "Daily_ICU_occupancy_France": 6752,
+    "Daily_ICU_occupancy_Austria": 45,
+    "Daily_ICU_occupancy_Bulgaria": 29
+  },
+  {
+    "Day": 49,
+    "Daily_ICU_occupancy_USA": 10990,
+    "Daily_ICU_occupancy_UK": 1034,
+    "Daily_ICU_occupancy_Italy": 3343,
+    "Daily_ICU_occupancy_France": 6714,
+    "Daily_ICU_occupancy_Austria": 39,
+    "Daily_ICU_occupancy_Bulgaria": 22
+  },
+  {
+    "Day": 50,
+    "Daily_ICU_occupancy_USA": 10655,
+    "Daily_ICU_occupancy_UK": 1008,
+    "Daily_ICU_occupancy_Italy": 3260,
+    "Daily_ICU_occupancy_France": 6690,
+    "Daily_ICU_occupancy_Austria": 37,
+    "Daily_ICU_occupancy_Bulgaria": 20
+  },
+  {
+    "Day": 51,
+    "Daily_ICU_occupancy_USA": 10484,
+    "Daily_ICU_occupancy_UK": 964,
+    "Daily_ICU_occupancy_Italy": 3186,
+    "Daily_ICU_occupancy_France": 6599,
+    "Daily_ICU_occupancy_Austria": 32,
+    "Daily_ICU_occupancy_Bulgaria": 21
+  },
+  {
+    "Day": 52,
+    "Daily_ICU_occupancy_USA": 10278,
+    "Daily_ICU_occupancy_UK": 926,
+    "Daily_ICU_occupancy_Italy": 3079,
+    "Daily_ICU_occupancy_France": 6331,
+    "Daily_ICU_occupancy_Austria": 31,
+    "Daily_ICU_occupancy_Bulgaria": 22
+  },
+  {
+    "Day": 53,
+    "Daily_ICU_occupancy_USA": 9934,
+    "Daily_ICU_occupancy_UK": 886,
+    "Daily_ICU_occupancy_Italy": 2936,
+    "Daily_ICU_occupancy_France": 6139,
+    "Daily_ICU_occupancy_Austria": 28,
+    "Daily_ICU_occupancy_Bulgaria": 20
+  },
+  {
+    "Day": 54,
+    "Daily_ICU_occupancy_USA": 9754,
+    "Daily_ICU_occupancy_UK": 863,
+    "Daily_ICU_occupancy_Italy": 2812,
+    "Daily_ICU_occupancy_France": 5922,
+    "Daily_ICU_occupancy_Austria": 29,
+    "Daily_ICU_occupancy_Bulgaria": 20
+  },
+  {
+    "Day": 55,
+    "Daily_ICU_occupancy_USA": 9598,
+    "Daily_ICU_occupancy_UK": 847,
+    "Daily_ICU_occupancy_Italy": 2733,
+    "Daily_ICU_occupancy_France": 5733,
+    "Daily_ICU_occupancy_Austria": 31,
+    "Daily_ICU_occupancy_Bulgaria": 18
+  },
+  {
+    "Day": 56,
+    "Daily_ICU_occupancy_USA": 9521,
+    "Daily_ICU_occupancy_UK": 783,
+    "Daily_ICU_occupancy_Italy": 2635,
+    "Daily_ICU_occupancy_France": 5644,
+    "Daily_ICU_occupancy_Austria": 32,
+    "Daily_ICU_occupancy_Bulgaria": 17
+  },
+  {
+    "Day": 57,
+    "Daily_ICU_occupancy_USA": 9090,
+    "Daily_ICU_occupancy_UK": 751,
+    "Daily_ICU_occupancy_Italy": 2573,
+    "Daily_ICU_occupancy_France": 5584,
+    "Daily_ICU_occupancy_Austria": 32,
+    "Daily_ICU_occupancy_Bulgaria": 16
+  },
+  {
+    "Day": 58,
+    "Daily_ICU_occupancy_USA": 9049,
+    "Daily_ICU_occupancy_UK": 719,
+    "Daily_ICU_occupancy_Italy": 2471,
+    "Daily_ICU_occupancy_France": 5334,
+    "Daily_ICU_occupancy_Austria": 30,
+    "Daily_ICU_occupancy_Bulgaria": 20
+  },
+  {
+    "Day": 59,
+    "Daily_ICU_occupancy_USA": 8733,
+    "Daily_ICU_occupancy_UK": 704,
+    "Daily_ICU_occupancy_Italy": 2384,
+    "Daily_ICU_occupancy_France": 5127,
+    "Daily_ICU_occupancy_Austria": 25,
+    "Daily_ICU_occupancy_Bulgaria": 9
+  },
+  {
+    "Day": 60,
+    "Daily_ICU_occupancy_USA": 8485,
+    "Daily_ICU_occupancy_UK": 679,
+    "Daily_ICU_occupancy_Italy": 2267,
+    "Daily_ICU_occupancy_France": 4967,
+    "Daily_ICU_occupancy_Austria": 23,
+    "Daily_ICU_occupancy_Bulgaria": 8
+  },
+  {
+    "Day": 61,
+    "Daily_ICU_occupancy_USA": 8467,
+    "Daily_ICU_occupancy_UK": 652,
+    "Daily_ICU_occupancy_Italy": 2173,
+    "Daily_ICU_occupancy_France": 4785,
+    "Daily_ICU_occupancy_Austria": 27,
+    "Daily_ICU_occupancy_Bulgaria": 8
+  },
+  {
+    "Day": 62,
+    "Daily_ICU_occupancy_USA": 8585,
+    "Daily_ICU_occupancy_UK": 636,
+    "Daily_ICU_occupancy_Italy": 2102,
+    "Daily_ICU_occupancy_France": 4641,
+    "Daily_ICU_occupancy_Austria": 29,
+    "Daily_ICU_occupancy_Bulgaria": 12
+  },
+  {
+    "Day": 63,
+    "Daily_ICU_occupancy_USA": 8547,
+    "Daily_ICU_occupancy_UK": 602,
+    "Daily_ICU_occupancy_Italy": 2009,
+    "Daily_ICU_occupancy_France": 4598,
+    "Daily_ICU_occupancy_Austria": 26,
+    "Daily_ICU_occupancy_Bulgaria": 12
+  },
+  {
+    "Day": 64,
+    "Daily_ICU_occupancy_USA": 8389,
+    "Daily_ICU_occupancy_UK": 571,
+    "Daily_ICU_occupancy_Italy": 1956,
+    "Daily_ICU_occupancy_France": 4526,
+    "Daily_ICU_occupancy_Austria": 21,
+    "Daily_ICU_occupancy_Bulgaria": 12
+  },
+  {
+    "Day": 65,
+    "Daily_ICU_occupancy_USA": 8174,
+    "Daily_ICU_occupancy_UK": 554,
+    "Daily_ICU_occupancy_Italy": 1863,
+    "Daily_ICU_occupancy_France": 4392,
+    "Daily_ICU_occupancy_Austria": 22,
+    "Daily_ICU_occupancy_Bulgaria": 15
+  },
+  {
+    "Day": 66,
+    "Daily_ICU_occupancy_USA": 7956,
+    "Daily_ICU_occupancy_UK": 540,
+    "Daily_ICU_occupancy_Italy": 1795,
+    "Daily_ICU_occupancy_France": 4128,
+    "Daily_ICU_occupancy_Austria": 20,
+    "Daily_ICU_occupancy_Bulgaria": 13
+  },
+  {
+    "Day": 67,
+    "Daily_ICU_occupancy_USA": 7626,
+    "Daily_ICU_occupancy_UK": 515,
+    "Daily_ICU_occupancy_Italy": 1694,
+    "Daily_ICU_occupancy_France": 3947,
+    "Daily_ICU_occupancy_Austria": 17,
+    "Daily_ICU_occupancy_Bulgaria": 17
+  },
+  {
+    "Day": 68,
+    "Daily_ICU_occupancy_USA": 7591,
+    "Daily_ICU_occupancy_UK": 509,
+    "Daily_ICU_occupancy_Italy": 1578,
+    "Daily_ICU_occupancy_France": 3819,
+    "Daily_ICU_occupancy_Austria": 17,
+    "Daily_ICU_occupancy_Bulgaria": 15
+  },
+  {
+    "Day": 69,
+    "Daily_ICU_occupancy_USA": 7407,
+    "Daily_ICU_occupancy_UK": 491,
+    "Daily_ICU_occupancy_Italy": 1539,
+    "Daily_ICU_occupancy_France": 3770,
+    "Daily_ICU_occupancy_Austria": 17,
+    "Daily_ICU_occupancy_Bulgaria": 15
+  },
+  {
+    "Day": 70,
+    "Daily_ICU_occupancy_USA": 7227,
+    "Daily_ICU_occupancy_UK": 439,
+    "Daily_ICU_occupancy_Italy": 1501,
+    "Daily_ICU_occupancy_France": 3762,
+    "Daily_ICU_occupancy_Austria": 19,
+    "Daily_ICU_occupancy_Bulgaria": 16
+  },
+  {
+    "Day": 71,
+    "Daily_ICU_occupancy_USA": 7057,
+    "Daily_ICU_occupancy_UK": 390,
+    "Daily_ICU_occupancy_Italy": 1479,
+    "Daily_ICU_occupancy_France": 3639,
+    "Daily_ICU_occupancy_Austria": 17,
+    "Daily_ICU_occupancy_Bulgaria": 15
+  },
+  {
+    "Day": 72,
+    "Daily_ICU_occupancy_USA": 6920,
+    "Daily_ICU_occupancy_UK": 393,
+    "Daily_ICU_occupancy_Italy": 1427,
+    "Daily_ICU_occupancy_France": 3375,
+    "Daily_ICU_occupancy_Austria": 14,
+    "Daily_ICU_occupancy_Bulgaria": 14
+  },
+  {
+    "Day": 73,
+    "Daily_ICU_occupancy_USA": 6762,
+    "Daily_ICU_occupancy_UK": 390,
+    "Daily_ICU_occupancy_Italy": 1333,
+    "Daily_ICU_occupancy_France": 3095,
+    "Daily_ICU_occupancy_Austria": 9,
+    "Daily_ICU_occupancy_Bulgaria": 13
+  },
+  {
+    "Day": 74,
+    "Daily_ICU_occupancy_USA": 6501,
+    "Daily_ICU_occupancy_UK": 393,
+    "Daily_ICU_occupancy_Italy": 1311,
+    "Daily_ICU_occupancy_France": 2911,
+    "Daily_ICU_occupancy_Austria": 10,
+    "Daily_ICU_occupancy_Bulgaria": 12
+  },
+  {
+    "Day": 75,
+    "Daily_ICU_occupancy_USA": 6402,
+    "Daily_ICU_occupancy_UK": 385,
+    "Daily_ICU_occupancy_Italy": 1168,
+    "Daily_ICU_occupancy_France": 2820,
+    "Daily_ICU_occupancy_Austria": 12,
+    "Daily_ICU_occupancy_Bulgaria": 13
+  },
+  {
+    "Day": 76,
+    "Daily_ICU_occupancy_USA": 6457,
+    "Daily_ICU_occupancy_UK": 378,
+    "Daily_ICU_occupancy_Italy": 1034,
+    "Daily_ICU_occupancy_France": 2764,
+    "Daily_ICU_occupancy_Austria": 15,
+    "Daily_ICU_occupancy_Bulgaria": 17
+  },
+  {
+    "Day": 77,
+    "Daily_ICU_occupancy_USA": 6249,
+    "Daily_ICU_occupancy_UK": 357,
+    "Daily_ICU_occupancy_Italy": 1027,
+    "Daily_ICU_occupancy_France": 2728,
+    "Daily_ICU_occupancy_Austria": 12,
+    "Daily_ICU_occupancy_Bulgaria": 13
+  },
+  {
+    "Day": 78,
+    "Daily_ICU_occupancy_USA": 6074,
+    "Daily_ICU_occupancy_UK": 352,
+    "Daily_ICU_occupancy_Italy": 999,
+    "Daily_ICU_occupancy_France": 2666,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 13
+  },
+  {
+    "Day": 79,
+    "Daily_ICU_occupancy_USA": 6017,
+    "Daily_ICU_occupancy_UK": 330,
+    "Daily_ICU_occupancy_Italy": 952,
+    "Daily_ICU_occupancy_France": 2496,
+    "Daily_ICU_occupancy_Austria": 8,
+    "Daily_ICU_occupancy_Bulgaria": 11
+  },
+  {
+    "Day": 80,
+    "Daily_ICU_occupancy_USA": 5883,
+    "Daily_ICU_occupancy_UK": 315,
+    "Daily_ICU_occupancy_Italy": 893,
+    "Daily_ICU_occupancy_France": 2385,
+    "Daily_ICU_occupancy_Austria": 7,
+    "Daily_ICU_occupancy_Bulgaria": 16
+  },
+  {
+    "Day": 81,
+    "Daily_ICU_occupancy_USA": 5749,
+    "Daily_ICU_occupancy_UK": 310,
+    "Daily_ICU_occupancy_Italy": 855,
+    "Daily_ICU_occupancy_France": 2256,
+    "Daily_ICU_occupancy_Austria": 8,
+    "Daily_ICU_occupancy_Bulgaria": 16
+  },
+  {
+    "Day": 82,
+    "Daily_ICU_occupancy_USA": 5703,
+    "Daily_ICU_occupancy_UK": 340,
+    "Daily_ICU_occupancy_Italy": 808,
+    "Daily_ICU_occupancy_France": 2162,
+    "Daily_ICU_occupancy_Austria": 8,
+    "Daily_ICU_occupancy_Bulgaria": 16
+  },
+  {
+    "Day": 83,
+    "Daily_ICU_occupancy_USA": 5570,
+    "Daily_ICU_occupancy_UK": 311,
+    "Daily_ICU_occupancy_Italy": 775,
+    "Daily_ICU_occupancy_France": 2091,
+    "Daily_ICU_occupancy_Austria": 10,
+    "Daily_ICU_occupancy_Bulgaria": 18
+  },
+  {
+    "Day": 84,
+    "Daily_ICU_occupancy_USA": 5612,
+    "Daily_ICU_occupancy_UK": 316,
+    "Daily_ICU_occupancy_Italy": 762,
+    "Daily_ICU_occupancy_France": 2047,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 25
+  },
+  {
+    "Day": 85,
+    "Daily_ICU_occupancy_USA": 5464,
+    "Daily_ICU_occupancy_UK": 276,
+    "Daily_ICU_occupancy_Italy": 749,
+    "Daily_ICU_occupancy_France": 1958,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 31
+  },
+  {
+    "Day": 86,
+    "Daily_ICU_occupancy_USA": 5341,
+    "Daily_ICU_occupancy_UK": 268,
+    "Daily_ICU_occupancy_Italy": 716,
+    "Daily_ICU_occupancy_France": 1854,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 32
+  },
+  {
+    "Day": 87,
+    "Daily_ICU_occupancy_USA": 5229,
+    "Daily_ICU_occupancy_UK": 270,
+    "Daily_ICU_occupancy_Italy": 676,
+    "Daily_ICU_occupancy_France": 1754,
+    "Daily_ICU_occupancy_Austria": 10,
+    "Daily_ICU_occupancy_Bulgaria": 32
+  },
+  {
+    "Day": 88,
+    "Daily_ICU_occupancy_USA": 5195,
+    "Daily_ICU_occupancy_UK": 270,
+    "Daily_ICU_occupancy_Italy": 640,
+    "Daily_ICU_occupancy_France": 1708,
+    "Daily_ICU_occupancy_Austria": 10,
+    "Daily_ICU_occupancy_Bulgaria": 31
+  },
+  {
+    "Day": 89,
+    "Daily_ICU_occupancy_USA": 5323,
+    "Daily_ICU_occupancy_UK": 262,
+    "Daily_ICU_occupancy_Italy": 595,
+    "Daily_ICU_occupancy_France": 1664,
+    "Daily_ICU_occupancy_Austria": 9,
+    "Daily_ICU_occupancy_Bulgaria": 29
+  },
+  {
+    "Day": 90,
+    "Daily_ICU_occupancy_USA": 5402,
+    "Daily_ICU_occupancy_UK": 279,
+    "Daily_ICU_occupancy_Italy": 572,
+    "Daily_ICU_occupancy_France": 1628,
+    "Daily_ICU_occupancy_Austria": 8,
+    "Daily_ICU_occupancy_Bulgaria": 29
+  },
+  {
+    "Day": 91,
+    "Daily_ICU_occupancy_USA": 5293,
+    "Daily_ICU_occupancy_UK": 259,
+    "Daily_ICU_occupancy_Italy": 553,
+    "Daily_ICU_occupancy_France": 1618,
+    "Daily_ICU_occupancy_Austria": 6,
+    "Daily_ICU_occupancy_Bulgaria": 28
+  },
+  {
+    "Day": 92,
+    "Daily_ICU_occupancy_USA": 5320,
+    "Daily_ICU_occupancy_UK": 239,
+    "Daily_ICU_occupancy_Italy": 541,
+    "Daily_ICU_occupancy_France": 1572,
+    "Daily_ICU_occupancy_Austria": 9,
+    "Daily_ICU_occupancy_Bulgaria": 29
+  },
+  {
+    "Day": 93,
+    "Daily_ICU_occupancy_USA": 5283,
+    "Daily_ICU_occupancy_UK": 231,
+    "Daily_ICU_occupancy_Italy": 521,
+    "Daily_ICU_occupancy_France": 1519,
+    "Daily_ICU_occupancy_Austria": 7,
+    "Daily_ICU_occupancy_Bulgaria": 32
+  },
+  {
+    "Day": 94,
+    "Daily_ICU_occupancy_USA": 5314,
+    "Daily_ICU_occupancy_UK": 220,
+    "Daily_ICU_occupancy_Italy": 505,
+    "Daily_ICU_occupancy_France": 1467,
+    "Daily_ICU_occupancy_Austria": 7,
+    "Daily_ICU_occupancy_Bulgaria": 32
+  },
+  {
+    "Day": 95,
+    "Daily_ICU_occupancy_USA": 5252,
+    "Daily_ICU_occupancy_UK": 217,
+    "Daily_ICU_occupancy_Italy": 489,
+    "Daily_ICU_occupancy_France": 1395,
+    "Daily_ICU_occupancy_Austria": 8,
+    "Daily_ICU_occupancy_Bulgaria": 28
+  },
+  {
+    "Day": 96,
+    "Daily_ICU_occupancy_USA": 5380,
+    "Daily_ICU_occupancy_UK": 209,
+    "Daily_ICU_occupancy_Italy": 475,
+    "Daily_ICU_occupancy_France": 1328,
+    "Daily_ICU_occupancy_Austria": 10,
+    "Daily_ICU_occupancy_Bulgaria": 32
+  },
+  {
+    "Day": 97,
+    "Daily_ICU_occupancy_USA": 5424,
+    "Daily_ICU_occupancy_UK": 197,
+    "Daily_ICU_occupancy_Italy": 450,
+    "Daily_ICU_occupancy_France": 1293,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 33
+  },
+  {
+    "Day": 98,
+    "Daily_ICU_occupancy_USA": 5512,
+    "Daily_ICU_occupancy_UK": 185,
+    "Daily_ICU_occupancy_Italy": 435,
+    "Daily_ICU_occupancy_France": 1287,
+    "Daily_ICU_occupancy_Austria": 10,
+    "Daily_ICU_occupancy_Bulgaria": 33
+  },
+  {
+    "Day": 99,
+    "Daily_ICU_occupancy_USA": 5626,
+    "Daily_ICU_occupancy_UK": 188,
+    "Daily_ICU_occupancy_Italy": 424,
+    "Daily_ICU_occupancy_France": 1270,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 29
+  },
+  {
+    "Day": 100,
+    "Daily_ICU_occupancy_USA": 5597,
+    "Daily_ICU_occupancy_UK": 191,
+    "Daily_ICU_occupancy_Italy": 408,
+    "Daily_ICU_occupancy_France": 1221,
+    "Daily_ICU_occupancy_Austria": 12,
+    "Daily_ICU_occupancy_Bulgaria": 27
+  },
+  {
+    "Day": 101,
+    "Daily_ICU_occupancy_USA": 5633,
+    "Daily_ICU_occupancy_UK": 168,
+    "Daily_ICU_occupancy_Italy": 353,
+    "Daily_ICU_occupancy_France": 1179,
+    "Daily_ICU_occupancy_Austria": 9,
+    "Daily_ICU_occupancy_Bulgaria": 28
+  },
+  {
+    "Day": 102,
+    "Daily_ICU_occupancy_USA": 5653,
+    "Daily_ICU_occupancy_UK": 159,
+    "Daily_ICU_occupancy_Italy": 338,
+    "Daily_ICU_occupancy_France": 1133,
+    "Daily_ICU_occupancy_Austria": 9,
+    "Daily_ICU_occupancy_Bulgaria": 28
+  },
+  {
+    "Day": 103,
+    "Daily_ICU_occupancy_USA": 5687,
+    "Daily_ICU_occupancy_UK": 162,
+    "Daily_ICU_occupancy_Italy": 316,
+    "Daily_ICU_occupancy_France": 1065,
+    "Daily_ICU_occupancy_Austria": 10,
+    "Daily_ICU_occupancy_Bulgaria": 28
+  },
+  {
+    "Day": 104,
+    "Daily_ICU_occupancy_USA": 5832,
+    "Daily_ICU_occupancy_UK": 145,
+    "Daily_ICU_occupancy_Italy": 293,
+    "Daily_ICU_occupancy_France": 1030,
+    "Daily_ICU_occupancy_Austria": 8,
+    "Daily_ICU_occupancy_Bulgaria": 33
+  },
+  {
+    "Day": 105,
+    "Daily_ICU_occupancy_USA": 5874,
+    "Daily_ICU_occupancy_UK": 153,
+    "Daily_ICU_occupancy_Italy": 287,
+    "Daily_ICU_occupancy_France": 1024,
+    "Daily_ICU_occupancy_Austria": 9,
+    "Daily_ICU_occupancy_Bulgaria": 34
+  },
+  {
+    "Day": 106,
+    "Daily_ICU_occupancy_USA": 5845,
+    "Daily_ICU_occupancy_UK": 142,
+    "Daily_ICU_occupancy_Italy": 283,
+    "Daily_ICU_occupancy_France": 995,
+    "Daily_ICU_occupancy_Austria": 10,
+    "Daily_ICU_occupancy_Bulgaria": 34
+  },
+  {
+    "Day": 107,
+    "Daily_ICU_occupancy_USA": 5896,
+    "Daily_ICU_occupancy_UK": 143,
+    "Daily_ICU_occupancy_Italy": 263,
+    "Daily_ICU_occupancy_France": 926,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 34
+  },
+  {
+    "Day": 108,
+    "Daily_ICU_occupancy_USA": 5939,
+    "Daily_ICU_occupancy_UK": 137,
+    "Daily_ICU_occupancy_Italy": 249,
+    "Daily_ICU_occupancy_France": 904,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 31
+  },
+  {
+    "Day": 109,
+    "Daily_ICU_occupancy_USA": 5930,
+    "Daily_ICU_occupancy_UK": 131,
+    "Daily_ICU_occupancy_Italy": 236,
+    "Daily_ICU_occupancy_France": 875,
+    "Daily_ICU_occupancy_Austria": 11,
+    "Daily_ICU_occupancy_Bulgaria": 24
+  },
+  {
+    "Day": 110,
+    "Daily_ICU_occupancy_USA": 6074,
+    "Daily_ICU_occupancy_UK": 129,
+    "Daily_ICU_occupancy_Italy": 227,
+    "Daily_ICU_occupancy_France": 851,
+    "Daily_ICU_occupancy_Austria": 14,
+    "Daily_ICU_occupancy_Bulgaria": 27
+  },
+  {
+    "Day": 111,
+    "Daily_ICU_occupancy_USA": 6235,
+    "Daily_ICU_occupancy_UK": 137,
+    "Daily_ICU_occupancy_Italy": 220,
+    "Daily_ICU_occupancy_France": 843,
+    "Daily_ICU_occupancy_Austria": 16,
+    "Daily_ICU_occupancy_Bulgaria": 28
+  },
+  {
+    "Day": 112,
+    "Daily_ICU_occupancy_USA": 6317,
+    "Daily_ICU_occupancy_UK": 110,
+    "Daily_ICU_occupancy_Italy": 209,
+    "Daily_ICU_occupancy_France": 841,
+    "Daily_ICU_occupancy_Austria": 18,
+    "Daily_ICU_occupancy_Bulgaria": 33
+  },
+  {
+    "Day": 113,
+    "Daily_ICU_occupancy_USA": 6359,
+    "Daily_ICU_occupancy_UK": 111,
+    "Daily_ICU_occupancy_Italy": 207,
+    "Daily_ICU_occupancy_France": 818,
+    "Daily_ICU_occupancy_Austria": 18,
+    "Daily_ICU_occupancy_Bulgaria": 34
+  },
+  {
+    "Day": 114,
+    "Daily_ICU_occupancy_USA": 6452,
+    "Daily_ICU_occupancy_UK": 104,
+    "Daily_ICU_occupancy_Italy": 177,
+    "Daily_ICU_occupancy_France": 792,
+    "Daily_ICU_occupancy_Austria": 15,
+    "Daily_ICU_occupancy_Bulgaria": 39
+  },
+  {
+    "Day": 115,
+    "Daily_ICU_occupancy_USA": 6397,
+    "Daily_ICU_occupancy_UK": 93,
+    "Daily_ICU_occupancy_Italy": 163,
+    "Daily_ICU_occupancy_France": 744,
+    "Daily_ICU_occupancy_Austria": 17,
+    "Daily_ICU_occupancy_Bulgaria": 40
+  },
+  {
+    "Day": 116,
+    "Daily_ICU_occupancy_USA": 6384,
+    "Daily_ICU_occupancy_UK": 92,
+    "Daily_ICU_occupancy_Italy": 168,
+    "Daily_ICU_occupancy_France": 724,
+    "Daily_ICU_occupancy_Austria": 16,
+    "Daily_ICU_occupancy_Bulgaria": 37
+  },
+  {
+    "Day": 117,
+    "Daily_ICU_occupancy_USA": 6557,
+    "Daily_ICU_occupancy_UK": 97,
+    "Daily_ICU_occupancy_Italy": 161,
+    "Daily_ICU_occupancy_France": 699,
+    "Daily_ICU_occupancy_Austria": 15,
+    "Daily_ICU_occupancy_Bulgaria": 34
+  },
+  {
+    "Day": 118,
+    "Daily_ICU_occupancy_USA": 6711,
+    "Daily_ICU_occupancy_UK": 93,
+    "Daily_ICU_occupancy_Italy": 152,
+    "Daily_ICU_occupancy_France": 687,
+    "Daily_ICU_occupancy_Austria": 16,
+    "Daily_ICU_occupancy_Bulgaria": 42
+  },
+  {
+    "Day": 119,
+    "Daily_ICU_occupancy_USA": 10457,
+    "Daily_ICU_occupancy_UK": 87,
+    "Daily_ICU_occupancy_Italy": 148,
+    "Daily_ICU_occupancy_France": 687,
+    "Daily_ICU_occupancy_Austria": 15,
+    "Daily_ICU_occupancy_Bulgaria": 43
+  },
+  {
+    "Day": 120,
+    "Daily_ICU_occupancy_USA": 10414,
+    "Daily_ICU_occupancy_UK": 84,
+    "Daily_ICU_occupancy_Italy": 127,
+    "Daily_ICU_occupancy_France": 673,
+    "Daily_ICU_occupancy_Austria": 20,
+    "Daily_ICU_occupancy_Bulgaria": 46
+  },
+  {
+    "Day": 121,
+    "Daily_ICU_occupancy_USA": 10395,
+    "Daily_ICU_occupancy_UK": 86,
+    "Daily_ICU_occupancy_Italy": 115,
+    "Daily_ICU_occupancy_France": 654,
+    "Daily_ICU_occupancy_Austria": 18,
+    "Daily_ICU_occupancy_Bulgaria": 43
+  },
+  {
+    "Day": 122,
+    "Daily_ICU_occupancy_USA": 10380,
+    "Daily_ICU_occupancy_UK": 92,
+    "Daily_ICU_occupancy_Italy": 107,
+    "Daily_ICU_occupancy_France": 630,
+    "Daily_ICU_occupancy_Austria": 16,
+    "Daily_ICU_occupancy_Bulgaria": 41
+  },
+  {
+    "Day": 123,
+    "Daily_ICU_occupancy_USA": 10353,
+    "Daily_ICU_occupancy_UK": 81,
+    "Daily_ICU_occupancy_Italy": 103,
+    "Daily_ICU_occupancy_France": 623,
+    "Daily_ICU_occupancy_Austria": 19,
+    "Daily_ICU_occupancy_Bulgaria": 44
+  },
+  {
+    "Day": 124,
+    "Daily_ICU_occupancy_USA": 10328,
+    "Daily_ICU_occupancy_UK": 77,
+    "Daily_ICU_occupancy_Italy": 105,
+    "Daily_ICU_occupancy_France": 606,
+    "Daily_ICU_occupancy_Austria": 20,
+    "Daily_ICU_occupancy_Bulgaria": 47
+  },
+  {
+    "Day": 125,
+    "Daily_ICU_occupancy_USA": 10463,
+    "Daily_ICU_occupancy_UK": 76,
+    "Daily_ICU_occupancy_Italy": 97,
+    "Daily_ICU_occupancy_France": 594,
+    "Daily_ICU_occupancy_Austria": 21,
+    "Daily_ICU_occupancy_Bulgaria": 55
+  },
+  {
+    "Day": 126,
+    "Daily_ICU_occupancy_USA": 10539,
+    "Daily_ICU_occupancy_UK": 73,
+    "Daily_ICU_occupancy_Italy": 98,
+    "Daily_ICU_occupancy_France": 594,
+    "Daily_ICU_occupancy_Austria": 23,
+    "Daily_ICU_occupancy_Bulgaria": 54
+  },
+  {
+    "Day": 127,
+    "Daily_ICU_occupancy_USA": 10523,
+    "Daily_ICU_occupancy_UK": 69,
+    "Daily_ICU_occupancy_Italy": 96,
+    "Daily_ICU_occupancy_France": 591,
+    "Daily_ICU_occupancy_Austria": 25,
+    "Daily_ICU_occupancy_Bulgaria": 54
+  },
+  {
+    "Day": 128,
+    "Daily_ICU_occupancy_USA": 10472,
+    "Daily_ICU_occupancy_UK": 67,
+    "Daily_ICU_occupancy_Italy": 93,
+    "Daily_ICU_occupancy_France": 574,
+    "Daily_ICU_occupancy_Austria": 25,
+    "Daily_ICU_occupancy_Bulgaria": 64
+  },
+  {
+    "Day": 129,
+    "Daily_ICU_occupancy_USA": 10450,
+    "Daily_ICU_occupancy_UK": 62,
+    "Daily_ICU_occupancy_Italy": 87,
+    "Daily_ICU_occupancy_France": 554,
+    "Daily_ICU_occupancy_Austria": 25,
+    "Daily_ICU_occupancy_Bulgaria": 63
+  },
+  {
+    "Day": 130,
+    "Daily_ICU_occupancy_USA": 10415,
+    "Daily_ICU_occupancy_UK": 65,
+    "Daily_ICU_occupancy_Italy": 82,
+    "Daily_ICU_occupancy_France": 545,
+    "Daily_ICU_occupancy_Austria": 24,
+    "Daily_ICU_occupancy_Bulgaria": 63
+  },
+  {
+    "Day": 131,
+    "Daily_ICU_occupancy_USA": 10230,
+    "Daily_ICU_occupancy_UK": 70,
+    "Daily_ICU_occupancy_Italy": 79,
+    "Daily_ICU_occupancy_France": 533,
+    "Daily_ICU_occupancy_Austria": 22,
+    "Daily_ICU_occupancy_Bulgaria": 58
+  },
+  {
+    "Day": 132,
+    "Daily_ICU_occupancy_USA": 10207,
+    "Daily_ICU_occupancy_UK": 73,
+    "Daily_ICU_occupancy_Italy": 71,
+    "Daily_ICU_occupancy_France": 517,
+    "Daily_ICU_occupancy_Austria": 24,
+    "Daily_ICU_occupancy_Bulgaria": 55
+  },
+  {
+    "Day": 133,
+    "Daily_ICU_occupancy_USA": 9986,
+    "Daily_ICU_occupancy_UK": 80,
+    "Daily_ICU_occupancy_Italy": 74,
+    "Daily_ICU_occupancy_France": 521,
+    "Daily_ICU_occupancy_Austria": 25,
+    "Daily_ICU_occupancy_Bulgaria": 56
+  },
+  {
+    "Day": 134,
+    "Daily_ICU_occupancy_USA": 9994,
+    "Daily_ICU_occupancy_UK": 75,
+    "Daily_ICU_occupancy_Italy": 72,
+    "Daily_ICU_occupancy_France": 521,
+    "Daily_ICU_occupancy_Austria": 25,
+    "Daily_ICU_occupancy_Bulgaria": 56
+  },
+  {
+    "Day": 135,
+    "Daily_ICU_occupancy_USA": 9691,
+    "Daily_ICU_occupancy_UK": 73,
+    "Daily_ICU_occupancy_Italy": 70,
+    "Daily_ICU_occupancy_France": 511,
+    "Daily_ICU_occupancy_Austria": 22,
+    "Daily_ICU_occupancy_Bulgaria": 61
+  },
+  {
+    "Day": 136,
+    "Daily_ICU_occupancy_USA": 9662,
+    "Daily_ICU_occupancy_UK": 76,
+    "Daily_ICU_occupancy_Italy": 71,
+    "Daily_ICU_occupancy_France": 503,
+    "Daily_ICU_occupancy_Austria": 19,
+    "Daily_ICU_occupancy_Bulgaria": 60
+  },
+  {
+    "Day": 137,
+    "Daily_ICU_occupancy_USA": 9307,
+    "Daily_ICU_occupancy_UK": 78,
+    "Daily_ICU_occupancy_Italy": 69,
+    "Daily_ICU_occupancy_France": 486,
+    "Daily_ICU_occupancy_Austria": 21,
+    "Daily_ICU_occupancy_Bulgaria": 63
+  },
+  {
+    "Day": 138,
+    "Daily_ICU_occupancy_USA": 9216,
+    "Daily_ICU_occupancy_UK": 73,
+    "Daily_ICU_occupancy_Italy": 65,
+    "Daily_ICU_occupancy_France": 471,
+    "Daily_ICU_occupancy_Austria": 19,
+    "Daily_ICU_occupancy_Bulgaria": 73
+  },
+  {
+    "Day": 139,
+    "Daily_ICU_occupancy_USA": 9136,
+    "Daily_ICU_occupancy_UK": 73,
+    "Daily_ICU_occupancy_Italy": 67,
+    "Daily_ICU_occupancy_France": 470,
+    "Daily_ICU_occupancy_Austria": 23,
+    "Daily_ICU_occupancy_Bulgaria": 74
+  },
+  {
+    "Day": 140,
+    "Daily_ICU_occupancy_USA": 9555,
+    "Daily_ICU_occupancy_UK": 70,
+    "Daily_ICU_occupancy_Italy": 68,
+    "Daily_ICU_occupancy_France": 473,
+    "Daily_ICU_occupancy_Austria": 19,
+    "Daily_ICU_occupancy_Bulgaria": 74
+  },
+  {
+    "Day": 141,
+    "Daily_ICU_occupancy_USA": 9487,
+    "Daily_ICU_occupancy_UK": 76,
+    "Daily_ICU_occupancy_Italy": 65,
+    "Daily_ICU_occupancy_France": 467,
+    "Daily_ICU_occupancy_Austria": 20,
+    "Daily_ICU_occupancy_Bulgaria": 65
+  },
+  {
+    "Day": 142,
+    "Daily_ICU_occupancy_USA": 9277,
+    "Daily_ICU_occupancy_UK": 72,
+    "Daily_ICU_occupancy_Italy": 60,
+    "Daily_ICU_occupancy_France": 465,
+    "Daily_ICU_occupancy_Austria": 21,
+    "Daily_ICU_occupancy_Bulgaria": 64
+  },
+  {
+    "Day": 143,
+    "Daily_ICU_occupancy_USA": 9087,
+    "Daily_ICU_occupancy_UK": 71,
+    "Daily_ICU_occupancy_Italy": 57,
+    "Daily_ICU_occupancy_France": 457,
+    "Daily_ICU_occupancy_Austria": 22,
+    "Daily_ICU_occupancy_Bulgaria": 60
+  },
+  {
+    "Day": 144,
+    "Daily_ICU_occupancy_USA": 8958,
+    "Daily_ICU_occupancy_UK": 72,
+    "Daily_ICU_occupancy_Italy": 53,
+    "Daily_ICU_occupancy_France": 456,
+    "Daily_ICU_occupancy_Austria": 22,
+    "Daily_ICU_occupancy_Bulgaria": 65
+  },
+  {
+    "Day": 145,
+    "Daily_ICU_occupancy_USA": 8871,
+    "Daily_ICU_occupancy_UK": 68,
+    "Daily_ICU_occupancy_Italy": 50,
+    "Daily_ICU_occupancy_France": 452,
+    "Daily_ICU_occupancy_Austria": 23,
+    "Daily_ICU_occupancy_Bulgaria": 59
+  },
+  {
+    "Day": 146,
+    "Daily_ICU_occupancy_USA": 8866,
+    "Daily_ICU_occupancy_UK": 68,
+    "Daily_ICU_occupancy_Italy": 50,
+    "Daily_ICU_occupancy_France": 450,
+    "Daily_ICU_occupancy_Austria": 23,
+    "Daily_ICU_occupancy_Bulgaria": 61
+  },
+  {
+    "Day": 147,
+    "Daily_ICU_occupancy_USA": 8744,
+    "Daily_ICU_occupancy_UK": 64,
+    "Daily_ICU_occupancy_Italy": 49,
+    "Daily_ICU_occupancy_France": 448,
+    "Daily_ICU_occupancy_Austria": 23,
+    "Daily_ICU_occupancy_Bulgaria": 63
+  },
+  {
+    "Day": 148,
+    "Daily_ICU_occupancy_USA": 8483,
+    "Daily_ICU_occupancy_UK": 71,
+    "Daily_ICU_occupancy_Italy": 47,
+    "Daily_ICU_occupancy_France": 442,
+    "Daily_ICU_occupancy_Austria": 23,
+    "Daily_ICU_occupancy_Bulgaria": 65
+  },
+  {
+    "Day": 149,
+    "Daily_ICU_occupancy_USA": 8357,
+    "Daily_ICU_occupancy_UK": 60,
+    "Daily_ICU_occupancy_Italy": 49,
+    "Daily_ICU_occupancy_France": 430,
+    "Daily_ICU_occupancy_Austria": 24,
+    "Daily_ICU_occupancy_Bulgaria": 62
+  },
+  {
+    "Day": 150,
+    "Daily_ICU_occupancy_USA": 8207,
+    "Daily_ICU_occupancy_UK": 66,
+    "Daily_ICU_occupancy_Italy": 48,
+    "Daily_ICU_occupancy_France": 420,
+    "Daily_ICU_occupancy_Austria": 27,
+    "Daily_ICU_occupancy_Bulgaria": 63
+  },
+  {
+    "Day": 151,
+    "Daily_ICU_occupancy_USA": 7949,
+    "Daily_ICU_occupancy_UK": 68,
+    "Daily_ICU_occupancy_Italy": 49,
+    "Daily_ICU_occupancy_France": 411,
+    "Daily_ICU_occupancy_Austria": 30,
+    "Daily_ICU_occupancy_Bulgaria": 61
+  },
+  {
+    "Day": 152,
+    "Daily_ICU_occupancy_USA": 7851,
+    "Daily_ICU_occupancy_UK": 71,
+    "Daily_ICU_occupancy_Italy": 46,
+    "Daily_ICU_occupancy_France": 385,
+    "Daily_ICU_occupancy_Austria": 30,
+    "Daily_ICU_occupancy_Bulgaria": 56
+  },
+  {
+    "Day": 153,
+    "Daily_ICU_occupancy_USA": 7863,
+    "Daily_ICU_occupancy_UK": 82,
+    "Daily_ICU_occupancy_Italy": 41,
+    "Daily_ICU_occupancy_France": 368,
+    "Daily_ICU_occupancy_Austria": 31,
+    "Daily_ICU_occupancy_Bulgaria": 57
+  },
+  {
+    "Day": 154,
+    "Daily_ICU_occupancy_USA": 7737,
+    "Daily_ICU_occupancy_UK": 81,
+    "Daily_ICU_occupancy_Italy": 44,
+    "Daily_ICU_occupancy_France": 367,
+    "Daily_ICU_occupancy_Austria": 30,
+    "Daily_ICU_occupancy_Bulgaria": 54
+  },
+  {
+    "Day": 155,
+    "Daily_ICU_occupancy_USA": 7717,
+    "Daily_ICU_occupancy_UK": 76,
+    "Daily_ICU_occupancy_Italy": 45,
+    "Daily_ICU_occupancy_France": 374,
+    "Daily_ICU_occupancy_Austria": 30,
+    "Daily_ICU_occupancy_Bulgaria": 53
+  },
+  {
+    "Day": 156,
+    "Daily_ICU_occupancy_USA": 7558,
+    "Daily_ICU_occupancy_UK": 69,
+    "Daily_ICU_occupancy_Italy": 40,
+    "Daily_ICU_occupancy_France": 361,
+    "Daily_ICU_occupancy_Austria": 29,
+    "Daily_ICU_occupancy_Bulgaria": 57
+  },
+  {
+    "Day": 157,
+    "Daily_ICU_occupancy_USA": 7413,
+    "Daily_ICU_occupancy_UK": 65,
+    "Daily_ICU_occupancy_Italy": 38,
+    "Daily_ICU_occupancy_France": 356,
+    "Daily_ICU_occupancy_Austria": 28,
+    "Daily_ICU_occupancy_Bulgaria": 60
+  },
+  {
+    "Day": 158,
+    "Daily_ICU_occupancy_USA": 7268,
+    "Daily_ICU_occupancy_UK": 69,
+    "Daily_ICU_occupancy_Italy": 47,
+    "Daily_ICU_occupancy_France": 357,
+    "Daily_ICU_occupancy_Austria": 28,
+    "Daily_ICU_occupancy_Bulgaria": 55
+  },
+  {
+    "Day": 159,
+    "Daily_ICU_occupancy_USA": 7043,
+    "Daily_ICU_occupancy_UK": 77,
+    "Daily_ICU_occupancy_Italy": 41,
+    "Daily_ICU_occupancy_France": 347,
+    "Daily_ICU_occupancy_Austria": 28,
+    "Daily_ICU_occupancy_Bulgaria": 56
+  },
+  {
+    "Day": 160,
+    "Daily_ICU_occupancy_USA": 7090,
+    "Daily_ICU_occupancy_UK": 80,
+    "Daily_ICU_occupancy_Italy": 43,
+    "Daily_ICU_occupancy_France": 344,
+    "Daily_ICU_occupancy_Austria": 29,
+    "Daily_ICU_occupancy_Bulgaria": 53
+  },
+  {
+    "Day": 161,
+    "Daily_ICU_occupancy_USA": 7087,
+    "Daily_ICU_occupancy_UK": 80,
+    "Daily_ICU_occupancy_Italy": 42,
+    "Daily_ICU_occupancy_France": 345,
+    "Daily_ICU_occupancy_Austria": 28,
+    "Daily_ICU_occupancy_Bulgaria": 53
+  },
+  {
+    "Day": 162,
+    "Daily_ICU_occupancy_USA": 6921,
+    "Daily_ICU_occupancy_UK": 78,
+    "Daily_ICU_occupancy_Italy": 41,
+    "Daily_ICU_occupancy_France": 360,
+    "Daily_ICU_occupancy_Austria": 36,
+    "Daily_ICU_occupancy_Bulgaria": 49
+  },
+  {
+    "Day": 163,
+    "Daily_ICU_occupancy_USA": 6924,
+    "Daily_ICU_occupancy_UK": 77,
+    "Daily_ICU_occupancy_Italy": 41,
+    "Daily_ICU_occupancy_France": 364,
+    "Daily_ICU_occupancy_Austria": 39,
+    "Daily_ICU_occupancy_Bulgaria": 46
+  },
+  {
+    "Day": 164,
+    "Daily_ICU_occupancy_USA": 6766,
+    "Daily_ICU_occupancy_UK": 86,
+    "Daily_ICU_occupancy_Italy": 41,
+    "Daily_ICU_occupancy_France": 360,
+    "Daily_ICU_occupancy_Austria": 41,
+    "Daily_ICU_occupancy_Bulgaria": 43
+  },
+  {
+    "Day": 165,
+    "Daily_ICU_occupancy_USA": 6700,
+    "Daily_ICU_occupancy_UK": 92,
+    "Daily_ICU_occupancy_Italy": 42,
+    "Daily_ICU_occupancy_France": 366,
+    "Daily_ICU_occupancy_Austria": 42,
+    "Daily_ICU_occupancy_Bulgaria": 37
+  },
+  {
+    "Day": 166,
+    "Daily_ICU_occupancy_USA": 6630,
+    "Daily_ICU_occupancy_UK": 105,
+    "Daily_ICU_occupancy_Italy": 42,
+    "Daily_ICU_occupancy_France": 359,
+    "Daily_ICU_occupancy_Austria": 44,
+    "Daily_ICU_occupancy_Bulgaria": 34
+  },
+  {
+    "Day": 167,
+    "Daily_ICU_occupancy_USA": 6542,
+    "Daily_ICU_occupancy_UK": 115,
+    "Daily_ICU_occupancy_Italy": 43,
+    "Daily_ICU_occupancy_France": 366,
+    "Daily_ICU_occupancy_Austria": 47,
+    "Daily_ICU_occupancy_Bulgaria": 37
+  },
+  {
+    "Day": 168,
+    "Daily_ICU_occupancy_USA": 6646,
+    "Daily_ICU_occupancy_UK": 124,
+    "Daily_ICU_occupancy_Italy": 45,
+    "Daily_ICU_occupancy_France": 368,
+    "Daily_ICU_occupancy_Austria": 49,
+    "Daily_ICU_occupancy_Bulgaria": 35
+  },
+  {
+    "Day": 169,
+    "Daily_ICU_occupancy_USA": 6531,
+    "Daily_ICU_occupancy_UK": 127,
+    "Daily_ICU_occupancy_Italy": 46,
+    "Daily_ICU_occupancy_France": 372,
+    "Daily_ICU_occupancy_Austria": 54,
+    "Daily_ICU_occupancy_Bulgaria": 33
+  },
+  {
+    "Day": 170,
+    "Daily_ICU_occupancy_USA": 6379,
+    "Daily_ICU_occupancy_UK": 138,
+    "Daily_ICU_occupancy_Italy": 49,
+    "Daily_ICU_occupancy_France": 367,
+    "Daily_ICU_occupancy_Austria": 55,
+    "Daily_ICU_occupancy_Bulgaria": 31
+  },
+  {
+    "Day": 171,
+    "Daily_ICU_occupancy_USA": 6451,
+    "Daily_ICU_occupancy_UK": 144,
+    "Daily_ICU_occupancy_Italy": 53,
+    "Daily_ICU_occupancy_France": 355,
+    "Daily_ICU_occupancy_Austria": 62,
+    "Daily_ICU_occupancy_Bulgaria": 29
+  },
+  {
+    "Day": 172,
+    "Daily_ICU_occupancy_USA": 6233,
+    "Daily_ICU_occupancy_UK": 165,
+    "Daily_ICU_occupancy_Italy": 55,
+    "Daily_ICU_occupancy_France": 351,
+    "Daily_ICU_occupancy_Austria": 84,
+    "Daily_ICU_occupancy_Bulgaria": 30
+  },
+  {
+    "Day": 173,
+    "Daily_ICU_occupancy_USA": 6238,
+    "Daily_ICU_occupancy_UK": 181,
+    "Daily_ICU_occupancy_Italy": 56,
+    "Daily_ICU_occupancy_France": 344,
+    "Daily_ICU_occupancy_Austria": 68,
+    "Daily_ICU_occupancy_Bulgaria": 36
+  },
+  {
+    "Day": 174,
+    "Daily_ICU_occupancy_USA": 6310,
+    "Daily_ICU_occupancy_UK": 211,
+    "Daily_ICU_occupancy_Italy": 55,
+    "Daily_ICU_occupancy_France": 353,
+    "Daily_ICU_occupancy_Austria": 67,
+    "Daily_ICU_occupancy_Bulgaria": 36
+  },
+  {
+    "Day": 175,
+    "Daily_ICU_occupancy_USA": 6308,
+    "Daily_ICU_occupancy_UK": 228,
+    "Daily_ICU_occupancy_Italy": 56,
+    "Daily_ICU_occupancy_France": 353,
+    "Daily_ICU_occupancy_Austria": 75,
+    "Daily_ICU_occupancy_Bulgaria": 41
+  },
+  {
+    "Day": 176,
+    "Daily_ICU_occupancy_USA": 6278,
+    "Daily_ICU_occupancy_UK": 243,
+    "Daily_ICU_occupancy_Italy": 58,
+    "Daily_ICU_occupancy_France": 361,
+    "Daily_ICU_occupancy_Austria": 77,
+    "Daily_ICU_occupancy_Bulgaria": 42
+  },
+  {
+    "Day": 177,
+    "Daily_ICU_occupancy_USA": 6175,
+    "Daily_ICU_occupancy_UK": 262,
+    "Daily_ICU_occupancy_Italy": 58,
+    "Daily_ICU_occupancy_France": 357,
+    "Daily_ICU_occupancy_Austria": 78,
+    "Daily_ICU_occupancy_Bulgaria": 44
+  },
+  {
+    "Day": 178,
+    "Daily_ICU_occupancy_USA": 6070,
+    "Daily_ICU_occupancy_UK": 261,
+    "Daily_ICU_occupancy_Italy": 66,
+    "Daily_ICU_occupancy_France": 362,
+    "Daily_ICU_occupancy_Austria": 78,
+    "Daily_ICU_occupancy_Bulgaria": 44
+  },
+  {
+    "Day": 179,
+    "Daily_ICU_occupancy_USA": 6015,
+    "Daily_ICU_occupancy_UK": 276,
+    "Daily_ICU_occupancy_Italy": 68,
+    "Daily_ICU_occupancy_France": 368,
+    "Daily_ICU_occupancy_Austria": 80,
+    "Daily_ICU_occupancy_Bulgaria": 47
+  },
+  {
+    "Day": 180,
+    "Daily_ICU_occupancy_USA": 6071,
+    "Daily_ICU_occupancy_UK": 297,
+    "Daily_ICU_occupancy_Italy": 69,
+    "Daily_ICU_occupancy_France": 367,
+    "Daily_ICU_occupancy_Austria": 84,
+    "Daily_ICU_occupancy_Bulgaria": 50
+  },
+  {
+    "Day": 181,
+    "Daily_ICU_occupancy_USA": 6111,
+    "Daily_ICU_occupancy_UK": 314,
+    "Daily_ICU_occupancy_Italy": 64,
+    "Daily_ICU_occupancy_France": 368,
+    "Daily_ICU_occupancy_Austria": 88,
+    "Daily_ICU_occupancy_Bulgaria": 54
+  },
+  {
+    "Day": 182,
+    "Daily_ICU_occupancy_USA": 6113,
+    "Daily_ICU_occupancy_UK": 332,
+    "Daily_ICU_occupancy_Italy": 69,
+    "Daily_ICU_occupancy_France": 371,
+    "Daily_ICU_occupancy_Austria": 90,
+    "Daily_ICU_occupancy_Bulgaria": 56
+  },
+  {
+    "Day": 183,
+    "Daily_ICU_occupancy_USA": 6168,
+    "Daily_ICU_occupancy_UK": 341,
+    "Daily_ICU_occupancy_Italy": 65,
+    "Daily_ICU_occupancy_France": 387,
+    "Daily_ICU_occupancy_Austria": 90,
+    "Daily_ICU_occupancy_Bulgaria": 59
+  },
+  {
+    "Day": 184,
+    "Daily_ICU_occupancy_USA": 6133,
+    "Daily_ICU_occupancy_UK": 368,
+    "Daily_ICU_occupancy_Italy": 66,
+    "Daily_ICU_occupancy_France": 401,
+    "Daily_ICU_occupancy_Austria": 98,
+    "Daily_ICU_occupancy_Bulgaria": 57
+  },
+  {
+    "Day": 185,
+    "Daily_ICU_occupancy_USA": 6057,
+    "Daily_ICU_occupancy_UK": 369,
+    "Daily_ICU_occupancy_Italy": 69,
+    "Daily_ICU_occupancy_France": 373,
+    "Daily_ICU_occupancy_Austria": 100,
+    "Daily_ICU_occupancy_Bulgaria": 53
+  },
+  {
+    "Day": 186,
+    "Daily_ICU_occupancy_USA": 6080,
+    "Daily_ICU_occupancy_UK": 369,
+    "Daily_ICU_occupancy_Italy": 67,
+    "Daily_ICU_occupancy_France": 375,
+    "Daily_ICU_occupancy_Austria": 97,
+    "Daily_ICU_occupancy_Bulgaria": 56
+  },
+  {
+    "Day": 187,
+    "Daily_ICU_occupancy_USA": 5981,
+    "Daily_ICU_occupancy_UK": 393,
+    "Daily_ICU_occupancy_Italy": 74,
+    "Daily_ICU_occupancy_France": 381,
+    "Daily_ICU_occupancy_Austria": 103,
+    "Daily_ICU_occupancy_Bulgaria": 58
+  },
+  {
+    "Day": 188,
+    "Daily_ICU_occupancy_USA": 6106,
+    "Daily_ICU_occupancy_UK": 410,
+    "Daily_ICU_occupancy_Italy": 79,
+    "Daily_ICU_occupancy_France": 394,
+    "Daily_ICU_occupancy_Austria": 101,
+    "Daily_ICU_occupancy_Bulgaria": 59
+  },
+  {
+    "Day": 189,
+    "Daily_ICU_occupancy_USA": 6145,
+    "Daily_ICU_occupancy_UK": 442,
+    "Daily_ICU_occupancy_Italy": 86,
+    "Daily_ICU_occupancy_France": 396,
+    "Daily_ICU_occupancy_Austria": 101,
+    "Daily_ICU_occupancy_Bulgaria": 62
+  },
+  {
+    "Day": 190,
+    "Daily_ICU_occupancy_USA": 6173,
+    "Daily_ICU_occupancy_UK": 436,
+    "Daily_ICU_occupancy_Italy": 94,
+    "Daily_ICU_occupancy_France": 403,
+    "Daily_ICU_occupancy_Austria": 100,
+    "Daily_ICU_occupancy_Bulgaria": 65
+  },
+  {
+    "Day": 191,
+    "Daily_ICU_occupancy_USA": 6106,
+    "Daily_ICU_occupancy_UK": 440,
+    "Daily_ICU_occupancy_Italy": 107,
+    "Daily_ICU_occupancy_France": 418,
+    "Daily_ICU_occupancy_Austria": 107,
+    "Daily_ICU_occupancy_Bulgaria": 64
+  },
+  {
+    "Day": 192,
+    "Daily_ICU_occupancy_USA": 5996,
+    "Daily_ICU_occupancy_UK": 470,
+    "Daily_ICU_occupancy_Italy": 109,
+    "Daily_ICU_occupancy_France": 440,
+    "Daily_ICU_occupancy_Austria": 103,
+    "Daily_ICU_occupancy_Bulgaria": 67
+  },
+  {
+    "Day": 193,
+    "Daily_ICU_occupancy_USA": 5974,
+    "Daily_ICU_occupancy_UK": 477,
+    "Daily_ICU_occupancy_Italy": 120,
+    "Daily_ICU_occupancy_France": 458,
+    "Daily_ICU_occupancy_Austria": 99,
+    "Daily_ICU_occupancy_Bulgaria": 74
+  },
+  {
+    "Day": 194,
+    "Daily_ICU_occupancy_USA": 6209,
+    "Daily_ICU_occupancy_UK": 507,
+    "Daily_ICU_occupancy_Italy": 121,
+    "Daily_ICU_occupancy_France": 467,
+    "Daily_ICU_occupancy_Austria": 96,
+    "Daily_ICU_occupancy_Bulgaria": 76
+  },
+  {
+    "Day": 195,
+    "Daily_ICU_occupancy_USA": 6438,
+    "Daily_ICU_occupancy_UK": 516,
+    "Daily_ICU_occupancy_Italy": 121,
+    "Daily_ICU_occupancy_France": 476,
+    "Daily_ICU_occupancy_Austria": 97,
+    "Daily_ICU_occupancy_Bulgaria": 79
+  },
+  {
+    "Day": 196,
+    "Daily_ICU_occupancy_USA": 6507,
+    "Daily_ICU_occupancy_UK": 563,
+    "Daily_ICU_occupancy_Italy": 133,
+    "Daily_ICU_occupancy_France": 480,
+    "Daily_ICU_occupancy_Austria": 107,
+    "Daily_ICU_occupancy_Bulgaria": 74
+  },
+  {
+    "Day": 197,
+    "Daily_ICU_occupancy_USA": 6621,
+    "Daily_ICU_occupancy_UK": 581,
+    "Daily_ICU_occupancy_Italy": 142,
+    "Daily_ICU_occupancy_France": 531,
+    "Daily_ICU_occupancy_Austria": 112,
+    "Daily_ICU_occupancy_Bulgaria": 88
+  },
+  {
+    "Day": 198,
+    "Daily_ICU_occupancy_USA": 6713,
+    "Daily_ICU_occupancy_UK": 592,
+    "Daily_ICU_occupancy_Italy": 143,
+    "Daily_ICU_occupancy_France": 568,
+    "Daily_ICU_occupancy_Austria": 119,
+    "Daily_ICU_occupancy_Bulgaria": 93
+  },
+  {
+    "Day": 199,
+    "Daily_ICU_occupancy_USA": 6683,
+    "Daily_ICU_occupancy_UK": 613,
+    "Daily_ICU_occupancy_Italy": 150,
+    "Daily_ICU_occupancy_France": 593,
+    "Daily_ICU_occupancy_Austria": 122,
+    "Daily_ICU_occupancy_Bulgaria": 107
+  },
+  {
+    "Day": 200,
+    "Daily_ICU_occupancy_USA": 6679,
+    "Daily_ICU_occupancy_UK": 629,
+    "Daily_ICU_occupancy_Italy": 164,
+    "Daily_ICU_occupancy_France": 608,
+    "Daily_ICU_occupancy_Austria": 130,
+    "Daily_ICU_occupancy_Bulgaria": 112
+  },
+  {
+    "Day": 201,
+    "Daily_ICU_occupancy_USA": 6807,
+    "Daily_ICU_occupancy_UK": 657,
+    "Daily_ICU_occupancy_Italy": 175,
+    "Daily_ICU_occupancy_France": 628,
+    "Daily_ICU_occupancy_Austria": 135,
+    "Daily_ICU_occupancy_Bulgaria": 127
+  },
+  {
+    "Day": 202,
+    "Daily_ICU_occupancy_USA": 7020,
+    "Daily_ICU_occupancy_UK": 697,
+    "Daily_ICU_occupancy_Italy": 182,
+    "Daily_ICU_occupancy_France": 655,
+    "Daily_ICU_occupancy_Austria": 145,
+    "Daily_ICU_occupancy_Bulgaria": 138
+  },
+  {
+    "Day": 203,
+    "Daily_ICU_occupancy_USA": 7156,
+    "Daily_ICU_occupancy_UK": 711,
+    "Daily_ICU_occupancy_Italy": 187,
+    "Daily_ICU_occupancy_France": 662,
+    "Daily_ICU_occupancy_Austria": 145,
+    "Daily_ICU_occupancy_Bulgaria": 146
+  },
+  {
+    "Day": 204,
+    "Daily_ICU_occupancy_USA": 7220,
+    "Daily_ICU_occupancy_UK": 707,
+    "Daily_ICU_occupancy_Italy": 197,
+    "Daily_ICU_occupancy_France": 705,
+    "Daily_ICU_occupancy_Austria": 147,
+    "Daily_ICU_occupancy_Bulgaria": 149
+  },
+  {
+    "Day": 205,
+    "Daily_ICU_occupancy_USA": 7251,
+    "Daily_ICU_occupancy_UK": 743,
+    "Daily_ICU_occupancy_Italy": 201,
+    "Daily_ICU_occupancy_France": 752,
+    "Daily_ICU_occupancy_Austria": 161,
+    "Daily_ICU_occupancy_Bulgaria": 145
+  },
+  {
+    "Day": 206,
+    "Daily_ICU_occupancy_USA": 7384,
+    "Daily_ICU_occupancy_UK": 787,
+    "Daily_ICU_occupancy_Italy": 207,
+    "Daily_ICU_occupancy_France": 796,
+    "Daily_ICU_occupancy_Austria": 158,
+    "Daily_ICU_occupancy_Bulgaria": 162
+  },
+  {
+    "Day": 207,
+    "Daily_ICU_occupancy_USA": 7292,
+    "Daily_ICU_occupancy_UK": 827,
+    "Daily_ICU_occupancy_Italy": 212,
+    "Daily_ICU_occupancy_France": 793,
+    "Daily_ICU_occupancy_Austria": 175,
+    "Daily_ICU_occupancy_Bulgaria": 167
+  },
+  {
+    "Day": 208,
+    "Daily_ICU_occupancy_USA": 7997,
+    "Daily_ICU_occupancy_UK": 852,
+    "Daily_ICU_occupancy_Italy": 208,
+    "Daily_ICU_occupancy_France": 820,
+    "Daily_ICU_occupancy_Austria": 174,
+    "Daily_ICU_occupancy_Bulgaria": 165
+  },
+  {
+    "Day": 209,
+    "Daily_ICU_occupancy_USA": 8131,
+    "Daily_ICU_occupancy_UK": 902,
+    "Daily_ICU_occupancy_Italy": 215,
+    "Daily_ICU_occupancy_France": 827,
+    "Daily_ICU_occupancy_Austria": 188,
+    "Daily_ICU_occupancy_Bulgaria": 166
+  },
+  {
+    "Day": 210,
+    "Daily_ICU_occupancy_USA": 8182,
+    "Daily_ICU_occupancy_UK": 957,
+    "Daily_ICU_occupancy_Italy": 222,
+    "Daily_ICU_occupancy_France": 834,
+    "Daily_ICU_occupancy_Austria": 203,
+    "Daily_ICU_occupancy_Bulgaria": 169
+  },
+  {
+    "Day": 211,
+    "Daily_ICU_occupancy_USA": 8086,
+    "Daily_ICU_occupancy_UK": 974,
+    "Daily_ICU_occupancy_Italy": 232,
+    "Daily_ICU_occupancy_France": 912,
+    "Daily_ICU_occupancy_Austria": 224,
+    "Daily_ICU_occupancy_Bulgaria": 180
+  },
+  {
+    "Day": 212,
+    "Daily_ICU_occupancy_USA": 8237,
+    "Daily_ICU_occupancy_UK": 978,
+    "Daily_ICU_occupancy_Italy": 239,
+    "Daily_ICU_occupancy_France": 944,
+    "Daily_ICU_occupancy_Austria": 248,
+    "Daily_ICU_occupancy_Bulgaria": 210
+  },
+  {
+    "Day": 213,
+    "Daily_ICU_occupancy_USA": 8561,
+    "Daily_ICU_occupancy_UK": 1002,
+    "Daily_ICU_occupancy_Italy": 244,
+    "Daily_ICU_occupancy_France": 995,
+    "Daily_ICU_occupancy_Austria": 263,
+    "Daily_ICU_occupancy_Bulgaria": 239
+  },
+  {
+    "Day": 214,
+    "Daily_ICU_occupancy_USA": 8489,
+    "Daily_ICU_occupancy_UK": 977,
+    "Daily_ICU_occupancy_Italy": 246,
+    "Daily_ICU_occupancy_France": 1041,
+    "Daily_ICU_occupancy_Austria": 265,
+    "Daily_ICU_occupancy_Bulgaria": 250
+  },
+  {
+    "Day": 215,
+    "Daily_ICU_occupancy_USA": 8842,
+    "Daily_ICU_occupancy_UK": 1075,
+    "Daily_ICU_occupancy_Italy": 244,
+    "Daily_ICU_occupancy_France": 1092,
+    "Daily_ICU_occupancy_Austria": 291,
+    "Daily_ICU_occupancy_Bulgaria": 257
+  },
+  {
+    "Day": 216,
+    "Daily_ICU_occupancy_USA": 8909,
+    "Daily_ICU_occupancy_UK": 1142,
+    "Daily_ICU_occupancy_Italy": 247,
+    "Daily_ICU_occupancy_France": 1105,
+    "Daily_ICU_occupancy_Austria": 336,
+    "Daily_ICU_occupancy_Bulgaria": 271
+  },
+  {
+    "Day": 217,
+    "Daily_ICU_occupancy_USA": 9034,
+    "Daily_ICU_occupancy_UK": 1191,
+    "Daily_ICU_occupancy_Italy": 254,
+    "Daily_ICU_occupancy_France": 1112,
+    "Daily_ICU_occupancy_Austria": 366,
+    "Daily_ICU_occupancy_Bulgaria": 272
+  },
+  {
+    "Day": 218,
+    "Daily_ICU_occupancy_USA": 9208,
+    "Daily_ICU_occupancy_UK": 1181,
+    "Daily_ICU_occupancy_Italy": 264,
+    "Daily_ICU_occupancy_France": 1158,
+    "Daily_ICU_occupancy_Austria": 383,
+    "Daily_ICU_occupancy_Bulgaria": 270
+  },
+  {
+    "Day": 219,
+    "Daily_ICU_occupancy_USA": 9437,
+    "Daily_ICU_occupancy_UK": 1185,
+    "Daily_ICU_occupancy_Italy": 271,
+    "Daily_ICU_occupancy_France": 1198,
+    "Daily_ICU_occupancy_Austria": 407,
+    "Daily_ICU_occupancy_Bulgaria": 280
+  },
+  {
+    "Day": 220,
+    "Daily_ICU_occupancy_USA": 9499,
+    "Daily_ICU_occupancy_UK": 1205,
+    "Daily_ICU_occupancy_Italy": 280,
+    "Daily_ICU_occupancy_France": 1232,
+    "Daily_ICU_occupancy_Austria": 431,
+    "Daily_ICU_occupancy_Bulgaria": 276
+  },
+  {
+    "Day": 221,
+    "Daily_ICU_occupancy_USA": 9553,
+    "Daily_ICU_occupancy_UK": 1230,
+    "Daily_ICU_occupancy_Italy": 291,
+    "Daily_ICU_occupancy_France": 1259,
+    "Daily_ICU_occupancy_Austria": 432,
+    "Daily_ICU_occupancy_Bulgaria": 284
+  },
+  {
+    "Day": 222,
+    "Daily_ICU_occupancy_USA": 9867,
+    "Daily_ICU_occupancy_UK": 1269,
+    "Daily_ICU_occupancy_Italy": 294,
+    "Daily_ICU_occupancy_France": 1270,
+    "Daily_ICU_occupancy_Austria": 459,
+    "Daily_ICU_occupancy_Bulgaria": 288
+  },
+  {
+    "Day": 223,
+    "Daily_ICU_occupancy_USA": 10406,
+    "Daily_ICU_occupancy_UK": 1219,
+    "Daily_ICU_occupancy_Italy": 297,
+    "Daily_ICU_occupancy_France": 1289,
+    "Daily_ICU_occupancy_Austria": 473,
+    "Daily_ICU_occupancy_Bulgaria": 295
+  },
+  {
+    "Day": 224,
+    "Daily_ICU_occupancy_USA": 10761,
+    "Daily_ICU_occupancy_UK": 1268,
+    "Daily_ICU_occupancy_Italy": 303,
+    "Daily_ICU_occupancy_France": 1335,
+    "Daily_ICU_occupancy_Austria": 495,
+    "Daily_ICU_occupancy_Bulgaria": 293
+  },
+  {
+    "Day": 225,
+    "Daily_ICU_occupancy_USA": 10918,
+    "Daily_ICU_occupancy_UK": 1275,
+    "Daily_ICU_occupancy_Italy": 323,
+    "Daily_ICU_occupancy_France": 1409,
+    "Daily_ICU_occupancy_Austria": 536,
+    "Daily_ICU_occupancy_Bulgaria": 288
+  },
+  {
+    "Day": 226,
+    "Daily_ICU_occupancy_USA": 11085,
+    "Daily_ICU_occupancy_UK": 1355,
+    "Daily_ICU_occupancy_Italy": 319,
+    "Daily_ICU_occupancy_France": 1417,
+    "Daily_ICU_occupancy_Austria": 546,
+    "Daily_ICU_occupancy_Bulgaria": 303
+  },
+  {
+    "Day": 227,
+    "Daily_ICU_occupancy_USA": 11082,
+    "Daily_ICU_occupancy_UK": 1365,
+    "Daily_ICU_occupancy_Italy": 337,
+    "Daily_ICU_occupancy_France": 1406,
+    "Daily_ICU_occupancy_Austria": 567,
+    "Daily_ICU_occupancy_Bulgaria": 313
+  },
+  {
+    "Day": 228,
+    "Daily_ICU_occupancy_USA": 11120,
+    "Daily_ICU_occupancy_UK": 1397,
+    "Daily_ICU_occupancy_Italy": 358,
+    "Daily_ICU_occupancy_France": 1418,
+    "Daily_ICU_occupancy_Austria": 581,
+    "Daily_ICU_occupancy_Bulgaria": 344
+  },
+  {
+    "Day": 229,
+    "Daily_ICU_occupancy_USA": 11533,
+    "Daily_ICU_occupancy_UK": 1391,
+    "Daily_ICU_occupancy_Italy": 387,
+    "Daily_ICU_occupancy_France": 1439,
+    "Daily_ICU_occupancy_Austria": 599,
+    "Daily_ICU_occupancy_Bulgaria": 383
+  },
+  {
+    "Day": 230,
+    "Daily_ICU_occupancy_USA": 11961,
+    "Daily_ICU_occupancy_UK": 1420,
+    "Daily_ICU_occupancy_Italy": 390,
+    "Daily_ICU_occupancy_France": 1456,
+    "Daily_ICU_occupancy_Austria": 612,
+    "Daily_ICU_occupancy_Bulgaria": 408
+  },
+  {
+    "Day": 231,
+    "Daily_ICU_occupancy_USA": 12518,
+    "Daily_ICU_occupancy_UK": 1430,
+    "Daily_ICU_occupancy_Italy": 420,
+    "Daily_ICU_occupancy_France": 1483,
+    "Daily_ICU_occupancy_Austria": 658,
+    "Daily_ICU_occupancy_Bulgaria": 408
+  },
+  {
+    "Day": 232,
+    "Daily_ICU_occupancy_USA": 12796,
+    "Daily_ICU_occupancy_UK": 1426,
+    "Daily_ICU_occupancy_Italy": 452,
+    "Daily_ICU_occupancy_France": 1539,
+    "Daily_ICU_occupancy_Austria": 682,
+    "Daily_ICU_occupancy_Bulgaria": 410
+  },
+  {
+    "Day": 233,
+    "Daily_ICU_occupancy_USA": 13132,
+    "Daily_ICU_occupancy_UK": 1421,
+    "Daily_ICU_occupancy_Italy": 514,
+    "Daily_ICU_occupancy_France": 1633,
+    "Daily_ICU_occupancy_Austria": 683,
+    "Daily_ICU_occupancy_Bulgaria": 409
+  },
+  {
+    "Day": 234,
+    "Daily_ICU_occupancy_USA": 13337,
+    "Daily_ICU_occupancy_UK": 1447,
+    "Daily_ICU_occupancy_Italy": 539,
+    "Daily_ICU_occupancy_France": 1664,
+    "Daily_ICU_occupancy_Austria": 687,
+    "Daily_ICU_occupancy_Bulgaria": 412
+  },
+  {
+    "Day": 235,
+    "Daily_ICU_occupancy_USA": 13693,
+    "Daily_ICU_occupancy_UK": 1454,
+    "Daily_ICU_occupancy_Italy": 586,
+    "Daily_ICU_occupancy_France": 1741,
+    "Daily_ICU_occupancy_Austria": 697,
+    "Daily_ICU_occupancy_Bulgaria": 404
+  },
+  {
+    "Day": 236,
+    "Daily_ICU_occupancy_USA": 14317,
+    "Daily_ICU_occupancy_UK": 1460,
+    "Daily_ICU_occupancy_Italy": 638,
+    "Daily_ICU_occupancy_France": 1791,
+    "Daily_ICU_occupancy_Austria": 683,
+    "Daily_ICU_occupancy_Bulgaria": 395
+  },
+  {
+    "Day": 237,
+    "Daily_ICU_occupancy_USA": 14851,
+    "Daily_ICU_occupancy_UK": 1455,
+    "Daily_ICU_occupancy_Italy": 705,
+    "Daily_ICU_occupancy_France": 1868,
+    "Daily_ICU_occupancy_Austria": 650,
+    "Daily_ICU_occupancy_Bulgaria": 397
+  },
+  {
+    "Day": 238,
+    "Daily_ICU_occupancy_USA": 15350,
+    "Daily_ICU_occupancy_UK": 1466,
+    "Daily_ICU_occupancy_Italy": 750,
+    "Daily_ICU_occupancy_France": 1939,
+    "Daily_ICU_occupancy_Austria": 672,
+    "Daily_ICU_occupancy_Bulgaria": 400
+  },
+  {
+    "Day": 239,
+    "Daily_ICU_occupancy_USA": 15572,
+    "Daily_ICU_occupancy_UK": 1470,
+    "Daily_ICU_occupancy_Italy": 797,
+    "Daily_ICU_occupancy_France": 2090,
+    "Daily_ICU_occupancy_Austria": 685,
+    "Daily_ICU_occupancy_Bulgaria": 411
+  },
+  {
+    "Day": 240,
+    "Daily_ICU_occupancy_USA": 15929,
+    "Daily_ICU_occupancy_UK": 1455,
+    "Daily_ICU_occupancy_Italy": 870,
+    "Daily_ICU_occupancy_France": 2168,
+    "Daily_ICU_occupancy_Austria": 660,
+    "Daily_ICU_occupancy_Bulgaria": 403
+  },
+  {
+    "Day": 241,
+    "Daily_ICU_occupancy_USA": 16058,
+    "Daily_ICU_occupancy_UK": 1469,
+    "Daily_ICU_occupancy_Italy": 926,
+    "Daily_ICU_occupancy_France": 2239,
+    "Daily_ICU_occupancy_Austria": 679,
+    "Daily_ICU_occupancy_Bulgaria": 392
+  },
+  {
+    "Day": 242,
+    "Daily_ICU_occupancy_USA": 16212,
+    "Daily_ICU_occupancy_UK": 1463,
+    "Daily_ICU_occupancy_Italy": 992,
+    "Daily_ICU_occupancy_France": 2310,
+    "Daily_ICU_occupancy_Austria": 669,
+    "Daily_ICU_occupancy_Bulgaria": 400
+  },
+  {
+    "Day": 243,
+    "Daily_ICU_occupancy_USA": 16915,
+    "Daily_ICU_occupancy_UK": 1460,
+    "Daily_ICU_occupancy_Italy": 1049,
+    "Daily_ICU_occupancy_France": 2432,
+    "Daily_ICU_occupancy_Austria": 675,
+    "Daily_ICU_occupancy_Bulgaria": 405
+  },
+  {
+    "Day": 244,
+    "Daily_ICU_occupancy_USA": 17127,
+    "Daily_ICU_occupancy_UK": 1458,
+    "Daily_ICU_occupancy_Italy": 1128,
+    "Daily_ICU_occupancy_France": 2491,
+    "Daily_ICU_occupancy_Austria": 683,
+    "Daily_ICU_occupancy_Bulgaria": 408
+  },
+  {
+    "Day": 245,
+    "Daily_ICU_occupancy_USA": 17526,
+    "Daily_ICU_occupancy_UK": 1454,
+    "Daily_ICU_occupancy_Italy": 1208,
+    "Daily_ICU_occupancy_France": 2575,
+    "Daily_ICU_occupancy_Austria": 683,
+    "Daily_ICU_occupancy_Bulgaria": 408
+  }
+]
