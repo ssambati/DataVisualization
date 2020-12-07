@@ -1,0 +1,4748 @@
+Entity,Code,Date,Daily_ICU_occupancy
+Austria,AUT,01-04-2020,215
+Austria,AUT,02-04-2020,219
+Austria,AUT,03-04-2020,245
+Austria,AUT,04-04-2020,245
+Austria,AUT,05-04-2020,244
+Austria,AUT,06-04-2020,250
+Austria,AUT,07-04-2020,243
+Austria,AUT,08-04-2020,267
+Austria,AUT,09-04-2020,266
+Austria,AUT,10-04-2020,261
+Austria,AUT,11-04-2020,245
+Austria,AUT,12-04-2020,243
+Austria,AUT,13-04-2020,239
+Austria,AUT,14-04-2020,243
+Austria,AUT,15-04-2020,232
+Austria,AUT,16-04-2020,238
+Austria,AUT,17-04-2020,227
+Austria,AUT,18-04-2020,208
+Austria,AUT,19-04-2020,204
+Austria,AUT,20-04-2020,194
+Austria,AUT,21-04-2020,196
+Austria,AUT,22-04-2020,176
+Austria,AUT,23-04-2020,169
+Austria,AUT,24-04-2020,156
+Austria,AUT,25-04-2020,148
+Austria,AUT,26-04-2020,145
+Austria,AUT,27-04-2020,140
+Austria,AUT,28-04-2020,136
+Austria,AUT,29-04-2020,131
+Austria,AUT,30-04-2020,128
+Austria,AUT,01-05-2020,124
+Austria,AUT,02-05-2020,114
+Austria,AUT,03-05-2020,114
+Austria,AUT,04-05-2020,111
+Austria,AUT,05-05-2020,104
+Austria,AUT,06-05-2020,97
+Austria,AUT,07-05-2020,92
+Austria,AUT,08-05-2020,81
+Austria,AUT,09-05-2020,79
+Austria,AUT,10-05-2020,72
+Austria,AUT,11-05-2020,68
+Austria,AUT,12-05-2020,59
+Austria,AUT,13-05-2020,55
+Austria,AUT,14-05-2020,54
+Austria,AUT,15-05-2020,47
+Austria,AUT,16-05-2020,50
+Austria,AUT,17-05-2020,48
+Austria,AUT,18-05-2020,45
+Austria,AUT,19-05-2020,39
+Austria,AUT,20-05-2020,37
+Austria,AUT,21-05-2020,32
+Austria,AUT,22-05-2020,31
+Austria,AUT,23-05-2020,28
+Austria,AUT,24-05-2020,29
+Austria,AUT,25-05-2020,31
+Austria,AUT,26-05-2020,32
+Austria,AUT,27-05-2020,32
+Austria,AUT,28-05-2020,30
+Austria,AUT,29-05-2020,25
+Austria,AUT,30-05-2020,23
+Austria,AUT,31-05-2020,27
+Austria,AUT,01-06-2020,29
+Austria,AUT,02-06-2020,26
+Austria,AUT,03-06-2020,21
+Austria,AUT,04-06-2020,22
+Austria,AUT,05-06-2020,20
+Austria,AUT,06-06-2020,17
+Austria,AUT,07-06-2020,17
+Austria,AUT,08-06-2020,17
+Austria,AUT,09-06-2020,19
+Austria,AUT,10-06-2020,17
+Austria,AUT,11-06-2020,14
+Austria,AUT,12-06-2020,9
+Austria,AUT,13-06-2020,10
+Austria,AUT,14-06-2020,12
+Austria,AUT,15-06-2020,15
+Austria,AUT,16-06-2020,12
+Austria,AUT,17-06-2020,11
+Austria,AUT,18-06-2020,8
+Austria,AUT,19-06-2020,7
+Austria,AUT,20-06-2020,8
+Austria,AUT,21-06-2020,8
+Austria,AUT,22-06-2020,10
+Austria,AUT,23-06-2020,11
+Austria,AUT,24-06-2020,11
+Austria,AUT,25-06-2020,11
+Austria,AUT,26-06-2020,10
+Austria,AUT,27-06-2020,10
+Austria,AUT,28-06-2020,9
+Austria,AUT,29-06-2020,8
+Austria,AUT,30-06-2020,6
+Austria,AUT,01-07-2020,9
+Austria,AUT,02-07-2020,7
+Austria,AUT,03-07-2020,7
+Austria,AUT,04-07-2020,8
+Austria,AUT,05-07-2020,10
+Austria,AUT,06-07-2020,11
+Austria,AUT,07-07-2020,10
+Austria,AUT,08-07-2020,11
+Austria,AUT,09-07-2020,12
+Austria,AUT,10-07-2020,9
+Austria,AUT,11-07-2020,9
+Austria,AUT,12-07-2020,10
+Austria,AUT,13-07-2020,8
+Austria,AUT,14-07-2020,9
+Austria,AUT,15-07-2020,10
+Austria,AUT,16-07-2020,11
+Austria,AUT,17-07-2020,11
+Austria,AUT,18-07-2020,11
+Austria,AUT,19-07-2020,14
+Austria,AUT,20-07-2020,16
+Austria,AUT,21-07-2020,18
+Austria,AUT,22-07-2020,18
+Austria,AUT,23-07-2020,15
+Austria,AUT,24-07-2020,17
+Austria,AUT,25-07-2020,16
+Austria,AUT,26-07-2020,15
+Austria,AUT,27-07-2020,16
+Austria,AUT,28-07-2020,15
+Austria,AUT,29-07-2020,20
+Austria,AUT,30-07-2020,18
+Austria,AUT,31-07-2020,16
+Austria,AUT,01-08-2020,19
+Austria,AUT,02-08-2020,20
+Austria,AUT,03-08-2020,21
+Austria,AUT,04-08-2020,23
+Austria,AUT,05-08-2020,25
+Austria,AUT,06-08-2020,25
+Austria,AUT,07-08-2020,25
+Austria,AUT,08-08-2020,24
+Austria,AUT,09-08-2020,22
+Austria,AUT,10-08-2020,24
+Austria,AUT,11-08-2020,25
+Austria,AUT,12-08-2020,25
+Austria,AUT,13-08-2020,22
+Austria,AUT,14-08-2020,19
+Austria,AUT,15-08-2020,21
+Austria,AUT,16-08-2020,19
+Austria,AUT,17-08-2020,23
+Austria,AUT,18-08-2020,19
+Austria,AUT,19-08-2020,20
+Austria,AUT,20-08-2020,21
+Austria,AUT,21-08-2020,22
+Austria,AUT,22-08-2020,22
+Austria,AUT,23-08-2020,23
+Austria,AUT,24-08-2020,23
+Austria,AUT,25-08-2020,23
+Austria,AUT,26-08-2020,23
+Austria,AUT,27-08-2020,24
+Austria,AUT,28-08-2020,27
+Austria,AUT,29-08-2020,30
+Austria,AUT,30-08-2020,30
+Austria,AUT,31-08-2020,31
+Austria,AUT,01-09-2020,30
+Austria,AUT,02-09-2020,30
+Austria,AUT,03-09-2020,29
+Austria,AUT,04-09-2020,28
+Austria,AUT,05-09-2020,28
+Austria,AUT,06-09-2020,28
+Austria,AUT,07-09-2020,29
+Austria,AUT,08-09-2020,28
+Austria,AUT,09-09-2020,36
+Austria,AUT,10-09-2020,39
+Austria,AUT,11-09-2020,41
+Austria,AUT,12-09-2020,42
+Austria,AUT,13-09-2020,44
+Austria,AUT,14-09-2020,47
+Austria,AUT,15-09-2020,49
+Austria,AUT,16-09-2020,54
+Austria,AUT,17-09-2020,55
+Austria,AUT,18-09-2020,62
+Austria,AUT,19-09-2020,84
+Austria,AUT,20-09-2020,68
+Austria,AUT,21-09-2020,67
+Austria,AUT,22-09-2020,75
+Austria,AUT,23-09-2020,77
+Austria,AUT,24-09-2020,78
+Austria,AUT,25-09-2020,78
+Austria,AUT,26-09-2020,80
+Austria,AUT,27-09-2020,84
+Austria,AUT,28-09-2020,88
+Austria,AUT,29-09-2020,90
+Austria,AUT,30-09-2020,90
+Austria,AUT,01-10-2020,98
+Austria,AUT,02-10-2020,100
+Austria,AUT,03-10-2020,97
+Austria,AUT,04-10-2020,103
+Austria,AUT,05-10-2020,101
+Austria,AUT,06-10-2020,101
+Austria,AUT,07-10-2020,100
+Austria,AUT,08-10-2020,107
+Austria,AUT,09-10-2020,103
+Austria,AUT,10-10-2020,99
+Austria,AUT,11-10-2020,96
+Austria,AUT,12-10-2020,97
+Austria,AUT,13-10-2020,107
+Austria,AUT,14-10-2020,112
+Austria,AUT,15-10-2020,119
+Austria,AUT,16-10-2020,122
+Austria,AUT,17-10-2020,130
+Austria,AUT,18-10-2020,135
+Austria,AUT,19-10-2020,145
+Austria,AUT,20-10-2020,145
+Austria,AUT,21-10-2020,147
+Austria,AUT,22-10-2020,161
+Austria,AUT,23-10-2020,158
+Austria,AUT,24-10-2020,175
+Austria,AUT,25-10-2020,174
+Austria,AUT,26-10-2020,188
+Austria,AUT,27-10-2020,203
+Austria,AUT,28-10-2020,224
+Austria,AUT,29-10-2020,248
+Austria,AUT,30-10-2020,263
+Austria,AUT,31-10-2020,265
+Austria,AUT,01-11-2020,291
+Austria,AUT,02-11-2020,336
+Austria,AUT,03-11-2020,366
+Austria,AUT,04-11-2020,383
+Austria,AUT,05-11-2020,407
+Austria,AUT,06-11-2020,431
+Austria,AUT,07-11-2020,432
+Austria,AUT,08-11-2020,459
+Austria,AUT,09-11-2020,473
+Austria,AUT,10-11-2020,495
+Austria,AUT,11-11-2020,536
+Austria,AUT,12-11-2020,546
+Austria,AUT,13-11-2020,567
+Austria,AUT,14-11-2020,581
+Austria,AUT,15-11-2020,599
+Austria,AUT,16-11-2020,612
+Austria,AUT,17-11-2020,658
+Austria,AUT,18-11-2020,682
+Austria,AUT,19-11-2020,683
+Austria,AUT,20-11-2020,687
+Austria,AUT,21-11-2020,697
+Austria,AUT,22-11-2020,683
+Belgium,BEL,15-03-2020,54
+Belgium,BEL,16-03-2020,79
+Belgium,BEL,17-03-2020,100
+Belgium,BEL,18-03-2020,131
+Belgium,BEL,19-03-2020,165
+Belgium,BEL,20-03-2020,228
+Belgium,BEL,21-03-2020,290
+Belgium,BEL,22-03-2020,322
+Belgium,BEL,23-03-2020,385
+Belgium,BEL,24-03-2020,474
+Belgium,BEL,25-03-2020,612
+Belgium,BEL,26-03-2020,690
+Belgium,BEL,27-03-2020,789
+Belgium,BEL,28-03-2020,867
+Belgium,BEL,29-03-2020,942
+Belgium,BEL,30-03-2020,1021
+Belgium,BEL,31-03-2020,1088
+Belgium,BEL,01-04-2020,1144
+Belgium,BEL,02-04-2020,1205
+Belgium,BEL,03-04-2020,1245
+Belgium,BEL,04-04-2020,1261
+Belgium,BEL,05-04-2020,1267
+Belgium,BEL,06-04-2020,1260
+Belgium,BEL,07-04-2020,1276
+Belgium,BEL,08-04-2020,1285
+Belgium,BEL,09-04-2020,1278
+Belgium,BEL,10-04-2020,1262
+Belgium,BEL,11-04-2020,1232
+Belgium,BEL,12-04-2020,1234
+Belgium,BEL,13-04-2020,1226
+Belgium,BEL,14-04-2020,1204
+Belgium,BEL,15-04-2020,1182
+Belgium,BEL,16-04-2020,1150
+Belgium,BEL,17-04-2020,1119
+Belgium,BEL,18-04-2020,1081
+Belgium,BEL,19-04-2020,1071
+Belgium,BEL,20-04-2020,1079
+Belgium,BEL,21-04-2020,1020
+Belgium,BEL,22-04-2020,993
+Belgium,BEL,23-04-2020,970
+Belgium,BEL,24-04-2020,934
+Belgium,BEL,25-04-2020,901
+Belgium,BEL,26-04-2020,903
+Belgium,BEL,27-04-2020,876
+Belgium,BEL,28-04-2020,797
+Belgium,BEL,29-04-2020,769
+Belgium,BEL,30-04-2020,749
+Belgium,BEL,01-05-2020,690
+Belgium,BEL,02-05-2020,684
+Belgium,BEL,03-05-2020,655
+Belgium,BEL,04-05-2020,646
+Belgium,BEL,05-05-2020,582
+Belgium,BEL,06-05-2020,542
+Belgium,BEL,07-05-2020,508
+Belgium,BEL,08-05-2020,502
+Belgium,BEL,09-05-2020,475
+Belgium,BEL,10-05-2020,477
+Belgium,BEL,11-05-2020,465
+Belgium,BEL,12-05-2020,427
+Belgium,BEL,13-05-2020,407
+Belgium,BEL,14-05-2020,380
+Belgium,BEL,15-05-2020,364
+Belgium,BEL,16-05-2020,345
+Belgium,BEL,17-05-2020,342
+Belgium,BEL,18-05-2020,345
+Belgium,BEL,19-05-2020,313
+Belgium,BEL,20-05-2020,277
+Belgium,BEL,21-05-2020,268
+Belgium,BEL,22-05-2020,259
+Belgium,BEL,23-05-2020,256
+Belgium,BEL,24-05-2020,251
+Belgium,BEL,25-05-2020,249
+Belgium,BEL,26-05-2020,223
+Belgium,BEL,27-05-2020,209
+Belgium,BEL,28-05-2020,187
+Belgium,BEL,29-05-2020,173
+Belgium,BEL,30-05-2020,168
+Belgium,BEL,31-05-2020,164
+Belgium,BEL,01-06-2020,166
+Belgium,BEL,02-06-2020,172
+Belgium,BEL,03-06-2020,145
+Belgium,BEL,04-06-2020,137
+Belgium,BEL,05-06-2020,121
+Belgium,BEL,06-06-2020,111
+Belgium,BEL,07-06-2020,116
+Belgium,BEL,08-06-2020,115
+Belgium,BEL,09-06-2020,102
+Belgium,BEL,10-06-2020,99
+Belgium,BEL,11-06-2020,89
+Belgium,BEL,12-06-2020,88
+Belgium,BEL,13-06-2020,82
+Belgium,BEL,14-06-2020,85
+Belgium,BEL,15-06-2020,75
+Belgium,BEL,16-06-2020,67
+Belgium,BEL,17-06-2020,60
+Belgium,BEL,18-06-2020,52
+Belgium,BEL,19-06-2020,50
+Belgium,BEL,20-06-2020,53
+Belgium,BEL,21-06-2020,50
+Belgium,BEL,22-06-2020,42
+Belgium,BEL,23-06-2020,41
+Belgium,BEL,24-06-2020,40
+Belgium,BEL,25-06-2020,38
+Belgium,BEL,26-06-2020,36
+Belgium,BEL,27-06-2020,34
+Belgium,BEL,28-06-2020,36
+Belgium,BEL,29-06-2020,41
+Belgium,BEL,30-06-2020,37
+Belgium,BEL,01-07-2020,36
+Belgium,BEL,02-07-2020,35
+Belgium,BEL,03-07-2020,32
+Belgium,BEL,04-07-2020,29
+Belgium,BEL,05-07-2020,30
+Belgium,BEL,06-07-2020,27
+Belgium,BEL,07-07-2020,32
+Belgium,BEL,08-07-2020,32
+Belgium,BEL,09-07-2020,36
+Belgium,BEL,10-07-2020,32
+Belgium,BEL,11-07-2020,28
+Belgium,BEL,12-07-2020,27
+Belgium,BEL,13-07-2020,23
+Belgium,BEL,14-07-2020,27
+Belgium,BEL,15-07-2020,27
+Belgium,BEL,16-07-2020,28
+Belgium,BEL,17-07-2020,28
+Belgium,BEL,18-07-2020,30
+Belgium,BEL,19-07-2020,31
+Belgium,BEL,20-07-2020,36
+Belgium,BEL,21-07-2020,33
+Belgium,BEL,22-07-2020,41
+Belgium,BEL,23-07-2020,40
+Belgium,BEL,24-07-2020,41
+Belgium,BEL,25-07-2020,44
+Belgium,BEL,26-07-2020,47
+Belgium,BEL,27-07-2020,52
+Belgium,BEL,28-07-2020,49
+Belgium,BEL,29-07-2020,47
+Belgium,BEL,30-07-2020,42
+Belgium,BEL,31-07-2020,48
+Belgium,BEL,01-08-2020,56
+Belgium,BEL,02-08-2020,58
+Belgium,BEL,03-08-2020,54
+Belgium,BEL,04-08-2020,63
+Belgium,BEL,05-08-2020,61
+Belgium,BEL,06-08-2020,65
+Belgium,BEL,07-08-2020,69
+Belgium,BEL,08-08-2020,67
+Belgium,BEL,09-08-2020,69
+Belgium,BEL,10-08-2020,73
+Belgium,BEL,11-08-2020,77
+Belgium,BEL,12-08-2020,76
+Belgium,BEL,13-08-2020,74
+Belgium,BEL,14-08-2020,80
+Belgium,BEL,15-08-2020,82
+Belgium,BEL,16-08-2020,86
+Belgium,BEL,17-08-2020,91
+Belgium,BEL,18-08-2020,89
+Belgium,BEL,19-08-2020,83
+Belgium,BEL,20-08-2020,82
+Belgium,BEL,21-08-2020,84
+Belgium,BEL,22-08-2020,85
+Belgium,BEL,23-08-2020,87
+Belgium,BEL,24-08-2020,89
+Belgium,BEL,25-08-2020,85
+Belgium,BEL,26-08-2020,81
+Belgium,BEL,27-08-2020,82
+Belgium,BEL,28-08-2020,77
+Belgium,BEL,29-08-2020,72
+Belgium,BEL,30-08-2020,71
+Belgium,BEL,31-08-2020,74
+Belgium,BEL,01-09-2020,68
+Belgium,BEL,02-09-2020,60
+Belgium,BEL,03-09-2020,58
+Belgium,BEL,04-09-2020,52
+Belgium,BEL,05-09-2020,53
+Belgium,BEL,06-09-2020,53
+Belgium,BEL,07-09-2020,52
+Belgium,BEL,08-09-2020,59
+Belgium,BEL,09-09-2020,60
+Belgium,BEL,10-09-2020,65
+Belgium,BEL,11-09-2020,67
+Belgium,BEL,12-09-2020,68
+Belgium,BEL,13-09-2020,71
+Belgium,BEL,14-09-2020,72
+Belgium,BEL,15-09-2020,67
+Belgium,BEL,16-09-2020,74
+Belgium,BEL,17-09-2020,69
+Belgium,BEL,18-09-2020,78
+Belgium,BEL,19-09-2020,78
+Belgium,BEL,20-09-2020,77
+Belgium,BEL,21-09-2020,87
+Belgium,BEL,22-09-2020,94
+Belgium,BEL,23-09-2020,95
+Belgium,BEL,24-09-2020,104
+Belgium,BEL,25-09-2020,109
+Belgium,BEL,26-09-2020,120
+Belgium,BEL,27-09-2020,135
+Belgium,BEL,28-09-2020,140
+Belgium,BEL,29-09-2020,150
+Belgium,BEL,30-09-2020,157
+Belgium,BEL,01-10-2020,156
+Belgium,BEL,02-10-2020,163
+Belgium,BEL,03-10-2020,185
+Belgium,BEL,04-10-2020,186
+Belgium,BEL,05-10-2020,195
+Belgium,BEL,06-10-2020,189
+Belgium,BEL,07-10-2020,201
+Belgium,BEL,08-10-2020,213
+Belgium,BEL,09-10-2020,212
+Belgium,BEL,10-10-2020,226
+Belgium,BEL,11-10-2020,243
+Belgium,BEL,12-10-2020,268
+Belgium,BEL,13-10-2020,281
+Belgium,BEL,14-10-2020,313
+Belgium,BEL,15-10-2020,327
+Belgium,BEL,16-10-2020,358
+Belgium,BEL,17-10-2020,384
+Belgium,BEL,18-10-2020,412
+Belgium,BEL,19-10-2020,446
+Belgium,BEL,20-10-2020,486
+Belgium,BEL,21-10-2020,525
+Belgium,BEL,22-10-2020,573
+Belgium,BEL,23-10-2020,633
+Belgium,BEL,24-10-2020,694
+Belgium,BEL,25-10-2020,756
+Belgium,BEL,26-10-2020,810
+Belgium,BEL,27-10-2020,912
+Belgium,BEL,28-10-2020,994
+Belgium,BEL,29-10-2020,1057
+Belgium,BEL,30-10-2020,1105
+Belgium,BEL,31-10-2020,1161
+Belgium,BEL,01-11-2020,1223
+Belgium,BEL,02-11-2020,1302
+Belgium,BEL,03-11-2020,1353
+Belgium,BEL,04-11-2020,1412
+Belgium,BEL,05-11-2020,1428
+Belgium,BEL,06-11-2020,1459
+Belgium,BEL,07-11-2020,1464
+Belgium,BEL,08-11-2020,1470
+Belgium,BEL,09-11-2020,1474
+Belgium,BEL,10-11-2020,1470
+Belgium,BEL,11-11-2020,1463
+Belgium,BEL,12-11-2020,1456
+Belgium,BEL,13-11-2020,1457
+Belgium,BEL,14-11-2020,1423
+Belgium,BEL,15-11-2020,1439
+Belgium,BEL,16-11-2020,1408
+Belgium,BEL,17-11-2020,1356
+Belgium,BEL,18-11-2020,1323
+Belgium,BEL,19-11-2020,1286
+Belgium,BEL,20-11-2020,1256
+Belgium,BEL,21-11-2020,1201
+Belgium,BEL,22-11-2020,1194
+Bulgaria,BGR,06-04-2020,26
+Bulgaria,BGR,07-04-2020,26
+Bulgaria,BGR,08-04-2020,27
+Bulgaria,BGR,09-04-2020,32
+Bulgaria,BGR,10-04-2020,33
+Bulgaria,BGR,11-04-2020,35
+Bulgaria,BGR,12-04-2020,36
+Bulgaria,BGR,13-04-2020,36
+Bulgaria,BGR,14-04-2020,29
+Bulgaria,BGR,15-04-2020,31
+Bulgaria,BGR,16-04-2020,37
+Bulgaria,BGR,17-04-2020,44
+Bulgaria,BGR,18-04-2020,44
+Bulgaria,BGR,19-04-2020,36
+Bulgaria,BGR,20-04-2020,36
+Bulgaria,BGR,21-04-2020,34
+Bulgaria,BGR,22-04-2020,40
+Bulgaria,BGR,23-04-2020,37
+Bulgaria,BGR,24-04-2020,41
+Bulgaria,BGR,25-04-2020,41
+Bulgaria,BGR,26-04-2020,37
+Bulgaria,BGR,27-04-2020,41
+Bulgaria,BGR,28-04-2020,39
+Bulgaria,BGR,29-04-2020,39
+Bulgaria,BGR,30-04-2020,40
+Bulgaria,BGR,01-05-2020,43
+Bulgaria,BGR,02-05-2020,43
+Bulgaria,BGR,03-05-2020,40
+Bulgaria,BGR,04-05-2020,40
+Bulgaria,BGR,05-05-2020,37
+Bulgaria,BGR,06-05-2020,39
+Bulgaria,BGR,07-05-2020,38
+Bulgaria,BGR,08-05-2020,43
+Bulgaria,BGR,09-05-2020,49
+Bulgaria,BGR,10-05-2020,56
+Bulgaria,BGR,11-05-2020,58
+Bulgaria,BGR,12-05-2020,50
+Bulgaria,BGR,13-05-2020,51
+Bulgaria,BGR,14-05-2020,51
+Bulgaria,BGR,15-05-2020,49
+Bulgaria,BGR,16-05-2020,45
+Bulgaria,BGR,17-05-2020,46
+Bulgaria,BGR,18-05-2020,43
+Bulgaria,BGR,19-05-2020,36
+Bulgaria,BGR,20-05-2020,33
+Bulgaria,BGR,21-05-2020,31
+Bulgaria,BGR,22-05-2020,29
+Bulgaria,BGR,23-05-2020,29
+Bulgaria,BGR,24-05-2020,22
+Bulgaria,BGR,25-05-2020,20
+Bulgaria,BGR,26-05-2020,21
+Bulgaria,BGR,27-05-2020,22
+Bulgaria,BGR,28-05-2020,20
+Bulgaria,BGR,29-05-2020,20
+Bulgaria,BGR,30-05-2020,18
+Bulgaria,BGR,31-05-2020,17
+Bulgaria,BGR,01-06-2020,16
+Bulgaria,BGR,02-06-2020,20
+Bulgaria,BGR,03-06-2020,9
+Bulgaria,BGR,04-06-2020,8
+Bulgaria,BGR,05-06-2020,8
+Bulgaria,BGR,06-06-2020,12
+Bulgaria,BGR,07-06-2020,12
+Bulgaria,BGR,08-06-2020,12
+Bulgaria,BGR,09-06-2020,15
+Bulgaria,BGR,10-06-2020,13
+Bulgaria,BGR,11-06-2020,17
+Bulgaria,BGR,12-06-2020,15
+Bulgaria,BGR,13-06-2020,15
+Bulgaria,BGR,14-06-2020,16
+Bulgaria,BGR,15-06-2020,15
+Bulgaria,BGR,16-06-2020,14
+Bulgaria,BGR,17-06-2020,13
+Bulgaria,BGR,18-06-2020,12
+Bulgaria,BGR,19-06-2020,13
+Bulgaria,BGR,20-06-2020,17
+Bulgaria,BGR,21-06-2020,13
+Bulgaria,BGR,22-06-2020,13
+Bulgaria,BGR,23-06-2020,11
+Bulgaria,BGR,24-06-2020,16
+Bulgaria,BGR,25-06-2020,16
+Bulgaria,BGR,26-06-2020,16
+Bulgaria,BGR,27-06-2020,18
+Bulgaria,BGR,28-06-2020,25
+Bulgaria,BGR,29-06-2020,31
+Bulgaria,BGR,30-06-2020,32
+Bulgaria,BGR,01-07-2020,32
+Bulgaria,BGR,02-07-2020,31
+Bulgaria,BGR,03-07-2020,29
+Bulgaria,BGR,04-07-2020,29
+Bulgaria,BGR,05-07-2020,28
+Bulgaria,BGR,06-07-2020,29
+Bulgaria,BGR,07-07-2020,32
+Bulgaria,BGR,08-07-2020,32
+Bulgaria,BGR,09-07-2020,28
+Bulgaria,BGR,10-07-2020,32
+Bulgaria,BGR,11-07-2020,33
+Bulgaria,BGR,12-07-2020,33
+Bulgaria,BGR,13-07-2020,29
+Bulgaria,BGR,14-07-2020,27
+Bulgaria,BGR,15-07-2020,28
+Bulgaria,BGR,16-07-2020,28
+Bulgaria,BGR,17-07-2020,28
+Bulgaria,BGR,18-07-2020,33
+Bulgaria,BGR,19-07-2020,34
+Bulgaria,BGR,20-07-2020,34
+Bulgaria,BGR,21-07-2020,34
+Bulgaria,BGR,22-07-2020,31
+Bulgaria,BGR,23-07-2020,24
+Bulgaria,BGR,24-07-2020,27
+Bulgaria,BGR,25-07-2020,28
+Bulgaria,BGR,26-07-2020,33
+Bulgaria,BGR,27-07-2020,34
+Bulgaria,BGR,28-07-2020,39
+Bulgaria,BGR,29-07-2020,40
+Bulgaria,BGR,30-07-2020,37
+Bulgaria,BGR,31-07-2020,34
+Bulgaria,BGR,01-08-2020,42
+Bulgaria,BGR,02-08-2020,43
+Bulgaria,BGR,03-08-2020,46
+Bulgaria,BGR,04-08-2020,43
+Bulgaria,BGR,05-08-2020,41
+Bulgaria,BGR,06-08-2020,44
+Bulgaria,BGR,07-08-2020,47
+Bulgaria,BGR,08-08-2020,55
+Bulgaria,BGR,09-08-2020,54
+Bulgaria,BGR,10-08-2020,54
+Bulgaria,BGR,11-08-2020,64
+Bulgaria,BGR,12-08-2020,63
+Bulgaria,BGR,13-08-2020,63
+Bulgaria,BGR,14-08-2020,58
+Bulgaria,BGR,15-08-2020,55
+Bulgaria,BGR,16-08-2020,56
+Bulgaria,BGR,17-08-2020,56
+Bulgaria,BGR,18-08-2020,61
+Bulgaria,BGR,19-08-2020,60
+Bulgaria,BGR,20-08-2020,63
+Bulgaria,BGR,21-08-2020,73
+Bulgaria,BGR,22-08-2020,74
+Bulgaria,BGR,23-08-2020,74
+Bulgaria,BGR,24-08-2020,65
+Bulgaria,BGR,25-08-2020,64
+Bulgaria,BGR,26-08-2020,60
+Bulgaria,BGR,27-08-2020,65
+Bulgaria,BGR,28-08-2020,59
+Bulgaria,BGR,29-08-2020,61
+Bulgaria,BGR,30-08-2020,63
+Bulgaria,BGR,31-08-2020,65
+Bulgaria,BGR,01-09-2020,62
+Bulgaria,BGR,02-09-2020,63
+Bulgaria,BGR,03-09-2020,61
+Bulgaria,BGR,04-09-2020,56
+Bulgaria,BGR,05-09-2020,57
+Bulgaria,BGR,06-09-2020,54
+Bulgaria,BGR,07-09-2020,53
+Bulgaria,BGR,08-09-2020,57
+Bulgaria,BGR,09-09-2020,60
+Bulgaria,BGR,10-09-2020,55
+Bulgaria,BGR,11-09-2020,56
+Bulgaria,BGR,12-09-2020,53
+Bulgaria,BGR,13-09-2020,53
+Bulgaria,BGR,14-09-2020,49
+Bulgaria,BGR,15-09-2020,46
+Bulgaria,BGR,16-09-2020,43
+Bulgaria,BGR,17-09-2020,37
+Bulgaria,BGR,18-09-2020,34
+Bulgaria,BGR,19-09-2020,37
+Bulgaria,BGR,20-09-2020,35
+Bulgaria,BGR,21-09-2020,33
+Bulgaria,BGR,22-09-2020,31
+Bulgaria,BGR,23-09-2020,29
+Bulgaria,BGR,24-09-2020,30
+Bulgaria,BGR,25-09-2020,36
+Bulgaria,BGR,26-09-2020,36
+Bulgaria,BGR,27-09-2020,41
+Bulgaria,BGR,28-09-2020,42
+Bulgaria,BGR,29-09-2020,44
+Bulgaria,BGR,30-09-2020,44
+Bulgaria,BGR,01-10-2020,47
+Bulgaria,BGR,02-10-2020,50
+Bulgaria,BGR,03-10-2020,54
+Bulgaria,BGR,04-10-2020,56
+Bulgaria,BGR,05-10-2020,59
+Bulgaria,BGR,06-10-2020,57
+Bulgaria,BGR,07-10-2020,53
+Bulgaria,BGR,08-10-2020,56
+Bulgaria,BGR,09-10-2020,58
+Bulgaria,BGR,10-10-2020,59
+Bulgaria,BGR,11-10-2020,62
+Bulgaria,BGR,12-10-2020,65
+Bulgaria,BGR,13-10-2020,64
+Bulgaria,BGR,14-10-2020,67
+Bulgaria,BGR,15-10-2020,74
+Bulgaria,BGR,16-10-2020,76
+Bulgaria,BGR,17-10-2020,79
+Bulgaria,BGR,18-10-2020,74
+Bulgaria,BGR,19-10-2020,88
+Bulgaria,BGR,20-10-2020,93
+Bulgaria,BGR,21-10-2020,107
+Bulgaria,BGR,22-10-2020,112
+Bulgaria,BGR,23-10-2020,127
+Bulgaria,BGR,24-10-2020,138
+Bulgaria,BGR,25-10-2020,146
+Bulgaria,BGR,26-10-2020,149
+Bulgaria,BGR,27-10-2020,145
+Bulgaria,BGR,28-10-2020,162
+Bulgaria,BGR,29-10-2020,167
+Bulgaria,BGR,30-10-2020,165
+Bulgaria,BGR,31-10-2020,166
+Bulgaria,BGR,01-11-2020,169
+Bulgaria,BGR,02-11-2020,180
+Bulgaria,BGR,03-11-2020,210
+Bulgaria,BGR,04-11-2020,239
+Bulgaria,BGR,05-11-2020,250
+Bulgaria,BGR,06-11-2020,257
+Bulgaria,BGR,07-11-2020,271
+Bulgaria,BGR,08-11-2020,272
+Bulgaria,BGR,09-11-2020,270
+Bulgaria,BGR,10-11-2020,280
+Bulgaria,BGR,11-11-2020,276
+Bulgaria,BGR,12-11-2020,284
+Bulgaria,BGR,13-11-2020,288
+Bulgaria,BGR,14-11-2020,295
+Bulgaria,BGR,15-11-2020,293
+Bulgaria,BGR,16-11-2020,288
+Bulgaria,BGR,17-11-2020,303
+Bulgaria,BGR,18-11-2020,313
+Bulgaria,BGR,19-11-2020,344
+Bulgaria,BGR,20-11-2020,383
+Bulgaria,BGR,21-11-2020,408
+Bulgaria,BGR,22-11-2020,408
+Czech Republic,CZE,10-03-2020,0
+Czech Republic,CZE,11-03-2020,0
+Czech Republic,CZE,12-03-2020,0
+Czech Republic,CZE,13-03-2020,0
+Czech Republic,CZE,14-03-2020,0
+Czech Republic,CZE,15-03-2020,0
+Czech Republic,CZE,16-03-2020,2
+Czech Republic,CZE,17-03-2020,4
+Czech Republic,CZE,18-03-2020,5
+Czech Republic,CZE,19-03-2020,6
+Czech Republic,CZE,20-03-2020,15
+Czech Republic,CZE,21-03-2020,14
+Czech Republic,CZE,22-03-2020,18
+Czech Republic,CZE,23-03-2020,22
+Czech Republic,CZE,24-03-2020,26
+Czech Republic,CZE,25-03-2020,36
+Czech Republic,CZE,26-03-2020,38
+Czech Republic,CZE,27-03-2020,48
+Czech Republic,CZE,28-03-2020,57
+Czech Republic,CZE,29-03-2020,53
+Czech Republic,CZE,30-03-2020,66
+Czech Republic,CZE,31-03-2020,72
+Czech Republic,CZE,01-04-2020,75
+Czech Republic,CZE,02-04-2020,78
+Czech Republic,CZE,03-04-2020,88
+Czech Republic,CZE,04-04-2020,85
+Czech Republic,CZE,05-04-2020,82
+Czech Republic,CZE,06-04-2020,88
+Czech Republic,CZE,07-04-2020,100
+Czech Republic,CZE,08-04-2020,94
+Czech Republic,CZE,09-04-2020,96
+Czech Republic,CZE,10-04-2020,89
+Czech Republic,CZE,11-04-2020,87
+Czech Republic,CZE,12-04-2020,100
+Czech Republic,CZE,13-04-2020,93
+Czech Republic,CZE,14-04-2020,83
+Czech Republic,CZE,15-04-2020,77
+Czech Republic,CZE,16-04-2020,83
+Czech Republic,CZE,17-04-2020,81
+Czech Republic,CZE,18-04-2020,75
+Czech Republic,CZE,19-04-2020,81
+Czech Republic,CZE,20-04-2020,78
+Czech Republic,CZE,21-04-2020,79
+Czech Republic,CZE,22-04-2020,75
+Czech Republic,CZE,23-04-2020,78
+Czech Republic,CZE,24-04-2020,75
+Czech Republic,CZE,25-04-2020,71
+Czech Republic,CZE,26-04-2020,72
+Czech Republic,CZE,27-04-2020,68
+Czech Republic,CZE,28-04-2020,68
+Czech Republic,CZE,29-04-2020,64
+Czech Republic,CZE,30-04-2020,60
+Czech Republic,CZE,01-05-2020,55
+Czech Republic,CZE,02-05-2020,50
+Czech Republic,CZE,03-05-2020,50
+Czech Republic,CZE,04-05-2020,55
+Czech Republic,CZE,05-05-2020,47
+Czech Republic,CZE,06-05-2020,44
+Czech Republic,CZE,07-05-2020,41
+Czech Republic,CZE,08-05-2020,44
+Czech Republic,CZE,09-05-2020,39
+Czech Republic,CZE,10-05-2020,40
+Czech Republic,CZE,11-05-2020,42
+Czech Republic,CZE,12-05-2020,40
+Czech Republic,CZE,13-05-2020,39
+Czech Republic,CZE,14-05-2020,35
+Czech Republic,CZE,15-05-2020,35
+Czech Republic,CZE,16-05-2020,34
+Czech Republic,CZE,17-05-2020,35
+Czech Republic,CZE,18-05-2020,33
+Czech Republic,CZE,19-05-2020,32
+Czech Republic,CZE,20-05-2020,32
+Czech Republic,CZE,21-05-2020,30
+Czech Republic,CZE,22-05-2020,25
+Czech Republic,CZE,23-05-2020,23
+Czech Republic,CZE,24-05-2020,22
+Czech Republic,CZE,25-05-2020,20
+Czech Republic,CZE,26-05-2020,16
+Czech Republic,CZE,27-05-2020,17
+Czech Republic,CZE,28-05-2020,15
+Czech Republic,CZE,29-05-2020,15
+Czech Republic,CZE,30-05-2020,12
+Czech Republic,CZE,31-05-2020,12
+Czech Republic,CZE,01-06-2020,13
+Czech Republic,CZE,02-06-2020,11
+Czech Republic,CZE,03-06-2020,10
+Czech Republic,CZE,04-06-2020,9
+Czech Republic,CZE,05-06-2020,9
+Czech Republic,CZE,06-06-2020,9
+Czech Republic,CZE,07-06-2020,10
+Czech Republic,CZE,08-06-2020,9
+Czech Republic,CZE,09-06-2020,9
+Czech Republic,CZE,10-06-2020,11
+Czech Republic,CZE,11-06-2020,12
+Czech Republic,CZE,12-06-2020,11
+Czech Republic,CZE,13-06-2020,12
+Czech Republic,CZE,14-06-2020,10
+Czech Republic,CZE,15-06-2020,9
+Czech Republic,CZE,16-06-2020,8
+Czech Republic,CZE,17-06-2020,8
+Czech Republic,CZE,18-06-2020,10
+Czech Republic,CZE,19-06-2020,8
+Czech Republic,CZE,20-06-2020,9
+Czech Republic,CZE,21-06-2020,9
+Czech Republic,CZE,22-06-2020,9
+Czech Republic,CZE,23-06-2020,9
+Czech Republic,CZE,24-06-2020,13
+Czech Republic,CZE,25-06-2020,12
+Czech Republic,CZE,26-06-2020,10
+Czech Republic,CZE,27-06-2020,11
+Czech Republic,CZE,28-06-2020,14
+Czech Republic,CZE,29-06-2020,11
+Czech Republic,CZE,30-06-2020,11
+Czech Republic,CZE,01-07-2020,10
+Czech Republic,CZE,02-07-2020,11
+Czech Republic,CZE,03-07-2020,11
+Czech Republic,CZE,04-07-2020,13
+Czech Republic,CZE,05-07-2020,13
+Czech Republic,CZE,06-07-2020,10
+Czech Republic,CZE,07-07-2020,11
+Czech Republic,CZE,08-07-2020,10
+Czech Republic,CZE,09-07-2020,15
+Czech Republic,CZE,10-07-2020,15
+Czech Republic,CZE,11-07-2020,14
+Czech Republic,CZE,12-07-2020,15
+Czech Republic,CZE,13-07-2020,19
+Czech Republic,CZE,14-07-2020,17
+Czech Republic,CZE,15-07-2020,17
+Czech Republic,CZE,16-07-2020,21
+Czech Republic,CZE,17-07-2020,20
+Czech Republic,CZE,18-07-2020,19
+Czech Republic,CZE,19-07-2020,19
+Czech Republic,CZE,20-07-2020,18
+Czech Republic,CZE,21-07-2020,22
+Czech Republic,CZE,22-07-2020,21
+Czech Republic,CZE,23-07-2020,20
+Czech Republic,CZE,24-07-2020,16
+Czech Republic,CZE,25-07-2020,15
+Czech Republic,CZE,26-07-2020,14
+Czech Republic,CZE,27-07-2020,17
+Czech Republic,CZE,28-07-2020,19
+Czech Republic,CZE,29-07-2020,20
+Czech Republic,CZE,30-07-2020,20
+Czech Republic,CZE,31-07-2020,19
+Czech Republic,CZE,01-08-2020,19
+Czech Republic,CZE,02-08-2020,19
+Czech Republic,CZE,03-08-2020,16
+Czech Republic,CZE,04-08-2020,13
+Czech Republic,CZE,05-08-2020,15
+Czech Republic,CZE,06-08-2020,14
+Czech Republic,CZE,07-08-2020,16
+Czech Republic,CZE,08-08-2020,16
+Czech Republic,CZE,09-08-2020,17
+Czech Republic,CZE,10-08-2020,22
+Czech Republic,CZE,11-08-2020,23
+Czech Republic,CZE,12-08-2020,22
+Czech Republic,CZE,13-08-2020,24
+Czech Republic,CZE,14-08-2020,25
+Czech Republic,CZE,15-08-2020,27
+Czech Republic,CZE,16-08-2020,26
+Czech Republic,CZE,17-08-2020,28
+Czech Republic,CZE,18-08-2020,27
+Czech Republic,CZE,19-08-2020,25
+Czech Republic,CZE,20-08-2020,24
+Czech Republic,CZE,21-08-2020,23
+Czech Republic,CZE,22-08-2020,26
+Czech Republic,CZE,23-08-2020,24
+Czech Republic,CZE,24-08-2020,31
+Czech Republic,CZE,25-08-2020,32
+Czech Republic,CZE,26-08-2020,34
+Czech Republic,CZE,27-08-2020,34
+Czech Republic,CZE,28-08-2020,37
+Czech Republic,CZE,29-08-2020,37
+Czech Republic,CZE,30-08-2020,35
+Czech Republic,CZE,31-08-2020,35
+Czech Republic,CZE,01-09-2020,40
+Czech Republic,CZE,02-09-2020,40
+Czech Republic,CZE,03-09-2020,44
+Czech Republic,CZE,04-09-2020,50
+Czech Republic,CZE,05-09-2020,52
+Czech Republic,CZE,06-09-2020,54
+Czech Republic,CZE,07-09-2020,62
+Czech Republic,CZE,08-09-2020,57
+Czech Republic,CZE,09-09-2020,64
+Czech Republic,CZE,10-09-2020,65
+Czech Republic,CZE,11-09-2020,69
+Czech Republic,CZE,12-09-2020,70
+Czech Republic,CZE,13-09-2020,74
+Czech Republic,CZE,14-09-2020,78
+Czech Republic,CZE,15-09-2020,81
+Czech Republic,CZE,16-09-2020,91
+Czech Republic,CZE,17-09-2020,93
+Czech Republic,CZE,18-09-2020,94
+Czech Republic,CZE,19-09-2020,87
+Czech Republic,CZE,20-09-2020,110
+Czech Republic,CZE,21-09-2020,115
+Czech Republic,CZE,22-09-2020,120
+Czech Republic,CZE,23-09-2020,131
+Czech Republic,CZE,24-09-2020,151
+Czech Republic,CZE,25-09-2020,168
+Czech Republic,CZE,26-09-2020,181
+Czech Republic,CZE,27-09-2020,187
+Czech Republic,CZE,28-09-2020,187
+Czech Republic,CZE,29-09-2020,202
+Czech Republic,CZE,30-09-2020,198
+Czech Republic,CZE,01-10-2020,221
+Czech Republic,CZE,02-10-2020,245
+Czech Republic,CZE,03-10-2020,274
+Czech Republic,CZE,04-10-2020,265
+Czech Republic,CZE,05-10-2020,326
+Czech Republic,CZE,06-10-2020,354
+Czech Republic,CZE,07-10-2020,366
+Czech Republic,CZE,08-10-2020,412
+Czech Republic,CZE,09-10-2020,408
+Czech Republic,CZE,10-10-2020,438
+Czech Republic,CZE,11-10-2020,426
+Czech Republic,CZE,12-10-2020,467
+Czech Republic,CZE,13-10-2020,518
+Czech Republic,CZE,14-10-2020,543
+Czech Republic,CZE,15-10-2020,551
+Czech Republic,CZE,16-10-2020,596
+Czech Republic,CZE,17-10-2020,587
+Czech Republic,CZE,18-10-2020,589
+Czech Republic,CZE,19-10-2020,634
+Czech Republic,CZE,20-10-2020,657
+Czech Republic,CZE,21-10-2020,735
+Czech Republic,CZE,22-10-2020,751
+Czech Republic,CZE,23-10-2020,772
+Czech Republic,CZE,24-10-2020,800
+Czech Republic,CZE,25-10-2020,828
+Czech Republic,CZE,26-10-2020,893
+Czech Republic,CZE,27-10-2020,962
+Czech Republic,CZE,28-10-2020,1031
+Czech Republic,CZE,29-10-2020,1068
+Czech Republic,CZE,30-10-2020,1137
+Czech Republic,CZE,31-10-2020,1156
+Czech Republic,CZE,01-11-2020,1163
+Czech Republic,CZE,02-11-2020,1134
+Czech Republic,CZE,03-11-2020,1244
+Czech Republic,CZE,04-11-2020,1196
+Czech Republic,CZE,05-11-2020,1180
+Czech Republic,CZE,06-11-2020,1206
+Czech Republic,CZE,07-11-2020,1196
+Czech Republic,CZE,08-11-2020,1199
+Czech Republic,CZE,09-11-2020,1191
+Czech Republic,CZE,10-11-2020,1133
+Czech Republic,CZE,11-11-2020,1120
+Czech Republic,CZE,12-11-2020,1110
+Czech Republic,CZE,13-11-2020,1099
+Czech Republic,CZE,14-11-2020,1068
+Czech Republic,CZE,15-11-2020,1051
+Czech Republic,CZE,16-11-2020,1008
+Czech Republic,CZE,17-11-2020,961
+Czech Republic,CZE,18-11-2020,919
+Czech Republic,CZE,19-11-2020,913
+Czech Republic,CZE,20-11-2020,860
+Czech Republic,CZE,21-11-2020,839
+Czech Republic,CZE,22-11-2020,828
+Denmark,DNK,16-03-2020,10
+Denmark,DNK,17-03-2020,18
+Denmark,DNK,18-03-2020,24
+Denmark,DNK,19-03-2020,30
+Denmark,DNK,20-03-2020,37
+Denmark,DNK,21-03-2020,42
+Denmark,DNK,22-03-2020,46
+Denmark,DNK,23-03-2020,55
+Denmark,DNK,24-03-2020,69
+Denmark,DNK,25-03-2020,87
+Denmark,DNK,26-03-2020,94
+Denmark,DNK,27-03-2020,109
+Denmark,DNK,28-03-2020,121
+Denmark,DNK,29-03-2020,131
+Denmark,DNK,30-03-2020,137
+Denmark,DNK,31-03-2020,145
+Denmark,DNK,01-04-2020,146
+Denmark,DNK,02-04-2020,146
+Denmark,DNK,03-04-2020,139
+Denmark,DNK,04-04-2020,138
+Denmark,DNK,05-04-2020,138
+Denmark,DNK,06-04-2020,133
+Denmark,DNK,07-04-2020,127
+Denmark,DNK,08-04-2020,127
+Denmark,DNK,09-04-2020,120
+Denmark,DNK,10-04-2020,113
+Denmark,DNK,11-04-2020,106
+Denmark,DNK,12-04-2020,104
+Denmark,DNK,13-04-2020,100
+Denmark,DNK,14-04-2020,93
+Denmark,DNK,15-04-2020,89
+Denmark,DNK,16-04-2020,92
+Denmark,DNK,17-04-2020,93
+Denmark,DNK,18-04-2020,87
+Denmark,DNK,19-04-2020,84
+Denmark,DNK,20-04-2020,84
+Denmark,DNK,21-04-2020,81
+Denmark,DNK,22-04-2020,80
+Denmark,DNK,23-04-2020,74
+Denmark,DNK,24-04-2020,69
+Denmark,DNK,25-04-2020,70
+Denmark,DNK,26-04-2020,70
+Denmark,DNK,27-04-2020,72
+Denmark,DNK,28-04-2020,66
+Denmark,DNK,29-04-2020,66
+Denmark,DNK,30-04-2020,62
+Denmark,DNK,01-05-2020,61
+Denmark,DNK,02-05-2020,60
+Denmark,DNK,03-05-2020,62
+Denmark,DNK,04-05-2020,57
+Denmark,DNK,05-05-2020,49
+Denmark,DNK,06-05-2020,46
+Denmark,DNK,07-05-2020,43
+Denmark,DNK,08-05-2020,42
+Denmark,DNK,09-05-2020,39
+Denmark,DNK,10-05-2020,40
+Denmark,DNK,11-05-2020,43
+Denmark,DNK,12-05-2020,43
+Denmark,DNK,13-05-2020,37
+Denmark,DNK,14-05-2020,35
+Denmark,DNK,15-05-2020,32
+Denmark,DNK,16-05-2020,28
+Denmark,DNK,17-05-2020,27
+Denmark,DNK,18-05-2020,26
+Denmark,DNK,19-05-2020,25
+Denmark,DNK,20-05-2020,25
+Denmark,DNK,21-05-2020,23
+Denmark,DNK,22-05-2020,23
+Denmark,DNK,23-05-2020,19
+Denmark,DNK,24-05-2020,21
+Denmark,DNK,25-05-2020,20
+Denmark,DNK,26-05-2020,23
+Denmark,DNK,27-05-2020,22
+Denmark,DNK,28-05-2020,20
+Denmark,DNK,29-05-2020,18
+Denmark,DNK,30-05-2020,20
+Denmark,DNK,31-05-2020,20
+Denmark,DNK,01-06-2020,20
+Denmark,DNK,02-06-2020,21
+Denmark,DNK,03-06-2020,20
+Denmark,DNK,04-06-2020,17
+Denmark,DNK,05-06-2020,17
+Denmark,DNK,07-06-2020,15
+Denmark,DNK,08-06-2020,16
+Denmark,DNK,09-06-2020,15
+Denmark,DNK,10-06-2020,17
+Denmark,DNK,11-06-2020,13
+Denmark,DNK,12-06-2020,12
+Denmark,DNK,13-06-2020,9
+Denmark,DNK,14-06-2020,9
+Denmark,DNK,15-06-2020,9
+Denmark,DNK,16-06-2020,8
+Denmark,DNK,17-06-2020,6
+Denmark,DNK,18-06-2020,6
+Denmark,DNK,19-06-2020,6
+Denmark,DNK,20-06-2020,6
+Denmark,DNK,21-06-2020,6
+Denmark,DNK,22-06-2020,7
+Denmark,DNK,23-06-2020,8
+Denmark,DNK,24-06-2020,8
+Denmark,DNK,25-06-2020,9
+Denmark,DNK,26-06-2020,11
+Denmark,DNK,01-07-2020,11
+Denmark,DNK,02-07-2020,9
+Denmark,DNK,03-07-2020,6
+Denmark,DNK,04-07-2020,6
+Denmark,DNK,05-07-2020,6
+Denmark,DNK,06-07-2020,7
+Denmark,DNK,07-07-2020,5
+Denmark,DNK,08-07-2020,5
+Denmark,DNK,09-07-2020,5
+Denmark,DNK,10-07-2020,4
+Denmark,DNK,11-07-2020,5
+Denmark,DNK,12-07-2020,6
+Denmark,DNK,13-07-2020,6
+Denmark,DNK,14-07-2020,6
+Denmark,DNK,15-07-2020,6
+Denmark,DNK,16-07-2020,5
+Denmark,DNK,17-07-2020,5
+Denmark,DNK,18-07-2020,2
+Denmark,DNK,19-07-2020,3
+Denmark,DNK,20-07-2020,3
+Denmark,DNK,21-07-2020,4
+Denmark,DNK,22-07-2020,4
+Denmark,DNK,23-07-2020,3
+Denmark,DNK,24-07-2020,3
+Denmark,DNK,25-07-2020,3
+Denmark,DNK,26-07-2020,3
+Denmark,DNK,27-07-2020,3
+Denmark,DNK,28-07-2020,3
+Denmark,DNK,29-07-2020,3
+Denmark,DNK,30-07-2020,3
+Denmark,DNK,31-07-2020,3
+Denmark,DNK,01-08-2020,2
+Denmark,DNK,02-08-2020,2
+Denmark,DNK,03-08-2020,2
+Denmark,DNK,04-08-2020,3
+Denmark,DNK,05-08-2020,2
+Denmark,DNK,06-08-2020,2
+Denmark,DNK,07-08-2020,2
+Denmark,DNK,08-08-2020,2
+Denmark,DNK,09-08-2020,2
+Denmark,DNK,10-08-2020,2
+Denmark,DNK,11-08-2020,2
+Denmark,DNK,12-08-2020,1
+Denmark,DNK,13-08-2020,1
+Denmark,DNK,14-08-2020,1
+Denmark,DNK,15-08-2020,0
+Denmark,DNK,16-08-2020,0
+Denmark,DNK,17-08-2020,1
+Denmark,DNK,18-08-2020,1
+Denmark,DNK,19-08-2020,1
+Denmark,DNK,20-08-2020,1
+Denmark,DNK,21-08-2020,1
+Denmark,DNK,22-08-2020,1
+Denmark,DNK,23-08-2020,2
+Denmark,DNK,24-08-2020,3
+Denmark,DNK,25-08-2020,3
+Denmark,DNK,26-08-2020,3
+Denmark,DNK,27-08-2020,2
+Denmark,DNK,28-08-2020,2
+Denmark,DNK,29-08-2020,4
+Denmark,DNK,30-08-2020,4
+Denmark,DNK,31-08-2020,4
+Denmark,DNK,01-09-2020,4
+Denmark,DNK,02-09-2020,4
+Denmark,DNK,03-09-2020,3
+Denmark,DNK,04-09-2020,3
+Denmark,DNK,05-09-2020,3
+Denmark,DNK,06-09-2020,4
+Denmark,DNK,07-09-2020,3
+Denmark,DNK,08-09-2020,3
+Denmark,DNK,09-09-2020,5
+Denmark,DNK,10-09-2020,5
+Denmark,DNK,11-09-2020,7
+Denmark,DNK,12-09-2020,4
+Denmark,DNK,13-09-2020,4
+Denmark,DNK,14-09-2020,4
+Denmark,DNK,15-09-2020,3
+Denmark,DNK,16-09-2020,2
+Denmark,DNK,17-09-2020,3
+Denmark,DNK,18-09-2020,3
+Denmark,DNK,19-09-2020,4
+Denmark,DNK,20-09-2020,9
+Denmark,DNK,21-09-2020,12
+Denmark,DNK,22-09-2020,14
+Denmark,DNK,23-09-2020,15
+Denmark,DNK,24-09-2020,14
+Denmark,DNK,25-09-2020,16
+Denmark,DNK,26-09-2020,17
+Denmark,DNK,27-09-2020,17
+Denmark,DNK,28-09-2020,17
+Denmark,DNK,29-09-2020,15
+Denmark,DNK,30-09-2020,15
+Denmark,DNK,01-10-2020,15
+Denmark,DNK,02-10-2020,13
+Denmark,DNK,03-10-2020,17
+Denmark,DNK,04-10-2020,18
+Denmark,DNK,05-10-2020,17
+Denmark,DNK,06-10-2020,15
+Denmark,DNK,07-10-2020,15
+Denmark,DNK,08-10-2020,17
+Denmark,DNK,09-10-2020,18
+Denmark,DNK,10-10-2020,20
+Denmark,DNK,11-10-2020,19
+Denmark,DNK,12-10-2020,19
+Denmark,DNK,13-10-2020,19
+Denmark,DNK,14-10-2020,17
+Denmark,DNK,15-10-2020,17
+Denmark,DNK,16-10-2020,16
+Denmark,DNK,17-10-2020,16
+Denmark,DNK,18-10-2020,17
+Denmark,DNK,19-10-2020,18
+Denmark,DNK,20-10-2020,15
+Denmark,DNK,21-10-2020,16
+Denmark,DNK,22-10-2020,17
+Denmark,DNK,23-10-2020,18
+Denmark,DNK,24-10-2020,17
+Denmark,DNK,25-10-2020,18
+Denmark,DNK,26-10-2020,17
+Denmark,DNK,27-10-2020,19
+Denmark,DNK,28-10-2020,18
+Denmark,DNK,29-10-2020,17
+Denmark,DNK,30-10-2020,17
+Denmark,DNK,31-10-2020,19
+Denmark,DNK,01-11-2020,19
+Denmark,DNK,02-11-2020,23
+Denmark,DNK,03-11-2020,22
+Denmark,DNK,04-11-2020,24
+Denmark,DNK,05-11-2020,24
+Denmark,DNK,06-11-2020,23
+Denmark,DNK,07-11-2020,29
+Denmark,DNK,08-11-2020,30
+Denmark,DNK,09-11-2020,33
+Denmark,DNK,10-11-2020,33
+Estonia,EST,26-02-2020,0
+Estonia,EST,27-02-2020,0
+Estonia,EST,28-02-2020,0
+Estonia,EST,29-02-2020,0
+Estonia,EST,01-03-2020,0
+Estonia,EST,02-03-2020,0
+Estonia,EST,03-03-2020,0
+Estonia,EST,04-03-2020,0
+Estonia,EST,05-03-2020,0
+Estonia,EST,06-03-2020,0
+Estonia,EST,07-03-2020,0
+Estonia,EST,08-03-2020,0
+Estonia,EST,09-03-2020,0
+Estonia,EST,10-03-2020,0
+Estonia,EST,11-03-2020,0
+Estonia,EST,12-03-2020,0
+Estonia,EST,13-03-2020,0
+Estonia,EST,14-03-2020,0
+Estonia,EST,15-03-2020,0
+Estonia,EST,16-03-2020,0
+Estonia,EST,17-03-2020,0
+Estonia,EST,18-03-2020,0
+Estonia,EST,19-03-2020,0
+Estonia,EST,20-03-2020,2
+Estonia,EST,21-03-2020,4
+Estonia,EST,22-03-2020,6
+Estonia,EST,23-03-2020,7
+Estonia,EST,24-03-2020,7
+Estonia,EST,25-03-2020,7
+Estonia,EST,26-03-2020,7
+Estonia,EST,27-03-2020,10
+Estonia,EST,28-03-2020,10
+Estonia,EST,29-03-2020,13
+Estonia,EST,30-03-2020,13
+Estonia,EST,31-03-2020,15
+Estonia,EST,01-04-2020,16
+Estonia,EST,02-04-2020,16
+Estonia,EST,03-04-2020,20
+Estonia,EST,04-04-2020,17
+Estonia,EST,05-04-2020,14
+Estonia,EST,06-04-2020,12
+Estonia,EST,07-04-2020,11
+Estonia,EST,08-04-2020,9
+Estonia,EST,09-04-2020,9
+Estonia,EST,10-04-2020,11
+Estonia,EST,11-04-2020,11
+Estonia,EST,12-04-2020,9
+Estonia,EST,13-04-2020,11
+Estonia,EST,14-04-2020,10
+Estonia,EST,15-04-2020,10
+Estonia,EST,16-04-2020,11
+Estonia,EST,17-04-2020,11
+Estonia,EST,18-04-2020,10
+Estonia,EST,19-04-2020,14
+Estonia,EST,20-04-2020,14
+Estonia,EST,21-04-2020,13
+Estonia,EST,22-04-2020,12
+Estonia,EST,23-04-2020,11
+Estonia,EST,24-04-2020,10
+Estonia,EST,25-04-2020,11
+Estonia,EST,26-04-2020,11
+Estonia,EST,27-04-2020,12
+Estonia,EST,28-04-2020,13
+Estonia,EST,29-04-2020,12
+Estonia,EST,30-04-2020,9
+Estonia,EST,01-05-2020,9
+Estonia,EST,02-05-2020,9
+Estonia,EST,03-05-2020,9
+Estonia,EST,04-05-2020,10
+Estonia,EST,05-05-2020,10
+Estonia,EST,06-05-2020,8
+Estonia,EST,07-05-2020,7
+Estonia,EST,08-05-2020,6
+Estonia,EST,09-05-2020,6
+Estonia,EST,10-05-2020,6
+Estonia,EST,11-05-2020,6
+Estonia,EST,12-05-2020,6
+Estonia,EST,13-05-2020,6
+Estonia,EST,14-05-2020,6
+Estonia,EST,15-05-2020,6
+Estonia,EST,16-05-2020,6
+Estonia,EST,17-05-2020,6
+Estonia,EST,18-05-2020,7
+Estonia,EST,19-05-2020,5
+Estonia,EST,20-05-2020,5
+Estonia,EST,21-05-2020,4
+Estonia,EST,22-05-2020,4
+Estonia,EST,23-05-2020,4
+Estonia,EST,24-05-2020,5
+Estonia,EST,25-05-2020,5
+Estonia,EST,26-05-2020,1
+Estonia,EST,27-05-2020,1
+Estonia,EST,28-05-2020,1
+Estonia,EST,29-05-2020,2
+Estonia,EST,30-05-2020,2
+Estonia,EST,31-05-2020,2
+Estonia,EST,01-06-2020,2
+Estonia,EST,02-06-2020,1
+Estonia,EST,03-06-2020,1
+Estonia,EST,04-06-2020,1
+Estonia,EST,05-06-2020,0
+Estonia,EST,06-06-2020,0
+Estonia,EST,07-06-2020,0
+Estonia,EST,08-06-2020,0
+Estonia,EST,09-06-2020,0
+Estonia,EST,10-06-2020,0
+Estonia,EST,11-06-2020,0
+Estonia,EST,12-06-2020,0
+Estonia,EST,13-06-2020,1
+Estonia,EST,14-06-2020,1
+Estonia,EST,15-06-2020,1
+Estonia,EST,16-06-2020,1
+Estonia,EST,17-06-2020,1
+Estonia,EST,18-06-2020,1
+Estonia,EST,19-06-2020,1
+Estonia,EST,20-06-2020,1
+Estonia,EST,21-06-2020,1
+Estonia,EST,22-06-2020,1
+Estonia,EST,23-06-2020,1
+Estonia,EST,24-06-2020,2
+Estonia,EST,25-06-2020,1
+Estonia,EST,26-06-2020,1
+Estonia,EST,27-06-2020,1
+Estonia,EST,28-06-2020,1
+Estonia,EST,29-06-2020,1
+Estonia,EST,30-06-2020,1
+Estonia,EST,01-07-2020,1
+Estonia,EST,02-07-2020,1
+Estonia,EST,03-07-2020,1
+Estonia,EST,04-07-2020,1
+Estonia,EST,05-07-2020,1
+Estonia,EST,06-07-2020,1
+Estonia,EST,07-07-2020,1
+Estonia,EST,08-07-2020,1
+Estonia,EST,09-07-2020,2
+Estonia,EST,10-07-2020,2
+Estonia,EST,11-07-2020,2
+Estonia,EST,12-07-2020,2
+Estonia,EST,13-07-2020,2
+Estonia,EST,14-07-2020,2
+Estonia,EST,15-07-2020,2
+Estonia,EST,16-07-2020,2
+Estonia,EST,17-07-2020,2
+Estonia,EST,18-07-2020,2
+Estonia,EST,19-07-2020,2
+Estonia,EST,20-07-2020,2
+Estonia,EST,21-07-2020,2
+Estonia,EST,22-07-2020,2
+Estonia,EST,23-07-2020,2
+Estonia,EST,24-07-2020,1
+Estonia,EST,25-07-2020,1
+Estonia,EST,26-07-2020,1
+Estonia,EST,27-07-2020,1
+Estonia,EST,28-07-2020,1
+Estonia,EST,29-07-2020,1
+Estonia,EST,30-07-2020,1
+Estonia,EST,31-07-2020,1
+Estonia,EST,01-08-2020,1
+Estonia,EST,02-08-2020,1
+Estonia,EST,03-08-2020,2
+Estonia,EST,04-08-2020,2
+Estonia,EST,05-08-2020,1
+Estonia,EST,06-08-2020,1
+Estonia,EST,07-08-2020,1
+Estonia,EST,08-08-2020,2
+Estonia,EST,09-08-2020,2
+Estonia,EST,10-08-2020,2
+Estonia,EST,11-08-2020,2
+Estonia,EST,12-08-2020,2
+Estonia,EST,13-08-2020,1
+Estonia,EST,14-08-2020,1
+Estonia,EST,15-08-2020,1
+Estonia,EST,16-08-2020,1
+Estonia,EST,17-08-2020,1
+Estonia,EST,18-08-2020,1
+Estonia,EST,19-08-2020,1
+Estonia,EST,20-08-2020,0
+Estonia,EST,21-08-2020,0
+Estonia,EST,22-08-2020,0
+Estonia,EST,23-08-2020,0
+Estonia,EST,24-08-2020,0
+Estonia,EST,25-08-2020,0
+Estonia,EST,26-08-2020,0
+Estonia,EST,27-08-2020,0
+Estonia,EST,28-08-2020,0
+Estonia,EST,29-08-2020,0
+Estonia,EST,30-08-2020,0
+Estonia,EST,31-08-2020,0
+Estonia,EST,01-09-2020,0
+Estonia,EST,02-09-2020,0
+Estonia,EST,03-09-2020,0
+Estonia,EST,04-09-2020,0
+Estonia,EST,05-09-2020,0
+Estonia,EST,06-09-2020,0
+Estonia,EST,07-09-2020,0
+Estonia,EST,08-09-2020,1
+Estonia,EST,09-09-2020,2
+Estonia,EST,10-09-2020,2
+Estonia,EST,11-09-2020,2
+Estonia,EST,12-09-2020,2
+Estonia,EST,13-09-2020,2
+Estonia,EST,14-09-2020,1
+Estonia,EST,15-09-2020,2
+Estonia,EST,16-09-2020,4
+Estonia,EST,17-09-2020,4
+Estonia,EST,18-09-2020,4
+Estonia,EST,19-09-2020,5
+Estonia,EST,20-09-2020,5
+Estonia,EST,21-09-2020,5
+Estonia,EST,22-09-2020,3
+Estonia,EST,23-09-2020,3
+Estonia,EST,24-09-2020,2
+Estonia,EST,25-09-2020,1
+Estonia,EST,26-09-2020,1
+Estonia,EST,27-09-2020,1
+Estonia,EST,28-09-2020,2
+Estonia,EST,29-09-2020,2
+Estonia,EST,30-09-2020,2
+Estonia,EST,01-10-2020,2
+Estonia,EST,02-10-2020,2
+Estonia,EST,03-10-2020,4
+Estonia,EST,04-10-2020,4
+Estonia,EST,05-10-2020,5
+Estonia,EST,06-10-2020,5
+Estonia,EST,07-10-2020,5
+Estonia,EST,08-10-2020,5
+Estonia,EST,09-10-2020,5
+Estonia,EST,10-10-2020,5
+Estonia,EST,11-10-2020,5
+Estonia,EST,12-10-2020,5
+Estonia,EST,13-10-2020,3
+Estonia,EST,14-10-2020,3
+Estonia,EST,15-10-2020,3
+Estonia,EST,16-10-2020,3
+Estonia,EST,17-10-2020,3
+Estonia,EST,18-10-2020,3
+Estonia,EST,19-10-2020,2
+Estonia,EST,20-10-2020,3
+Estonia,EST,21-10-2020,3
+Estonia,EST,22-10-2020,2
+Estonia,EST,23-10-2020,3
+Estonia,EST,24-10-2020,3
+Estonia,EST,25-10-2020,4
+Estonia,EST,26-10-2020,4
+Estonia,EST,27-10-2020,4
+Estonia,EST,28-10-2020,4
+Estonia,EST,29-10-2020,4
+Estonia,EST,30-10-2020,4
+Estonia,EST,31-10-2020,4
+Estonia,EST,01-11-2020,4
+Estonia,EST,02-11-2020,4
+Estonia,EST,03-11-2020,4
+Estonia,EST,04-11-2020,4
+Estonia,EST,05-11-2020,4
+Estonia,EST,06-11-2020,6
+Estonia,EST,07-11-2020,6
+Estonia,EST,08-11-2020,6
+Estonia,EST,09-11-2020,7
+Estonia,EST,10-11-2020,9
+Estonia,EST,11-11-2020,9
+Estonia,EST,12-11-2020,9
+Estonia,EST,13-11-2020,9
+Estonia,EST,14-11-2020,10
+Estonia,EST,15-11-2020,12
+Estonia,EST,16-11-2020,10
+Estonia,EST,17-11-2020,11
+Estonia,EST,18-11-2020,14
+Estonia,EST,19-11-2020,15
+Estonia,EST,20-11-2020,16
+Estonia,EST,21-11-2020,16
+Estonia,EST,22-11-2020,17
+Finland,FIN,21-03-2020,0
+Finland,FIN,25-03-2020,22
+Finland,FIN,26-03-2020,24
+Finland,FIN,27-03-2020,32
+Finland,FIN,28-03-2020,31
+Finland,FIN,29-03-2020,41
+Finland,FIN,30-03-2020,49
+Finland,FIN,31-03-2020,56
+Finland,FIN,01-04-2020,62
+Finland,FIN,02-04-2020,65
+Finland,FIN,03-04-2020,72
+Finland,FIN,04-04-2020,73
+Finland,FIN,05-04-2020,76
+Finland,FIN,06-04-2020,81
+Finland,FIN,07-04-2020,83
+Finland,FIN,08-04-2020,82
+Finland,FIN,09-04-2020,82
+Finland,FIN,10-04-2020,81
+Finland,FIN,11-04-2020,80
+Finland,FIN,12-04-2020,77
+Finland,FIN,13-04-2020,74
+Finland,FIN,14-04-2020,75
+Finland,FIN,15-04-2020,75
+Finland,FIN,16-04-2020,76
+Finland,FIN,17-04-2020,73
+Finland,FIN,18-04-2020,70
+Finland,FIN,19-04-2020,68
+Finland,FIN,20-04-2020,67
+Finland,FIN,21-04-2020,63
+Finland,FIN,22-04-2020,63
+Finland,FIN,23-04-2020,60
+Finland,FIN,24-04-2020,61
+Finland,FIN,25-04-2020,60
+Finland,FIN,26-04-2020,62
+Finland,FIN,27-04-2020,56
+Finland,FIN,28-04-2020,56
+Finland,FIN,29-04-2020,51
+Finland,FIN,30-04-2020,48
+Finland,FIN,01-05-2020,49
+Finland,FIN,02-05-2020,52
+Finland,FIN,03-05-2020,49
+Finland,FIN,04-05-2020,49
+Finland,FIN,05-05-2020,48
+Finland,FIN,06-05-2020,44
+Finland,FIN,07-05-2020,44
+Finland,FIN,08-05-2020,45
+Finland,FIN,09-05-2020,45
+Finland,FIN,10-05-2020,45
+Finland,FIN,11-05-2020,44
+Finland,FIN,12-05-2020,34
+Finland,FIN,13-05-2020,35
+Finland,FIN,14-05-2020,33
+Finland,FIN,15-05-2020,32
+Finland,FIN,16-05-2020,30
+Finland,FIN,17-05-2020,29
+Finland,FIN,18-05-2020,34
+Finland,FIN,19-05-2020,25
+Finland,FIN,20-05-2020,20
+Finland,FIN,21-05-2020,22
+Finland,FIN,22-05-2020,21
+Finland,FIN,23-05-2020,21
+Finland,FIN,24-05-2020,19
+Finland,FIN,25-05-2020,18
+Finland,FIN,26-05-2020,11
+Finland,FIN,27-05-2020,11
+Finland,FIN,28-05-2020,11
+Finland,FIN,29-05-2020,10
+Finland,FIN,30-05-2020,11
+Finland,FIN,31-05-2020,10
+Finland,FIN,01-06-2020,9
+Finland,FIN,02-06-2020,9
+Finland,FIN,03-06-2020,7
+Finland,FIN,04-06-2020,7
+Finland,FIN,05-06-2020,8
+Finland,FIN,06-06-2020,7
+Finland,FIN,07-06-2020,6
+Finland,FIN,08-06-2020,6
+Finland,FIN,09-06-2020,4
+Finland,FIN,10-06-2020,4
+Finland,FIN,11-06-2020,4
+Finland,FIN,12-06-2020,3
+Finland,FIN,13-06-2020,2
+Finland,FIN,14-06-2020,1
+Finland,FIN,15-06-2020,3
+Finland,FIN,16-06-2020,2
+Finland,FIN,17-06-2020,2
+Finland,FIN,22-06-2020,2
+Finland,FIN,24-06-2020,2
+Finland,FIN,26-06-2020,1
+Finland,FIN,29-06-2020,0
+Finland,FIN,01-07-2020,0
+Finland,FIN,03-07-2020,0
+Finland,FIN,06-07-2020,1
+Finland,FIN,08-07-2020,2
+Finland,FIN,10-07-2020,0
+Finland,FIN,13-07-2020,1
+Finland,FIN,15-07-2020,0
+Finland,FIN,17-07-2020,1
+Finland,FIN,20-07-2020,1
+Finland,FIN,21-07-2020,1
+Finland,FIN,22-07-2020,0
+Finland,FIN,24-07-2020,0
+Finland,FIN,27-07-2020,0
+Finland,FIN,29-07-2020,0
+Finland,FIN,31-07-2020,0
+Finland,FIN,03-08-2020,0
+Finland,FIN,04-08-2020,1
+Finland,FIN,05-08-2020,0
+Finland,FIN,07-08-2020,0
+Finland,FIN,10-08-2020,1
+Finland,FIN,12-08-2020,1
+Finland,FIN,14-08-2020,0
+Finland,FIN,17-08-2020,0
+Finland,FIN,19-08-2020,0
+Finland,FIN,21-08-2020,0
+Finland,FIN,24-08-2020,1
+Finland,FIN,26-08-2020,1
+Finland,FIN,28-08-2020,1
+Finland,FIN,31-08-2020,1
+Finland,FIN,02-09-2020,2
+Finland,FIN,04-09-2020,1
+Finland,FIN,07-09-2020,1
+Finland,FIN,09-09-2020,1
+Finland,FIN,11-09-2020,1
+Finland,FIN,14-09-2020,3
+Finland,FIN,16-09-2020,3
+Finland,FIN,18-09-2020,3
+Finland,FIN,21-09-2020,2
+Finland,FIN,23-09-2020,4
+Finland,FIN,25-09-2020,2
+Finland,FIN,28-09-2020,4
+Finland,FIN,30-09-2020,4
+Finland,FIN,02-10-2020,4
+Finland,FIN,05-10-2020,8
+Finland,FIN,07-10-2020,5
+Finland,FIN,09-10-2020,5
+Finland,FIN,12-10-2020,10
+Finland,FIN,14-10-2020,8
+Finland,FIN,16-10-2020,6
+Finland,FIN,19-10-2020,7
+Finland,FIN,21-10-2020,7
+Finland,FIN,23-10-2020,11
+Finland,FIN,26-10-2020,10
+Finland,FIN,28-10-2020,10
+Finland,FIN,30-10-2020,10
+Finland,FIN,02-11-2020,13
+Finland,FIN,04-11-2020,15
+Finland,FIN,06-11-2020,13
+Finland,FIN,09-11-2020,13
+Finland,FIN,11-11-2020,14
+Finland,FIN,13-11-2020,15
+Finland,FIN,16-11-2020,13
+Finland,FIN,18-11-2020,12
+Finland,FIN,20-11-2020,10
+France,FRA,02-02-2020,1
+France,FRA,03-02-2020,1
+France,FRA,04-02-2020,1
+France,FRA,05-02-2020,1
+France,FRA,07-02-2020,1
+France,FRA,08-02-2020,1
+France,FRA,09-02-2020,1
+France,FRA,10-02-2020,1
+France,FRA,12-02-2020,1
+France,FRA,13-02-2020,1
+France,FRA,27-02-2020,2
+France,FRA,29-02-2020,9
+France,FRA,01-03-2020,9
+France,FRA,04-03-2020,15
+France,FRA,05-03-2020,23
+France,FRA,06-03-2020,39
+France,FRA,07-03-2020,45
+France,FRA,09-03-2020,66
+France,FRA,10-03-2020,86
+France,FRA,11-03-2020,105
+France,FRA,12-03-2020,129
+France,FRA,14-03-2020,300
+France,FRA,17-03-2020,699
+France,FRA,18-03-2020,771
+France,FRA,19-03-2020,1002
+France,FRA,20-03-2020,1297
+France,FRA,21-03-2020,1453
+France,FRA,22-03-2020,1674
+France,FRA,23-03-2020,2080
+France,FRA,24-03-2020,2503
+France,FRA,25-03-2020,2935
+France,FRA,26-03-2020,3351
+France,FRA,27-03-2020,3758
+France,FRA,28-03-2020,4236
+France,FRA,29-03-2020,4592
+France,FRA,30-03-2020,5056
+France,FRA,31-03-2020,5496
+France,FRA,01-04-2020,5940
+France,FRA,02-04-2020,6305
+France,FRA,03-04-2020,6556
+France,FRA,04-04-2020,6723
+France,FRA,05-04-2020,6859
+France,FRA,06-04-2020,6948
+France,FRA,07-04-2020,7004
+France,FRA,08-04-2020,7019
+France,FRA,09-04-2020,6937
+France,FRA,10-04-2020,6875
+France,FRA,11-04-2020,6752
+France,FRA,12-04-2020,6714
+France,FRA,13-04-2020,6690
+France,FRA,14-04-2020,6599
+France,FRA,15-04-2020,6331
+France,FRA,16-04-2020,6139
+France,FRA,17-04-2020,5922
+France,FRA,18-04-2020,5733
+France,FRA,19-04-2020,5644
+France,FRA,20-04-2020,5584
+France,FRA,21-04-2020,5334
+France,FRA,22-04-2020,5127
+France,FRA,23-04-2020,4967
+France,FRA,24-04-2020,4785
+France,FRA,25-04-2020,4641
+France,FRA,26-04-2020,4598
+France,FRA,27-04-2020,4526
+France,FRA,28-04-2020,4392
+France,FRA,29-04-2020,4128
+France,FRA,30-04-2020,3947
+France,FRA,01-05-2020,3819
+France,FRA,02-05-2020,3770
+France,FRA,03-05-2020,3762
+France,FRA,04-05-2020,3639
+France,FRA,05-05-2020,3375
+France,FRA,06-05-2020,3095
+France,FRA,07-05-2020,2911
+France,FRA,08-05-2020,2820
+France,FRA,09-05-2020,2764
+France,FRA,10-05-2020,2728
+France,FRA,11-05-2020,2666
+France,FRA,12-05-2020,2496
+France,FRA,13-05-2020,2385
+France,FRA,14-05-2020,2256
+France,FRA,15-05-2020,2162
+France,FRA,16-05-2020,2091
+France,FRA,17-05-2020,2047
+France,FRA,18-05-2020,1958
+France,FRA,19-05-2020,1854
+France,FRA,20-05-2020,1754
+France,FRA,21-05-2020,1708
+France,FRA,22-05-2020,1664
+France,FRA,23-05-2020,1628
+France,FRA,24-05-2020,1618
+France,FRA,25-05-2020,1572
+France,FRA,26-05-2020,1519
+France,FRA,27-05-2020,1467
+France,FRA,28-05-2020,1395
+France,FRA,29-05-2020,1328
+France,FRA,30-05-2020,1293
+France,FRA,31-05-2020,1287
+France,FRA,01-06-2020,1270
+France,FRA,02-06-2020,1221
+France,FRA,03-06-2020,1179
+France,FRA,04-06-2020,1133
+France,FRA,05-06-2020,1065
+France,FRA,06-06-2020,1030
+France,FRA,07-06-2020,1024
+France,FRA,08-06-2020,995
+France,FRA,09-06-2020,926
+France,FRA,10-06-2020,904
+France,FRA,11-06-2020,875
+France,FRA,12-06-2020,851
+France,FRA,13-06-2020,843
+France,FRA,14-06-2020,841
+France,FRA,15-06-2020,818
+France,FRA,16-06-2020,792
+France,FRA,17-06-2020,744
+France,FRA,18-06-2020,724
+France,FRA,19-06-2020,699
+France,FRA,20-06-2020,687
+France,FRA,21-06-2020,687
+France,FRA,22-06-2020,673
+France,FRA,23-06-2020,654
+France,FRA,24-06-2020,630
+France,FRA,25-06-2020,623
+France,FRA,26-06-2020,606
+France,FRA,27-06-2020,594
+France,FRA,28-06-2020,594
+France,FRA,29-06-2020,591
+France,FRA,30-06-2020,574
+France,FRA,01-07-2020,554
+France,FRA,02-07-2020,545
+France,FRA,03-07-2020,533
+France,FRA,04-07-2020,517
+France,FRA,05-07-2020,521
+France,FRA,06-07-2020,521
+France,FRA,07-07-2020,511
+France,FRA,08-07-2020,503
+France,FRA,09-07-2020,486
+France,FRA,10-07-2020,471
+France,FRA,11-07-2020,470
+France,FRA,12-07-2020,473
+France,FRA,13-07-2020,467
+France,FRA,14-07-2020,465
+France,FRA,15-07-2020,457
+France,FRA,16-07-2020,456
+France,FRA,17-07-2020,452
+France,FRA,18-07-2020,450
+France,FRA,19-07-2020,448
+France,FRA,20-07-2020,442
+France,FRA,21-07-2020,430
+France,FRA,22-07-2020,420
+France,FRA,23-07-2020,411
+France,FRA,24-07-2020,385
+France,FRA,25-07-2020,368
+France,FRA,26-07-2020,367
+France,FRA,27-07-2020,374
+France,FRA,28-07-2020,361
+France,FRA,29-07-2020,356
+France,FRA,30-07-2020,357
+France,FRA,31-07-2020,347
+France,FRA,01-08-2020,344
+France,FRA,02-08-2020,345
+France,FRA,03-08-2020,360
+France,FRA,04-08-2020,364
+France,FRA,05-08-2020,360
+France,FRA,06-08-2020,366
+France,FRA,07-08-2020,359
+France,FRA,08-08-2020,366
+France,FRA,09-08-2020,368
+France,FRA,10-08-2020,372
+France,FRA,11-08-2020,367
+France,FRA,12-08-2020,355
+France,FRA,13-08-2020,351
+France,FRA,14-08-2020,344
+France,FRA,15-08-2020,353
+France,FRA,16-08-2020,353
+France,FRA,17-08-2020,361
+France,FRA,18-08-2020,357
+France,FRA,19-08-2020,362
+France,FRA,20-08-2020,368
+France,FRA,21-08-2020,367
+France,FRA,22-08-2020,368
+France,FRA,23-08-2020,371
+France,FRA,24-08-2020,387
+France,FRA,25-08-2020,401
+France,FRA,26-08-2020,373
+France,FRA,27-08-2020,375
+France,FRA,28-08-2020,381
+France,FRA,29-08-2020,394
+France,FRA,30-08-2020,396
+France,FRA,31-08-2020,403
+France,FRA,01-09-2020,418
+France,FRA,02-09-2020,440
+France,FRA,03-09-2020,458
+France,FRA,04-09-2020,467
+France,FRA,05-09-2020,476
+France,FRA,06-09-2020,480
+France,FRA,07-09-2020,531
+France,FRA,08-09-2020,568
+France,FRA,09-09-2020,593
+France,FRA,10-09-2020,608
+France,FRA,11-09-2020,628
+France,FRA,12-09-2020,655
+France,FRA,13-09-2020,662
+France,FRA,14-09-2020,705
+France,FRA,15-09-2020,752
+France,FRA,16-09-2020,796
+France,FRA,17-09-2020,793
+France,FRA,18-09-2020,820
+France,FRA,19-09-2020,827
+France,FRA,20-09-2020,834
+France,FRA,21-09-2020,912
+France,FRA,22-09-2020,944
+France,FRA,23-09-2020,995
+France,FRA,24-09-2020,1041
+France,FRA,25-09-2020,1092
+France,FRA,26-09-2020,1105
+France,FRA,27-09-2020,1112
+France,FRA,28-09-2020,1158
+France,FRA,29-09-2020,1198
+France,FRA,30-09-2020,1232
+France,FRA,01-10-2020,1259
+France,FRA,02-10-2020,1270
+France,FRA,03-10-2020,1289
+France,FRA,04-10-2020,1335
+France,FRA,05-10-2020,1409
+France,FRA,06-10-2020,1417
+France,FRA,07-10-2020,1406
+France,FRA,08-10-2020,1418
+France,FRA,09-10-2020,1439
+France,FRA,10-10-2020,1456
+France,FRA,11-10-2020,1483
+France,FRA,12-10-2020,1539
+France,FRA,13-10-2020,1633
+France,FRA,14-10-2020,1664
+France,FRA,15-10-2020,1741
+France,FRA,16-10-2020,1791
+France,FRA,17-10-2020,1868
+France,FRA,18-10-2020,1939
+France,FRA,19-10-2020,2090
+France,FRA,20-10-2020,2168
+France,FRA,21-10-2020,2239
+France,FRA,22-10-2020,2310
+France,FRA,23-10-2020,2432
+France,FRA,24-10-2020,2491
+France,FRA,25-10-2020,2575
+France,FRA,26-10-2020,2761
+France,FRA,27-10-2020,2909
+France,FRA,28-10-2020,3036
+France,FRA,29-10-2020,3147
+France,FRA,30-10-2020,3368
+France,FRA,31-10-2020,3443
+France,FRA,01-11-2020,3569
+France,FRA,02-11-2020,3721
+France,FRA,03-11-2020,3869
+France,FRA,04-11-2020,4080
+France,FRA,05-11-2020,4221
+France,FRA,06-11-2020,4321
+France,FRA,07-11-2020,4410
+France,FRA,08-11-2020,4527
+France,FRA,09-11-2020,4677
+France,FRA,10-11-2020,4736
+France,FRA,11-11-2020,4789
+France,FRA,12-11-2020,4884
+France,FRA,13-11-2020,4887
+France,FRA,14-11-2020,4855
+France,FRA,15-11-2020,4880
+France,FRA,16-11-2020,4903
+France,FRA,17-11-2020,4838
+France,FRA,18-11-2020,4759
+France,FRA,19-11-2020,4637
+France,FRA,20-11-2020,4566
+France,FRA,21-11-2020,4493
+France,FRA,22-11-2020,4491
+Hungary,HUN,13-05-2020,45
+Hungary,HUN,14-05-2020,49
+Hungary,HUN,15-05-2020,46
+Hungary,HUN,16-05-2020,45
+Hungary,HUN,17-05-2020,47
+Hungary,HUN,18-05-2020,47
+Hungary,HUN,20-05-2020,29
+Hungary,HUN,21-05-2020,27
+Hungary,HUN,22-05-2020,23
+Hungary,HUN,23-05-2020,21
+Hungary,HUN,24-05-2020,28
+Hungary,HUN,25-05-2020,30
+Hungary,HUN,26-05-2020,27
+Hungary,HUN,27-05-2020,25
+Hungary,HUN,28-05-2020,24
+Hungary,HUN,29-05-2020,24
+Hungary,HUN,30-05-2020,22
+Hungary,HUN,31-05-2020,25
+Hungary,HUN,01-06-2020,25
+Hungary,HUN,02-06-2020,24
+Hungary,HUN,03-06-2020,24
+Hungary,HUN,04-06-2020,24
+Hungary,HUN,05-06-2020,21
+Hungary,HUN,06-06-2020,21
+Hungary,HUN,07-06-2020,21
+Hungary,HUN,08-06-2020,21
+Hungary,HUN,09-06-2020,20
+Hungary,HUN,10-06-2020,20
+Hungary,HUN,11-06-2020,19
+Hungary,HUN,12-06-2020,20
+Hungary,HUN,13-06-2020,20
+Hungary,HUN,14-06-2020,20
+Hungary,HUN,15-06-2020,19
+Hungary,HUN,16-06-2020,17
+Hungary,HUN,17-06-2020,16
+Hungary,HUN,18-06-2020,15
+Hungary,HUN,19-06-2020,15
+Hungary,HUN,20-06-2020,15
+Hungary,HUN,21-06-2020,15
+Hungary,HUN,23-06-2020,14
+Hungary,HUN,24-06-2020,13
+Hungary,HUN,25-06-2020,13
+Hungary,HUN,26-06-2020,13
+Hungary,HUN,27-06-2020,11
+Hungary,HUN,28-06-2020,9
+Hungary,HUN,29-06-2020,9
+Hungary,HUN,30-06-2020,9
+Hungary,HUN,01-07-2020,8
+Hungary,HUN,02-07-2020,8
+Hungary,HUN,03-07-2020,9
+Hungary,HUN,04-07-2020,8
+Hungary,HUN,05-07-2020,8
+Hungary,HUN,06-07-2020,8
+Hungary,HUN,07-07-2020,7
+Hungary,HUN,08-07-2020,6
+Hungary,HUN,09-07-2020,6
+Hungary,HUN,10-07-2020,6
+Hungary,HUN,11-07-2020,5
+Hungary,HUN,12-07-2020,5
+Hungary,HUN,13-07-2020,5
+Hungary,HUN,14-07-2020,5
+Hungary,HUN,15-07-2020,5
+Hungary,HUN,16-07-2020,5
+Hungary,HUN,17-07-2020,4
+Hungary,HUN,18-07-2020,3
+Hungary,HUN,19-07-2020,3
+Hungary,HUN,20-07-2020,5
+Hungary,HUN,21-07-2020,4
+Hungary,HUN,22-07-2020,4
+Hungary,HUN,23-07-2020,4
+Hungary,HUN,24-07-2020,4
+Hungary,HUN,25-07-2020,5
+Hungary,HUN,26-07-2020,6
+Hungary,HUN,27-07-2020,6
+Hungary,HUN,28-07-2020,6
+Hungary,HUN,29-07-2020,6
+Hungary,HUN,30-07-2020,6
+Hungary,HUN,31-07-2020,6
+Hungary,HUN,01-08-2020,6
+Hungary,HUN,02-08-2020,7
+Hungary,HUN,03-08-2020,7
+Hungary,HUN,04-08-2020,7
+Hungary,HUN,05-08-2020,7
+Hungary,HUN,06-08-2020,8
+Hungary,HUN,07-08-2020,6
+Hungary,HUN,08-08-2020,6
+Hungary,HUN,09-08-2020,6
+Hungary,HUN,10-08-2020,6
+Hungary,HUN,11-08-2020,5
+Hungary,HUN,12-08-2020,5
+Hungary,HUN,13-08-2020,5
+Hungary,HUN,14-08-2020,6
+Hungary,HUN,15-08-2020,6
+Hungary,HUN,16-08-2020,6
+Hungary,HUN,17-08-2020,6
+Hungary,HUN,18-08-2020,6
+Hungary,HUN,19-08-2020,7
+Hungary,HUN,20-08-2020,7
+Hungary,HUN,21-08-2020,6
+Hungary,HUN,22-08-2020,7
+Hungary,HUN,23-08-2020,7
+Hungary,HUN,24-08-2020,9
+Hungary,HUN,25-08-2020,7
+Hungary,HUN,26-08-2020,7
+Hungary,HUN,27-08-2020,7
+Hungary,HUN,29-08-2020,7
+Hungary,HUN,30-08-2020,7
+Hungary,HUN,31-08-2020,7
+Hungary,HUN,01-09-2020,7
+Hungary,HUN,02-09-2020,7
+Hungary,HUN,03-09-2020,7
+Hungary,HUN,04-09-2020,8
+Hungary,HUN,05-09-2020,9
+Hungary,HUN,06-09-2020,11
+Hungary,HUN,07-09-2020,11
+Hungary,HUN,08-09-2020,12
+Hungary,HUN,09-09-2020,13
+Hungary,HUN,10-09-2020,11
+Hungary,HUN,11-09-2020,12
+Hungary,HUN,12-09-2020,15
+Hungary,HUN,13-09-2020,16
+Hungary,HUN,14-09-2020,16
+Hungary,HUN,15-09-2020,17
+Hungary,HUN,16-09-2020,18
+Hungary,HUN,17-09-2020,21
+Hungary,HUN,18-09-2020,29
+Hungary,HUN,19-09-2020,30
+Hungary,HUN,20-09-2020,32
+Hungary,HUN,21-09-2020,35
+Hungary,HUN,22-09-2020,36
+Hungary,HUN,23-09-2020,35
+Hungary,HUN,24-09-2020,32
+Hungary,HUN,25-09-2020,30
+Hungary,HUN,26-09-2020,36
+Hungary,HUN,27-09-2020,38
+Hungary,HUN,28-09-2020,44
+Hungary,HUN,29-09-2020,51
+Hungary,HUN,30-09-2020,54
+Hungary,HUN,01-10-2020,52
+Hungary,HUN,02-10-2020,47
+Hungary,HUN,03-10-2020,43
+Hungary,HUN,04-10-2020,42
+Hungary,HUN,05-10-2020,40
+Hungary,HUN,06-10-2020,37
+Hungary,HUN,07-10-2020,41
+Hungary,HUN,08-10-2020,56
+Hungary,HUN,09-10-2020,82
+Hungary,HUN,10-10-2020,110
+Hungary,HUN,11-10-2020,138
+Hungary,HUN,12-10-2020,154
+Hungary,HUN,13-10-2020,160
+Hungary,HUN,14-10-2020,156
+Hungary,HUN,15-10-2020,167
+Hungary,HUN,16-10-2020,171
+Hungary,HUN,17-10-2020,185
+Hungary,HUN,18-10-2020,179
+Hungary,HUN,19-10-2020,188
+Hungary,HUN,20-10-2020,197
+Hungary,HUN,21-10-2020,201
+Hungary,HUN,22-10-2020,197
+Hungary,HUN,23-10-2020,200
+Hungary,HUN,24-10-2020,205
+Hungary,HUN,25-10-2020,221
+Hungary,HUN,26-10-2020,233
+Hungary,HUN,27-10-2020,243
+Hungary,HUN,28-10-2020,263
+Hungary,HUN,29-10-2020,255
+Hungary,HUN,30-10-2020,267
+Hungary,HUN,31-10-2020,281
+Hungary,HUN,01-11-2020,306
+Hungary,HUN,02-11-2020,313
+Hungary,HUN,03-11-2020,348
+Hungary,HUN,04-11-2020,355
+Hungary,HUN,05-11-2020,378
+Hungary,HUN,06-11-2020,391
+Hungary,HUN,07-11-2020,405
+Hungary,HUN,08-11-2020,417
+Hungary,HUN,09-11-2020,415
+Hungary,HUN,10-11-2020,461
+Hungary,HUN,11-11-2020,473
+Hungary,HUN,12-11-2020,486
+Hungary,HUN,13-11-2020,518
+Hungary,HUN,14-11-2020,531
+Hungary,HUN,15-11-2020,569
+Hungary,HUN,16-11-2020,582
+Hungary,HUN,17-11-2020,576
+Hungary,HUN,18-11-2020,581
+Hungary,HUN,19-11-2020,580
+Hungary,HUN,20-11-2020,604
+Hungary,HUN,21-11-2020,599
+Hungary,HUN,22-11-2020,618
+Iceland,ISL,28-02-2020,0
+Iceland,ISL,29-02-2020,0
+Iceland,ISL,01-03-2020,0
+Iceland,ISL,02-03-2020,0
+Iceland,ISL,03-03-2020,0
+Iceland,ISL,04-03-2020,0
+Iceland,ISL,05-03-2020,0
+Iceland,ISL,06-03-2020,0
+Iceland,ISL,07-03-2020,0
+Iceland,ISL,08-03-2020,0
+Iceland,ISL,09-03-2020,0
+Iceland,ISL,10-03-2020,0
+Iceland,ISL,11-03-2020,0
+Iceland,ISL,12-03-2020,0
+Iceland,ISL,13-03-2020,0
+Iceland,ISL,14-03-2020,1
+Iceland,ISL,15-03-2020,2
+Iceland,ISL,16-03-2020,2
+Iceland,ISL,17-03-2020,2
+Iceland,ISL,18-03-2020,0
+Iceland,ISL,19-03-2020,1
+Iceland,ISL,20-03-2020,1
+Iceland,ISL,21-03-2020,1
+Iceland,ISL,22-03-2020,0
+Iceland,ISL,23-03-2020,2
+Iceland,ISL,24-03-2020,2
+Iceland,ISL,25-03-2020,3
+Iceland,ISL,26-03-2020,6
+Iceland,ISL,27-03-2020,6
+Iceland,ISL,28-03-2020,7
+Iceland,ISL,29-03-2020,10
+Iceland,ISL,30-03-2020,11
+Iceland,ISL,31-03-2020,13
+Iceland,ISL,01-04-2020,14
+Iceland,ISL,02-04-2020,12
+Iceland,ISL,03-04-2020,11
+Iceland,ISL,04-04-2020,11
+Iceland,ISL,05-04-2020,11
+Iceland,ISL,06-04-2020,13
+Iceland,ISL,07-04-2020,12
+Iceland,ISL,08-04-2020,11
+Iceland,ISL,09-04-2020,11
+Iceland,ISL,10-04-2020,10
+Iceland,ISL,11-04-2020,9
+Iceland,ISL,12-04-2020,9
+Iceland,ISL,13-04-2020,8
+Iceland,ISL,14-04-2020,8
+Iceland,ISL,15-04-2020,6
+Iceland,ISL,16-04-2020,3
+Iceland,ISL,17-04-2020,5
+Iceland,ISL,18-04-2020,5
+Iceland,ISL,19-04-2020,5
+Iceland,ISL,20-04-2020,5
+Iceland,ISL,21-04-2020,5
+Iceland,ISL,22-04-2020,5
+Iceland,ISL,23-04-2020,5
+Iceland,ISL,24-04-2020,3
+Iceland,ISL,25-04-2020,3
+Iceland,ISL,26-04-2020,2
+Iceland,ISL,27-04-2020,1
+Iceland,ISL,28-04-2020,0
+Iceland,ISL,29-04-2020,0
+Iceland,ISL,30-04-2020,0
+Iceland,ISL,01-05-2020,0
+Iceland,ISL,02-05-2020,0
+Iceland,ISL,03-05-2020,0
+Iceland,ISL,04-05-2020,0
+Iceland,ISL,05-05-2020,0
+Iceland,ISL,06-05-2020,0
+Iceland,ISL,07-05-2020,0
+Iceland,ISL,08-05-2020,0
+Iceland,ISL,09-05-2020,0
+Iceland,ISL,10-05-2020,0
+Iceland,ISL,11-05-2020,0
+Iceland,ISL,12-05-2020,0
+Iceland,ISL,13-05-2020,0
+Iceland,ISL,14-05-2020,0
+Iceland,ISL,15-05-2020,0
+Iceland,ISL,16-05-2020,0
+Iceland,ISL,17-05-2020,0
+Iceland,ISL,18-05-2020,0
+Iceland,ISL,19-05-2020,0
+Iceland,ISL,20-05-2020,0
+Iceland,ISL,21-05-2020,0
+Iceland,ISL,22-05-2020,0
+Iceland,ISL,23-05-2020,0
+Iceland,ISL,24-05-2020,0
+Iceland,ISL,25-05-2020,0
+Iceland,ISL,26-05-2020,0
+Iceland,ISL,27-05-2020,0
+Iceland,ISL,28-05-2020,0
+Iceland,ISL,29-05-2020,0
+Iceland,ISL,30-05-2020,0
+Iceland,ISL,31-05-2020,0
+Iceland,ISL,01-06-2020,0
+Iceland,ISL,02-06-2020,0
+Iceland,ISL,03-06-2020,0
+Iceland,ISL,04-06-2020,0
+Iceland,ISL,05-06-2020,0
+Iceland,ISL,06-06-2020,0
+Iceland,ISL,07-06-2020,0
+Iceland,ISL,08-06-2020,0
+Iceland,ISL,09-06-2020,0
+Iceland,ISL,10-06-2020,0
+Iceland,ISL,11-06-2020,0
+Iceland,ISL,12-06-2020,0
+Iceland,ISL,13-06-2020,0
+Iceland,ISL,14-06-2020,0
+Iceland,ISL,15-06-2020,0
+Iceland,ISL,16-06-2020,0
+Iceland,ISL,17-06-2020,0
+Iceland,ISL,18-06-2020,0
+Iceland,ISL,19-06-2020,0
+Iceland,ISL,20-06-2020,0
+Iceland,ISL,21-06-2020,0
+Iceland,ISL,22-06-2020,0
+Iceland,ISL,23-06-2020,0
+Iceland,ISL,24-06-2020,0
+Iceland,ISL,25-06-2020,0
+Iceland,ISL,26-06-2020,0
+Iceland,ISL,27-06-2020,0
+Iceland,ISL,28-06-2020,0
+Iceland,ISL,29-06-2020,0
+Iceland,ISL,30-06-2020,0
+Iceland,ISL,01-07-2020,0
+Iceland,ISL,02-07-2020,0
+Iceland,ISL,03-07-2020,0
+Iceland,ISL,04-07-2020,0
+Iceland,ISL,05-07-2020,0
+Iceland,ISL,06-07-2020,0
+Iceland,ISL,07-07-2020,0
+Iceland,ISL,08-07-2020,0
+Iceland,ISL,09-07-2020,0
+Iceland,ISL,10-07-2020,0
+Iceland,ISL,11-07-2020,0
+Iceland,ISL,12-07-2020,0
+Iceland,ISL,13-07-2020,0
+Iceland,ISL,14-07-2020,0
+Iceland,ISL,15-07-2020,0
+Iceland,ISL,16-07-2020,0
+Iceland,ISL,17-07-2020,0
+Iceland,ISL,18-07-2020,0
+Iceland,ISL,19-07-2020,0
+Iceland,ISL,20-07-2020,0
+Iceland,ISL,21-07-2020,0
+Iceland,ISL,22-07-2020,0
+Iceland,ISL,23-07-2020,0
+Iceland,ISL,04-08-2020,0
+Iceland,ISL,05-08-2020,0
+Iceland,ISL,06-08-2020,0
+Iceland,ISL,07-08-2020,1
+Iceland,ISL,09-08-2020,1
+Iceland,ISL,10-08-2020,1
+Iceland,ISL,11-08-2020,1
+Iceland,ISL,12-08-2020,1
+Iceland,ISL,13-08-2020,0
+Iceland,ISL,14-08-2020,0
+Iceland,ISL,17-08-2020,0
+Iceland,ISL,18-08-2020,0
+Iceland,ISL,19-08-2020,0
+Iceland,ISL,20-08-2020,0
+Iceland,ISL,21-08-2020,0
+Iceland,ISL,22-08-2020,0
+Iceland,ISL,23-08-2020,0
+Iceland,ISL,24-08-2020,0
+Iceland,ISL,25-08-2020,0
+Iceland,ISL,26-08-2020,0
+Iceland,ISL,27-08-2020,0
+Iceland,ISL,28-08-2020,0
+Iceland,ISL,29-08-2020,0
+Iceland,ISL,30-08-2020,0
+Iceland,ISL,31-08-2020,0
+Iceland,ISL,01-09-2020,0
+Iceland,ISL,02-09-2020,0
+Iceland,ISL,03-09-2020,0
+Iceland,ISL,04-09-2020,0
+Iceland,ISL,05-09-2020,0
+Iceland,ISL,06-09-2020,0
+Iceland,ISL,07-09-2020,0
+Iceland,ISL,08-09-2020,1
+Iceland,ISL,05-11-2020,4
+Iceland,ISL,06-11-2020,4
+Iceland,ISL,07-11-2020,4
+Iceland,ISL,08-11-2020,3
+Iceland,ISL,09-11-2020,3
+Iceland,ISL,10-11-2020,3
+Iceland,ISL,11-11-2020,3
+Iceland,ISL,12-11-2020,2
+Iceland,ISL,13-11-2020,3
+Iceland,ISL,14-11-2020,3
+Iceland,ISL,15-11-2020,3
+Iceland,ISL,16-11-2020,4
+Iceland,ISL,17-11-2020,4
+Iceland,ISL,18-11-2020,4
+Ireland,IRL,27-03-2020,68
+Ireland,IRL,28-03-2020,80
+Ireland,IRL,29-03-2020,96
+Ireland,IRL,30-03-2020,107
+Ireland,IRL,31-03-2020,120
+Ireland,IRL,01-04-2020,128
+Ireland,IRL,02-04-2020,132
+Ireland,IRL,03-04-2020,137
+Ireland,IRL,04-04-2020,140
+Ireland,IRL,05-04-2020,139
+Ireland,IRL,06-04-2020,144
+Ireland,IRL,07-04-2020,143
+Ireland,IRL,08-04-2020,146
+Ireland,IRL,09-04-2020,151
+Ireland,IRL,10-04-2020,155
+Ireland,IRL,11-04-2020,155
+Ireland,IRL,12-04-2020,148
+Ireland,IRL,13-04-2020,143
+Ireland,IRL,14-04-2020,149
+Ireland,IRL,15-04-2020,140
+Ireland,IRL,16-04-2020,142
+Ireland,IRL,17-04-2020,137
+Ireland,IRL,18-04-2020,134
+Ireland,IRL,19-04-2020,133
+Ireland,IRL,20-04-2020,139
+Ireland,IRL,21-04-2020,133
+Ireland,IRL,22-04-2020,131
+Ireland,IRL,23-04-2020,123
+Ireland,IRL,24-04-2020,118
+Ireland,IRL,25-04-2020,123
+Ireland,IRL,26-04-2020,120
+Ireland,IRL,27-04-2020,117
+Ireland,IRL,28-04-2020,113
+Ireland,IRL,29-04-2020,103
+Ireland,IRL,30-04-2020,106
+Ireland,IRL,01-05-2020,99
+Ireland,IRL,02-05-2020,99
+Ireland,IRL,03-05-2020,93
+Ireland,IRL,04-05-2020,91
+Ireland,IRL,05-05-2020,90
+Ireland,IRL,06-05-2020,82
+Ireland,IRL,07-05-2020,76
+Ireland,IRL,08-05-2020,72
+Ireland,IRL,09-05-2020,72
+Ireland,IRL,10-05-2020,72
+Ireland,IRL,11-05-2020,69
+Ireland,IRL,12-05-2020,67
+Ireland,IRL,13-05-2020,62
+Ireland,IRL,14-05-2020,59
+Ireland,IRL,15-05-2020,56
+Ireland,IRL,16-05-2020,54
+Ireland,IRL,17-05-2020,51
+Ireland,IRL,18-05-2020,55
+Ireland,IRL,19-05-2020,54
+Ireland,IRL,20-05-2020,49
+Ireland,IRL,21-05-2020,52
+Ireland,IRL,22-05-2020,49
+Ireland,IRL,23-05-2020,51
+Ireland,IRL,24-05-2020,49
+Ireland,IRL,25-05-2020,48
+Ireland,IRL,26-05-2020,48
+Ireland,IRL,27-05-2020,48
+Ireland,IRL,28-05-2020,45
+Ireland,IRL,29-05-2020,42
+Ireland,IRL,30-05-2020,36
+Ireland,IRL,31-05-2020,36
+Ireland,IRL,01-06-2020,37
+Ireland,IRL,02-06-2020,36
+Ireland,IRL,03-06-2020,37
+Ireland,IRL,04-06-2020,36
+Ireland,IRL,05-06-2020,37
+Ireland,IRL,06-06-2020,36
+Ireland,IRL,07-06-2020,34
+Ireland,IRL,08-06-2020,34
+Ireland,IRL,09-06-2020,35
+Ireland,IRL,10-06-2020,29
+Ireland,IRL,11-06-2020,27
+Ireland,IRL,12-06-2020,27
+Ireland,IRL,14-06-2020,27
+Ireland,IRL,15-06-2020,24
+Ireland,IRL,16-06-2020,20
+Ireland,IRL,17-06-2020,21
+Ireland,IRL,18-06-2020,21
+Ireland,IRL,19-06-2020,16
+Ireland,IRL,20-06-2020,17
+Ireland,IRL,21-06-2020,16
+Ireland,IRL,22-06-2020,16
+Ireland,IRL,23-06-2020,11
+Ireland,IRL,24-06-2020,9
+Ireland,IRL,25-06-2020,12
+Ireland,IRL,26-06-2020,12
+Ireland,IRL,27-06-2020,11
+Ireland,IRL,28-06-2020,11
+Ireland,IRL,29-06-2020,12
+Ireland,IRL,30-06-2020,13
+Ireland,IRL,01-07-2020,12
+Ireland,IRL,02-07-2020,10
+Ireland,IRL,03-07-2020,10
+Ireland,IRL,04-07-2020,11
+Ireland,IRL,05-07-2020,10
+Ireland,IRL,06-07-2020,10
+Ireland,IRL,07-07-2020,9
+Ireland,IRL,08-07-2020,9
+Ireland,IRL,09-07-2020,9
+Ireland,IRL,10-07-2020,9
+Ireland,IRL,11-07-2020,10
+Ireland,IRL,12-07-2020,11
+Ireland,IRL,13-07-2020,10
+Ireland,IRL,14-07-2020,10
+Ireland,IRL,15-07-2020,8
+Ireland,IRL,16-07-2020,8
+Ireland,IRL,17-07-2020,8
+Ireland,IRL,18-07-2020,8
+Ireland,IRL,19-07-2020,9
+Ireland,IRL,20-07-2020,8
+Ireland,IRL,21-07-2020,7
+Ireland,IRL,22-07-2020,6
+Ireland,IRL,23-07-2020,6
+Ireland,IRL,24-07-2020,5
+Ireland,IRL,25-07-2020,5
+Ireland,IRL,26-07-2020,5
+Ireland,IRL,27-07-2020,6
+Ireland,IRL,28-07-2020,6
+Ireland,IRL,29-07-2020,4
+Ireland,IRL,30-07-2020,4
+Ireland,IRL,31-07-2020,4
+Ireland,IRL,01-08-2020,4
+Ireland,IRL,02-08-2020,4
+Ireland,IRL,03-08-2020,5
+Ireland,IRL,04-08-2020,5
+Ireland,IRL,05-08-2020,6
+Ireland,IRL,06-08-2020,5
+Ireland,IRL,07-08-2020,5
+Ireland,IRL,08-08-2020,6
+Ireland,IRL,09-08-2020,6
+Ireland,IRL,10-08-2020,7
+Ireland,IRL,11-08-2020,5
+Ireland,IRL,12-08-2020,6
+Ireland,IRL,13-08-2020,6
+Ireland,IRL,14-08-2020,8
+Ireland,IRL,15-08-2020,8
+Ireland,IRL,16-08-2020,8
+Ireland,IRL,17-08-2020,8
+Ireland,IRL,18-08-2020,7
+Ireland,IRL,19-08-2020,6
+Ireland,IRL,20-08-2020,6
+Ireland,IRL,21-08-2020,6
+Ireland,IRL,22-08-2020,6
+Ireland,IRL,23-08-2020,6
+Ireland,IRL,24-08-2020,5
+Ireland,IRL,25-08-2020,4
+Ireland,IRL,26-08-2020,4
+Ireland,IRL,27-08-2020,5
+Ireland,IRL,28-08-2020,5
+Ireland,IRL,29-08-2020,5
+Ireland,IRL,30-08-2020,5
+Ireland,IRL,31-08-2020,6
+Ireland,IRL,01-09-2020,6
+Ireland,IRL,02-09-2020,6
+Ireland,IRL,03-09-2020,7
+Ireland,IRL,04-09-2020,7
+Ireland,IRL,05-09-2020,7
+Ireland,IRL,06-09-2020,6
+Ireland,IRL,07-09-2020,6
+Ireland,IRL,08-09-2020,6
+Ireland,IRL,09-09-2020,6
+Ireland,IRL,10-09-2020,7
+Ireland,IRL,11-09-2020,7
+Ireland,IRL,12-09-2020,9
+Ireland,IRL,13-09-2020,10
+Ireland,IRL,14-09-2020,11
+Ireland,IRL,15-09-2020,13
+Ireland,IRL,16-09-2020,14
+Ireland,IRL,17-09-2020,14
+Ireland,IRL,18-09-2020,15
+Ireland,IRL,19-09-2020,16
+Ireland,IRL,20-09-2020,16
+Ireland,IRL,21-09-2020,17
+Ireland,IRL,22-09-2020,16
+Ireland,IRL,23-09-2020,17
+Ireland,IRL,24-09-2020,16
+Ireland,IRL,25-09-2020,17
+Ireland,IRL,26-09-2020,18
+Ireland,IRL,27-09-2020,17
+Ireland,IRL,28-09-2020,17
+Ireland,IRL,29-09-2020,18
+Ireland,IRL,30-09-2020,22
+Ireland,IRL,01-10-2020,20
+Ireland,IRL,02-10-2020,21
+Ireland,IRL,03-10-2020,20
+Ireland,IRL,04-10-2020,21
+Ireland,IRL,05-10-2020,23
+Ireland,IRL,06-10-2020,24
+Ireland,IRL,07-10-2020,27
+Ireland,IRL,08-10-2020,25
+Ireland,IRL,09-10-2020,31
+Ireland,IRL,10-10-2020,30
+Ireland,IRL,11-10-2020,30
+Ireland,IRL,12-10-2020,32
+Ireland,IRL,13-10-2020,31
+Ireland,IRL,14-10-2020,30
+Ireland,IRL,15-10-2020,29
+Ireland,IRL,16-10-2020,30
+Ireland,IRL,17-10-2020,30
+Ireland,IRL,18-10-2020,31
+Ireland,IRL,19-10-2020,32
+Ireland,IRL,20-10-2020,34
+Ireland,IRL,21-10-2020,35
+Ireland,IRL,22-10-2020,37
+Ireland,IRL,23-10-2020,38
+Ireland,IRL,24-10-2020,37
+Ireland,IRL,25-10-2020,39
+Ireland,IRL,26-10-2020,38
+Ireland,IRL,27-10-2020,38
+Ireland,IRL,28-10-2020,40
+Ireland,IRL,29-10-2020,43
+Ireland,IRL,30-10-2020,42
+Ireland,IRL,31-10-2020,44
+Ireland,IRL,01-11-2020,44
+Ireland,IRL,02-11-2020,44
+Ireland,IRL,03-11-2020,43
+Ireland,IRL,04-11-2020,40
+Ireland,IRL,05-11-2020,38
+Ireland,IRL,06-11-2020,37
+Ireland,IRL,07-11-2020,40
+Ireland,IRL,08-11-2020,40
+Ireland,IRL,09-11-2020,41
+Ireland,IRL,10-11-2020,40
+Ireland,IRL,11-11-2020,39
+Ireland,IRL,12-11-2020,38
+Ireland,IRL,13-11-2020,33
+Ireland,IRL,14-11-2020,33
+Ireland,IRL,15-11-2020,30
+Ireland,IRL,16-11-2020,34
+Ireland,IRL,17-11-2020,34
+Ireland,IRL,18-11-2020,33
+Ireland,IRL,19-11-2020,32
+Ireland,IRL,20-11-2020,33
+Ireland,IRL,21-11-2020,32
+Ireland,IRL,22-11-2020,31
+Italy,ITA,24-02-2020,26
+Italy,ITA,25-02-2020,35
+Italy,ITA,26-02-2020,36
+Italy,ITA,27-02-2020,56
+Italy,ITA,28-02-2020,64
+Italy,ITA,29-02-2020,105
+Italy,ITA,01-03-2020,140
+Italy,ITA,02-03-2020,166
+Italy,ITA,03-03-2020,229
+Italy,ITA,04-03-2020,295
+Italy,ITA,05-03-2020,351
+Italy,ITA,06-03-2020,462
+Italy,ITA,07-03-2020,567
+Italy,ITA,08-03-2020,650
+Italy,ITA,09-03-2020,733
+Italy,ITA,10-03-2020,877
+Italy,ITA,11-03-2020,1028
+Italy,ITA,12-03-2020,1153
+Italy,ITA,13-03-2020,1328
+Italy,ITA,14-03-2020,1518
+Italy,ITA,15-03-2020,1672
+Italy,ITA,16-03-2020,1851
+Italy,ITA,17-03-2020,2060
+Italy,ITA,18-03-2020,2257
+Italy,ITA,19-03-2020,2498
+Italy,ITA,20-03-2020,2655
+Italy,ITA,21-03-2020,2857
+Italy,ITA,22-03-2020,3009
+Italy,ITA,23-03-2020,3204
+Italy,ITA,24-03-2020,3396
+Italy,ITA,25-03-2020,3489
+Italy,ITA,26-03-2020,3612
+Italy,ITA,27-03-2020,3732
+Italy,ITA,28-03-2020,3856
+Italy,ITA,29-03-2020,3906
+Italy,ITA,30-03-2020,3981
+Italy,ITA,31-03-2020,4023
+Italy,ITA,01-04-2020,4035
+Italy,ITA,02-04-2020,4053
+Italy,ITA,03-04-2020,4068
+Italy,ITA,04-04-2020,3994
+Italy,ITA,05-04-2020,3977
+Italy,ITA,06-04-2020,3898
+Italy,ITA,07-04-2020,3792
+Italy,ITA,08-04-2020,3693
+Italy,ITA,09-04-2020,3605
+Italy,ITA,10-04-2020,3497
+Italy,ITA,11-04-2020,3381
+Italy,ITA,12-04-2020,3343
+Italy,ITA,13-04-2020,3260
+Italy,ITA,14-04-2020,3186
+Italy,ITA,15-04-2020,3079
+Italy,ITA,16-04-2020,2936
+Italy,ITA,17-04-2020,2812
+Italy,ITA,18-04-2020,2733
+Italy,ITA,19-04-2020,2635
+Italy,ITA,20-04-2020,2573
+Italy,ITA,21-04-2020,2471
+Italy,ITA,22-04-2020,2384
+Italy,ITA,23-04-2020,2267
+Italy,ITA,24-04-2020,2173
+Italy,ITA,25-04-2020,2102
+Italy,ITA,26-04-2020,2009
+Italy,ITA,27-04-2020,1956
+Italy,ITA,28-04-2020,1863
+Italy,ITA,29-04-2020,1795
+Italy,ITA,30-04-2020,1694
+Italy,ITA,01-05-2020,1578
+Italy,ITA,02-05-2020,1539
+Italy,ITA,03-05-2020,1501
+Italy,ITA,04-05-2020,1479
+Italy,ITA,05-05-2020,1427
+Italy,ITA,06-05-2020,1333
+Italy,ITA,07-05-2020,1311
+Italy,ITA,08-05-2020,1168
+Italy,ITA,09-05-2020,1034
+Italy,ITA,10-05-2020,1027
+Italy,ITA,11-05-2020,999
+Italy,ITA,12-05-2020,952
+Italy,ITA,13-05-2020,893
+Italy,ITA,14-05-2020,855
+Italy,ITA,15-05-2020,808
+Italy,ITA,16-05-2020,775
+Italy,ITA,17-05-2020,762
+Italy,ITA,18-05-2020,749
+Italy,ITA,19-05-2020,716
+Italy,ITA,20-05-2020,676
+Italy,ITA,21-05-2020,640
+Italy,ITA,22-05-2020,595
+Italy,ITA,23-05-2020,572
+Italy,ITA,24-05-2020,553
+Italy,ITA,25-05-2020,541
+Italy,ITA,26-05-2020,521
+Italy,ITA,27-05-2020,505
+Italy,ITA,28-05-2020,489
+Italy,ITA,29-05-2020,475
+Italy,ITA,30-05-2020,450
+Italy,ITA,31-05-2020,435
+Italy,ITA,01-06-2020,424
+Italy,ITA,02-06-2020,408
+Italy,ITA,03-06-2020,353
+Italy,ITA,04-06-2020,338
+Italy,ITA,05-06-2020,316
+Italy,ITA,06-06-2020,293
+Italy,ITA,07-06-2020,287
+Italy,ITA,08-06-2020,283
+Italy,ITA,09-06-2020,263
+Italy,ITA,10-06-2020,249
+Italy,ITA,11-06-2020,236
+Italy,ITA,12-06-2020,227
+Italy,ITA,13-06-2020,220
+Italy,ITA,14-06-2020,209
+Italy,ITA,15-06-2020,207
+Italy,ITA,16-06-2020,177
+Italy,ITA,17-06-2020,163
+Italy,ITA,18-06-2020,168
+Italy,ITA,19-06-2020,161
+Italy,ITA,20-06-2020,152
+Italy,ITA,21-06-2020,148
+Italy,ITA,22-06-2020,127
+Italy,ITA,23-06-2020,115
+Italy,ITA,24-06-2020,107
+Italy,ITA,25-06-2020,103
+Italy,ITA,26-06-2020,105
+Italy,ITA,27-06-2020,97
+Italy,ITA,28-06-2020,98
+Italy,ITA,29-06-2020,96
+Italy,ITA,30-06-2020,93
+Italy,ITA,01-07-2020,87
+Italy,ITA,02-07-2020,82
+Italy,ITA,03-07-2020,79
+Italy,ITA,04-07-2020,71
+Italy,ITA,05-07-2020,74
+Italy,ITA,06-07-2020,72
+Italy,ITA,07-07-2020,70
+Italy,ITA,08-07-2020,71
+Italy,ITA,09-07-2020,69
+Italy,ITA,10-07-2020,65
+Italy,ITA,11-07-2020,67
+Italy,ITA,12-07-2020,68
+Italy,ITA,13-07-2020,65
+Italy,ITA,14-07-2020,60
+Italy,ITA,15-07-2020,57
+Italy,ITA,16-07-2020,53
+Italy,ITA,17-07-2020,50
+Italy,ITA,18-07-2020,50
+Italy,ITA,19-07-2020,49
+Italy,ITA,20-07-2020,47
+Italy,ITA,21-07-2020,49
+Italy,ITA,22-07-2020,48
+Italy,ITA,23-07-2020,49
+Italy,ITA,24-07-2020,46
+Italy,ITA,25-07-2020,41
+Italy,ITA,26-07-2020,44
+Italy,ITA,27-07-2020,45
+Italy,ITA,28-07-2020,40
+Italy,ITA,29-07-2020,38
+Italy,ITA,30-07-2020,47
+Italy,ITA,31-07-2020,41
+Italy,ITA,01-08-2020,43
+Italy,ITA,02-08-2020,42
+Italy,ITA,03-08-2020,41
+Italy,ITA,04-08-2020,41
+Italy,ITA,05-08-2020,41
+Italy,ITA,06-08-2020,42
+Italy,ITA,07-08-2020,42
+Italy,ITA,08-08-2020,43
+Italy,ITA,09-08-2020,45
+Italy,ITA,10-08-2020,46
+Italy,ITA,11-08-2020,49
+Italy,ITA,12-08-2020,53
+Italy,ITA,13-08-2020,55
+Italy,ITA,14-08-2020,56
+Italy,ITA,15-08-2020,55
+Italy,ITA,16-08-2020,56
+Italy,ITA,17-08-2020,58
+Italy,ITA,18-08-2020,58
+Italy,ITA,19-08-2020,66
+Italy,ITA,20-08-2020,68
+Italy,ITA,21-08-2020,69
+Italy,ITA,22-08-2020,64
+Italy,ITA,23-08-2020,69
+Italy,ITA,24-08-2020,65
+Italy,ITA,25-08-2020,66
+Italy,ITA,26-08-2020,69
+Italy,ITA,27-08-2020,67
+Italy,ITA,28-08-2020,74
+Italy,ITA,29-08-2020,79
+Italy,ITA,30-08-2020,86
+Italy,ITA,31-08-2020,94
+Italy,ITA,01-09-2020,107
+Italy,ITA,02-09-2020,109
+Italy,ITA,03-09-2020,120
+Italy,ITA,04-09-2020,121
+Italy,ITA,05-09-2020,121
+Italy,ITA,06-09-2020,133
+Italy,ITA,07-09-2020,142
+Italy,ITA,08-09-2020,143
+Italy,ITA,09-09-2020,150
+Italy,ITA,10-09-2020,164
+Italy,ITA,11-09-2020,175
+Italy,ITA,12-09-2020,182
+Italy,ITA,13-09-2020,187
+Italy,ITA,14-09-2020,197
+Italy,ITA,15-09-2020,201
+Italy,ITA,16-09-2020,207
+Italy,ITA,17-09-2020,212
+Italy,ITA,18-09-2020,208
+Italy,ITA,19-09-2020,215
+Italy,ITA,20-09-2020,222
+Italy,ITA,21-09-2020,232
+Italy,ITA,22-09-2020,239
+Italy,ITA,23-09-2020,244
+Italy,ITA,24-09-2020,246
+Italy,ITA,25-09-2020,244
+Italy,ITA,26-09-2020,247
+Italy,ITA,27-09-2020,254
+Italy,ITA,28-09-2020,264
+Italy,ITA,29-09-2020,271
+Italy,ITA,30-09-2020,280
+Italy,ITA,01-10-2020,291
+Italy,ITA,02-10-2020,294
+Italy,ITA,03-10-2020,297
+Italy,ITA,04-10-2020,303
+Italy,ITA,05-10-2020,323
+Italy,ITA,06-10-2020,319
+Italy,ITA,07-10-2020,337
+Italy,ITA,08-10-2020,358
+Italy,ITA,09-10-2020,387
+Italy,ITA,10-10-2020,390
+Italy,ITA,11-10-2020,420
+Italy,ITA,12-10-2020,452
+Italy,ITA,13-10-2020,514
+Italy,ITA,14-10-2020,539
+Italy,ITA,15-10-2020,586
+Italy,ITA,16-10-2020,638
+Italy,ITA,17-10-2020,705
+Italy,ITA,18-10-2020,750
+Italy,ITA,19-10-2020,797
+Italy,ITA,20-10-2020,870
+Italy,ITA,21-10-2020,926
+Italy,ITA,22-10-2020,992
+Italy,ITA,23-10-2020,1049
+Italy,ITA,24-10-2020,1128
+Italy,ITA,25-10-2020,1208
+Italy,ITA,26-10-2020,1284
+Italy,ITA,27-10-2020,1411
+Italy,ITA,28-10-2020,1536
+Italy,ITA,29-10-2020,1651
+Italy,ITA,30-10-2020,1746
+Italy,ITA,31-10-2020,1843
+Italy,ITA,01-11-2020,1939
+Italy,ITA,02-11-2020,2022
+Italy,ITA,03-11-2020,2225
+Italy,ITA,04-11-2020,2292
+Italy,ITA,05-11-2020,2391
+Italy,ITA,06-11-2020,2515
+Italy,ITA,07-11-2020,2634
+Italy,ITA,08-11-2020,2749
+Italy,ITA,09-11-2020,2849
+Italy,ITA,10-11-2020,2971
+Italy,ITA,11-11-2020,3081
+Italy,ITA,12-11-2020,3170
+Italy,ITA,13-11-2020,3230
+Italy,ITA,14-11-2020,3306
+Italy,ITA,15-11-2020,3422
+Italy,ITA,16-11-2020,3492
+Italy,ITA,17-11-2020,3612
+Italy,ITA,18-11-2020,3670
+Italy,ITA,19-11-2020,3712
+Italy,ITA,20-11-2020,3748
+Italy,ITA,21-11-2020,3758
+Italy,ITA,22-11-2020,3801
+Luxembourg,LUX,24-02-2020,0
+Luxembourg,LUX,25-02-2020,0
+Luxembourg,LUX,26-02-2020,0
+Luxembourg,LUX,27-02-2020,0
+Luxembourg,LUX,28-02-2020,0
+Luxembourg,LUX,29-02-2020,0
+Luxembourg,LUX,01-03-2020,0
+Luxembourg,LUX,02-03-2020,0
+Luxembourg,LUX,03-03-2020,0
+Luxembourg,LUX,04-03-2020,0
+Luxembourg,LUX,05-03-2020,0
+Luxembourg,LUX,06-03-2020,0
+Luxembourg,LUX,07-03-2020,0
+Luxembourg,LUX,08-03-2020,0
+Luxembourg,LUX,09-03-2020,0
+Luxembourg,LUX,10-03-2020,0
+Luxembourg,LUX,11-03-2020,0
+Luxembourg,LUX,12-03-2020,0
+Luxembourg,LUX,13-03-2020,0
+Luxembourg,LUX,14-03-2020,0
+Luxembourg,LUX,15-03-2020,0
+Luxembourg,LUX,16-03-2020,0
+Luxembourg,LUX,17-03-2020,0
+Luxembourg,LUX,18-03-2020,0
+Luxembourg,LUX,19-03-2020,0
+Luxembourg,LUX,20-03-2020,3
+Luxembourg,LUX,21-03-2020,6
+Luxembourg,LUX,22-03-2020,2
+Luxembourg,LUX,23-03-2020,2
+Luxembourg,LUX,24-03-2020,2
+Luxembourg,LUX,25-03-2020,14
+Luxembourg,LUX,26-03-2020,20
+Luxembourg,LUX,27-03-2020,20
+Luxembourg,LUX,28-03-2020,23
+Luxembourg,LUX,29-03-2020,21
+Luxembourg,LUX,30-03-2020,24
+Luxembourg,LUX,31-03-2020,26
+Luxembourg,LUX,01-04-2020,27
+Luxembourg,LUX,02-04-2020,30
+Luxembourg,LUX,03-04-2020,35
+Luxembourg,LUX,04-04-2020,33
+Luxembourg,LUX,05-04-2020,33
+Luxembourg,LUX,06-04-2020,31
+Luxembourg,LUX,07-04-2020,31
+Luxembourg,LUX,08-04-2020,33
+Luxembourg,LUX,09-04-2020,29
+Luxembourg,LUX,10-04-2020,28
+Luxembourg,LUX,11-04-2020,30
+Luxembourg,LUX,12-04-2020,31
+Luxembourg,LUX,13-04-2020,33
+Luxembourg,LUX,14-04-2020,34
+Luxembourg,LUX,15-04-2020,35
+Luxembourg,LUX,16-04-2020,32
+Luxembourg,LUX,17-04-2020,30
+Luxembourg,LUX,18-04-2020,31
+Luxembourg,LUX,19-04-2020,30
+Luxembourg,LUX,20-04-2020,31
+Luxembourg,LUX,21-04-2020,31
+Luxembourg,LUX,22-04-2020,28
+Luxembourg,LUX,23-04-2020,24
+Luxembourg,LUX,24-04-2020,25
+Luxembourg,LUX,25-04-2020,23
+Luxembourg,LUX,26-04-2020,20
+Luxembourg,LUX,27-04-2020,20
+Luxembourg,LUX,28-04-2020,22
+Luxembourg,LUX,29-04-2020,24
+Luxembourg,LUX,30-04-2020,24
+Luxembourg,LUX,01-05-2020,25
+Luxembourg,LUX,02-05-2020,24
+Luxembourg,LUX,03-05-2020,23
+Luxembourg,LUX,04-05-2020,22
+Luxembourg,LUX,05-05-2020,20
+Luxembourg,LUX,06-05-2020,21
+Luxembourg,LUX,07-05-2020,16
+Luxembourg,LUX,08-05-2020,15
+Luxembourg,LUX,09-05-2020,14
+Luxembourg,LUX,10-05-2020,18
+Luxembourg,LUX,11-05-2020,22
+Luxembourg,LUX,12-05-2020,22
+Luxembourg,LUX,13-05-2020,11
+Luxembourg,LUX,14-05-2020,11
+Luxembourg,LUX,15-05-2020,15
+Luxembourg,LUX,16-05-2020,13
+Luxembourg,LUX,17-05-2020,8
+Luxembourg,LUX,18-05-2020,10
+Luxembourg,LUX,19-05-2020,6
+Luxembourg,LUX,20-05-2020,6
+Luxembourg,LUX,21-05-2020,5
+Luxembourg,LUX,22-05-2020,8
+Luxembourg,LUX,23-05-2020,7
+Luxembourg,LUX,24-05-2020,4
+Luxembourg,LUX,25-05-2020,5
+Luxembourg,LUX,26-05-2020,4
+Luxembourg,LUX,27-05-2020,4
+Luxembourg,LUX,28-05-2020,4
+Luxembourg,LUX,29-05-2020,3
+Luxembourg,LUX,30-05-2020,3
+Luxembourg,LUX,31-05-2020,3
+Luxembourg,LUX,01-06-2020,4
+Luxembourg,LUX,02-06-2020,2
+Luxembourg,LUX,03-06-2020,3
+Luxembourg,LUX,04-06-2020,1
+Luxembourg,LUX,05-06-2020,1
+Luxembourg,LUX,06-06-2020,1
+Luxembourg,LUX,07-06-2020,2
+Luxembourg,LUX,08-06-2020,2
+Luxembourg,LUX,09-06-2020,1
+Luxembourg,LUX,10-06-2020,1
+Luxembourg,LUX,11-06-2020,0
+Luxembourg,LUX,12-06-2020,0
+Luxembourg,LUX,13-06-2020,1
+Luxembourg,LUX,14-06-2020,1
+Luxembourg,LUX,15-06-2020,2
+Luxembourg,LUX,16-06-2020,1
+Luxembourg,LUX,17-06-2020,2
+Luxembourg,LUX,18-06-2020,2
+Luxembourg,LUX,19-06-2020,1
+Luxembourg,LUX,20-06-2020,1
+Luxembourg,LUX,21-06-2020,2
+Luxembourg,LUX,22-06-2020,1
+Luxembourg,LUX,23-06-2020,0
+Luxembourg,LUX,24-06-2020,0
+Luxembourg,LUX,25-06-2020,1
+Luxembourg,LUX,26-06-2020,1
+Luxembourg,LUX,27-06-2020,1
+Luxembourg,LUX,28-06-2020,2
+Luxembourg,LUX,29-06-2020,2
+Luxembourg,LUX,30-06-2020,2
+Luxembourg,LUX,01-07-2020,2
+Luxembourg,LUX,02-07-2020,3
+Luxembourg,LUX,03-07-2020,3
+Luxembourg,LUX,04-07-2020,3
+Luxembourg,LUX,05-07-2020,3
+Luxembourg,LUX,06-07-2020,3
+Luxembourg,LUX,07-07-2020,1
+Luxembourg,LUX,08-07-2020,2
+Luxembourg,LUX,09-07-2020,3
+Luxembourg,LUX,10-07-2020,2
+Luxembourg,LUX,11-07-2020,3
+Luxembourg,LUX,12-07-2020,4
+Luxembourg,LUX,13-07-2020,3
+Luxembourg,LUX,14-07-2020,4
+Luxembourg,LUX,15-07-2020,5
+Luxembourg,LUX,16-07-2020,4
+Luxembourg,LUX,17-07-2020,6
+Luxembourg,LUX,18-07-2020,6
+Luxembourg,LUX,19-07-2020,7
+Luxembourg,LUX,20-07-2020,5
+Luxembourg,LUX,21-07-2020,5
+Luxembourg,LUX,22-07-2020,1
+Luxembourg,LUX,23-07-2020,3
+Luxembourg,LUX,24-07-2020,4
+Luxembourg,LUX,25-07-2020,4
+Luxembourg,LUX,26-07-2020,6
+Luxembourg,LUX,27-07-2020,5
+Luxembourg,LUX,28-07-2020,4
+Luxembourg,LUX,29-07-2020,6
+Luxembourg,LUX,30-07-2020,7
+Luxembourg,LUX,31-07-2020,6
+Luxembourg,LUX,01-08-2020,6
+Luxembourg,LUX,02-08-2020,7
+Luxembourg,LUX,03-08-2020,7
+Luxembourg,LUX,04-08-2020,5
+Luxembourg,LUX,05-08-2020,9
+Luxembourg,LUX,06-08-2020,6
+Luxembourg,LUX,07-08-2020,8
+Luxembourg,LUX,08-08-2020,8
+Luxembourg,LUX,09-08-2020,6
+Luxembourg,LUX,10-08-2020,4
+Luxembourg,LUX,11-08-2020,3
+Luxembourg,LUX,12-08-2020,1
+Luxembourg,LUX,13-08-2020,3
+Luxembourg,LUX,14-08-2020,4
+Luxembourg,LUX,15-08-2020,3
+Luxembourg,LUX,16-08-2020,3
+Luxembourg,LUX,17-08-2020,4
+Luxembourg,LUX,18-08-2020,3
+Luxembourg,LUX,19-08-2020,3
+Luxembourg,LUX,20-08-2020,3
+Luxembourg,LUX,21-08-2020,1
+Luxembourg,LUX,22-08-2020,1
+Luxembourg,LUX,23-08-2020,1
+Luxembourg,LUX,24-08-2020,1
+Luxembourg,LUX,25-08-2020,2
+Luxembourg,LUX,26-08-2020,2
+Luxembourg,LUX,27-08-2020,2
+Luxembourg,LUX,28-08-2020,4
+Luxembourg,LUX,29-08-2020,3
+Luxembourg,LUX,30-08-2020,2
+Luxembourg,LUX,31-08-2020,2
+Luxembourg,LUX,01-09-2020,1
+Luxembourg,LUX,02-09-2020,2
+Luxembourg,LUX,03-09-2020,0
+Luxembourg,LUX,04-09-2020,0
+Luxembourg,LUX,05-09-2020,0
+Luxembourg,LUX,06-09-2020,0
+Luxembourg,LUX,07-09-2020,0
+Luxembourg,LUX,08-09-2020,0
+Luxembourg,LUX,09-09-2020,0
+Luxembourg,LUX,10-09-2020,1
+Luxembourg,LUX,11-09-2020,0
+Luxembourg,LUX,12-09-2020,0
+Luxembourg,LUX,13-09-2020,1
+Luxembourg,LUX,14-09-2020,0
+Luxembourg,LUX,15-09-2020,0
+Luxembourg,LUX,16-09-2020,0
+Luxembourg,LUX,17-09-2020,1
+Luxembourg,LUX,18-09-2020,0
+Luxembourg,LUX,19-09-2020,2
+Luxembourg,LUX,20-09-2020,1
+Luxembourg,LUX,21-09-2020,1
+Luxembourg,LUX,22-09-2020,1
+Luxembourg,LUX,23-09-2020,3
+Luxembourg,LUX,24-09-2020,1
+Luxembourg,LUX,25-09-2020,1
+Luxembourg,LUX,26-09-2020,3
+Luxembourg,LUX,27-09-2020,3
+Luxembourg,LUX,28-09-2020,4
+Luxembourg,LUX,29-09-2020,5
+Luxembourg,LUX,30-09-2020,5
+Luxembourg,LUX,01-10-2020,3
+Luxembourg,LUX,02-10-2020,3
+Luxembourg,LUX,03-10-2020,2
+Luxembourg,LUX,04-10-2020,2
+Luxembourg,LUX,05-10-2020,1
+Luxembourg,LUX,06-10-2020,2
+Luxembourg,LUX,07-10-2020,2
+Luxembourg,LUX,08-10-2020,1
+Luxembourg,LUX,09-10-2020,1
+Luxembourg,LUX,10-10-2020,2
+Luxembourg,LUX,11-10-2020,2
+Luxembourg,LUX,12-10-2020,2
+Luxembourg,LUX,13-10-2020,3
+Luxembourg,LUX,14-10-2020,4
+Luxembourg,LUX,15-10-2020,4
+Luxembourg,LUX,16-10-2020,4
+Luxembourg,LUX,17-10-2020,3
+Luxembourg,LUX,18-10-2020,4
+Luxembourg,LUX,19-10-2020,5
+Luxembourg,LUX,20-10-2020,7
+Luxembourg,LUX,21-10-2020,8
+Luxembourg,LUX,22-10-2020,10
+Luxembourg,LUX,23-10-2020,11
+Luxembourg,LUX,24-10-2020,12
+Luxembourg,LUX,25-10-2020,12
+Luxembourg,LUX,26-10-2020,16
+Luxembourg,LUX,27-10-2020,16
+Luxembourg,LUX,28-10-2020,21
+Luxembourg,LUX,29-10-2020,24
+Luxembourg,LUX,30-10-2020,26
+Luxembourg,LUX,31-10-2020,27
+Luxembourg,LUX,01-11-2020,29
+Luxembourg,LUX,02-11-2020,29
+Luxembourg,LUX,03-11-2020,30
+Luxembourg,LUX,04-11-2020,36
+Luxembourg,LUX,05-11-2020,37
+Luxembourg,LUX,06-11-2020,41
+Luxembourg,LUX,07-11-2020,36
+Luxembourg,LUX,08-11-2020,40
+Luxembourg,LUX,09-11-2020,42
+Luxembourg,LUX,10-11-2020,38
+Luxembourg,LUX,11-11-2020,39
+Luxembourg,LUX,12-11-2020,41
+Luxembourg,LUX,13-11-2020,43
+Luxembourg,LUX,14-11-2020,46
+Luxembourg,LUX,15-11-2020,46
+Luxembourg,LUX,16-11-2020,48
+Luxembourg,LUX,17-11-2020,48
+Luxembourg,LUX,18-11-2020,44
+Luxembourg,LUX,19-11-2020,43
+Luxembourg,LUX,20-11-2020,41
+Luxembourg,LUX,21-11-2020,45
+Luxembourg,LUX,22-11-2020,47
+Malta,MLT,05-03-2020,0
+Malta,MLT,06-03-2020,0
+Malta,MLT,07-03-2020,0
+Malta,MLT,08-03-2020,0
+Malta,MLT,09-03-2020,0
+Malta,MLT,10-03-2020,0
+Malta,MLT,11-03-2020,0
+Malta,MLT,12-03-2020,0
+Malta,MLT,13-03-2020,0
+Malta,MLT,14-03-2020,0
+Malta,MLT,15-03-2020,0
+Malta,MLT,16-03-2020,0
+Malta,MLT,17-03-2020,0
+Malta,MLT,18-03-2020,0
+Malta,MLT,19-03-2020,0
+Malta,MLT,20-03-2020,0
+Malta,MLT,21-03-2020,0
+Malta,MLT,22-03-2020,0
+Malta,MLT,23-03-2020,0
+Malta,MLT,24-03-2020,0
+Malta,MLT,25-03-2020,0
+Malta,MLT,26-03-2020,1
+Malta,MLT,27-03-2020,1
+Malta,MLT,28-03-2020,2
+Malta,MLT,29-03-2020,4
+Malta,MLT,30-03-2020,3
+Malta,MLT,31-03-2020,3
+Malta,MLT,01-04-2020,3
+Malta,MLT,02-04-2020,3
+Malta,MLT,03-04-2020,3
+Malta,MLT,04-04-2020,4
+Malta,MLT,05-04-2020,4
+Malta,MLT,06-04-2020,4
+Malta,MLT,07-04-2020,4
+Malta,MLT,08-04-2020,5
+Malta,MLT,09-04-2020,4
+Malta,MLT,10-04-2020,4
+Malta,MLT,11-04-2020,4
+Malta,MLT,12-04-2020,4
+Malta,MLT,13-04-2020,3
+Malta,MLT,14-04-2020,3
+Malta,MLT,15-04-2020,2
+Malta,MLT,16-04-2020,1
+Malta,MLT,17-04-2020,1
+Malta,MLT,18-04-2020,1
+Malta,MLT,19-04-2020,1
+Malta,MLT,20-04-2020,1
+Malta,MLT,21-04-2020,1
+Malta,MLT,22-04-2020,1
+Malta,MLT,23-04-2020,1
+Malta,MLT,24-04-2020,1
+Malta,MLT,25-04-2020,1
+Malta,MLT,26-04-2020,1
+Malta,MLT,27-04-2020,1
+Malta,MLT,28-04-2020,1
+Malta,MLT,29-04-2020,2
+Malta,MLT,30-04-2020,2
+Malta,MLT,01-05-2020,2
+Malta,MLT,02-05-2020,2
+Malta,MLT,03-05-2020,2
+Malta,MLT,04-05-2020,0
+Malta,MLT,05-05-2020,0
+Malta,MLT,06-05-2020,0
+Malta,MLT,07-05-2020,0
+Malta,MLT,08-05-2020,0
+Malta,MLT,11-05-2020,0
+Malta,MLT,13-05-2020,0
+Malta,MLT,14-05-2020,0
+Malta,MLT,15-05-2020,0
+Malta,MLT,18-05-2020,0
+Malta,MLT,26-05-2020,1
+Malta,MLT,02-06-2020,2
+Malta,MLT,12-06-2020,2
+Malta,MLT,17-06-2020,1
+Malta,MLT,21-06-2020,1
+Malta,MLT,22-06-2020,1
+Malta,MLT,23-06-2020,1
+Malta,MLT,24-06-2020,1
+Malta,MLT,25-06-2020,1
+Malta,MLT,26-06-2020,1
+Malta,MLT,27-06-2020,1
+Malta,MLT,28-06-2020,1
+Malta,MLT,29-06-2020,1
+Malta,MLT,30-06-2020,1
+Malta,MLT,01-07-2020,1
+Malta,MLT,02-07-2020,0
+Malta,MLT,03-07-2020,0
+Malta,MLT,04-07-2020,0
+Netherlands,NLD,27-02-2020,10
+Netherlands,NLD,28-02-2020,11
+Netherlands,NLD,29-02-2020,12
+Netherlands,NLD,01-03-2020,14
+Netherlands,NLD,02-03-2020,13
+Netherlands,NLD,03-03-2020,15
+Netherlands,NLD,04-03-2020,18
+Netherlands,NLD,05-03-2020,18
+Netherlands,NLD,06-03-2020,22
+Netherlands,NLD,07-03-2020,24
+Netherlands,NLD,08-03-2020,30
+Netherlands,NLD,09-03-2020,35
+Netherlands,NLD,10-03-2020,43
+Netherlands,NLD,11-03-2020,51
+Netherlands,NLD,12-03-2020,71
+Netherlands,NLD,13-03-2020,82
+Netherlands,NLD,14-03-2020,100
+Netherlands,NLD,15-03-2020,124
+Netherlands,NLD,16-03-2020,155
+Netherlands,NLD,17-03-2020,184
+Netherlands,NLD,18-03-2020,233
+Netherlands,NLD,19-03-2020,291
+Netherlands,NLD,20-03-2020,366
+Netherlands,NLD,21-03-2020,435
+Netherlands,NLD,22-03-2020,485
+Netherlands,NLD,23-03-2020,578
+Netherlands,NLD,24-03-2020,659
+Netherlands,NLD,25-03-2020,757
+Netherlands,NLD,26-03-2020,843
+Netherlands,NLD,27-03-2020,930
+Netherlands,NLD,28-03-2020,995
+Netherlands,NLD,29-03-2020,1041
+Netherlands,NLD,30-03-2020,1130
+Netherlands,NLD,31-03-2020,1195
+Netherlands,NLD,01-04-2020,1212
+Netherlands,NLD,02-04-2020,1253
+Netherlands,NLD,03-04-2020,1280
+Netherlands,NLD,04-04-2020,1284
+Netherlands,NLD,05-04-2020,1309
+Netherlands,NLD,06-04-2020,1317
+Netherlands,NLD,07-04-2020,1319
+Netherlands,NLD,08-04-2020,1286
+Netherlands,NLD,09-04-2020,1281
+Netherlands,NLD,10-04-2020,1288
+Netherlands,NLD,11-04-2020,1253
+Netherlands,NLD,12-04-2020,1235
+Netherlands,NLD,13-04-2020,1218
+Netherlands,NLD,14-04-2020,1195
+Netherlands,NLD,15-04-2020,1170
+Netherlands,NLD,16-04-2020,1137
+Netherlands,NLD,17-04-2020,1107
+Netherlands,NLD,18-04-2020,1061
+Netherlands,NLD,19-04-2020,1032
+Netherlands,NLD,20-04-2020,1013
+Netherlands,NLD,21-04-2020,976
+Netherlands,NLD,22-04-2020,919
+Netherlands,NLD,23-04-2020,877
+Netherlands,NLD,24-04-2020,860
+Netherlands,NLD,25-04-2020,829
+Netherlands,NLD,26-04-2020,805
+Netherlands,NLD,27-04-2020,782
+Netherlands,NLD,28-04-2020,761
+Netherlands,NLD,29-04-2020,733
+Netherlands,NLD,30-04-2020,709
+Netherlands,NLD,01-05-2020,674
+Netherlands,NLD,02-05-2020,636
+Netherlands,NLD,03-05-2020,622
+Netherlands,NLD,04-05-2020,613
+Netherlands,NLD,05-05-2020,571
+Netherlands,NLD,06-05-2020,544
+Netherlands,NLD,07-05-2020,523
+Netherlands,NLD,08-05-2020,492
+Netherlands,NLD,09-05-2020,470
+Netherlands,NLD,10-05-2020,452
+Netherlands,NLD,11-05-2020,446
+Netherlands,NLD,12-05-2020,404
+Netherlands,NLD,13-05-2020,386
+Netherlands,NLD,14-05-2020,360
+Netherlands,NLD,15-05-2020,344
+Netherlands,NLD,16-05-2020,328
+Netherlands,NLD,17-05-2020,321
+Netherlands,NLD,18-05-2020,316
+Netherlands,NLD,19-05-2020,283
+Netherlands,NLD,20-05-2020,273
+Netherlands,NLD,21-05-2020,252
+Netherlands,NLD,22-05-2020,241
+Netherlands,NLD,23-05-2020,225
+Netherlands,NLD,24-05-2020,224
+Netherlands,NLD,25-05-2020,214
+Netherlands,NLD,26-05-2020,191
+Netherlands,NLD,27-05-2020,177
+Netherlands,NLD,28-05-2020,169
+Netherlands,NLD,29-05-2020,159
+Netherlands,NLD,30-05-2020,150
+Netherlands,NLD,31-05-2020,152
+Netherlands,NLD,01-06-2020,150
+Netherlands,NLD,02-06-2020,145
+Netherlands,NLD,03-06-2020,132
+Netherlands,NLD,04-06-2020,130
+Netherlands,NLD,05-06-2020,127
+Netherlands,NLD,06-06-2020,125
+Netherlands,NLD,07-06-2020,124
+Netherlands,NLD,08-06-2020,123
+Netherlands,NLD,09-06-2020,115
+Netherlands,NLD,10-06-2020,112
+Netherlands,NLD,11-06-2020,108
+Netherlands,NLD,12-06-2020,105
+Netherlands,NLD,13-06-2020,103
+Netherlands,NLD,14-06-2020,102
+Netherlands,NLD,15-06-2020,101
+Netherlands,NLD,16-06-2020,92
+Netherlands,NLD,17-06-2020,84
+Netherlands,NLD,18-06-2020,77
+Netherlands,NLD,19-06-2020,72
+Netherlands,NLD,20-06-2020,70
+Netherlands,NLD,21-06-2020,66
+Netherlands,NLD,22-06-2020,68
+Netherlands,NLD,23-06-2020,61
+Netherlands,NLD,24-06-2020,57
+Netherlands,NLD,25-06-2020,56
+Netherlands,NLD,26-06-2020,50
+Netherlands,NLD,27-06-2020,45
+Netherlands,NLD,28-06-2020,41
+Netherlands,NLD,29-06-2020,41
+Netherlands,NLD,30-06-2020,41
+Netherlands,NLD,01-07-2020,37
+Netherlands,NLD,02-07-2020,39
+Netherlands,NLD,03-07-2020,36
+Netherlands,NLD,04-07-2020,37
+Netherlands,NLD,05-07-2020,35
+Netherlands,NLD,06-07-2020,35
+Netherlands,NLD,07-07-2020,33
+Netherlands,NLD,08-07-2020,30
+Netherlands,NLD,09-07-2020,30
+Netherlands,NLD,10-07-2020,31
+Netherlands,NLD,11-07-2020,29
+Netherlands,NLD,12-07-2020,30
+Netherlands,NLD,13-07-2020,29
+Netherlands,NLD,14-07-2020,26
+Netherlands,NLD,15-07-2020,26
+Netherlands,NLD,16-07-2020,25
+Netherlands,NLD,17-07-2020,25
+Netherlands,NLD,18-07-2020,24
+Netherlands,NLD,19-07-2020,25
+Netherlands,NLD,20-07-2020,25
+Netherlands,NLD,21-07-2020,27
+Netherlands,NLD,22-07-2020,27
+Netherlands,NLD,23-07-2020,25
+Netherlands,NLD,24-07-2020,24
+Netherlands,NLD,25-07-2020,21
+Netherlands,NLD,26-07-2020,21
+Netherlands,NLD,27-07-2020,25
+Netherlands,NLD,28-07-2020,24
+Netherlands,NLD,29-07-2020,23
+Netherlands,NLD,30-07-2020,25
+Netherlands,NLD,31-07-2020,28
+Netherlands,NLD,01-08-2020,29
+Netherlands,NLD,02-08-2020,30
+Netherlands,NLD,03-08-2020,33
+Netherlands,NLD,04-08-2020,34
+Netherlands,NLD,05-08-2020,33
+Netherlands,NLD,06-08-2020,35
+Netherlands,NLD,07-08-2020,35
+Netherlands,NLD,08-08-2020,36
+Netherlands,NLD,09-08-2020,41
+Netherlands,NLD,10-08-2020,40
+Netherlands,NLD,11-08-2020,43
+Netherlands,NLD,12-08-2020,43
+Netherlands,NLD,13-08-2020,40
+Netherlands,NLD,14-08-2020,45
+Netherlands,NLD,15-08-2020,43
+Netherlands,NLD,16-08-2020,44
+Netherlands,NLD,17-08-2020,53
+Netherlands,NLD,18-08-2020,48
+Netherlands,NLD,19-08-2020,47
+Netherlands,NLD,20-08-2020,48
+Netherlands,NLD,21-08-2020,52
+Netherlands,NLD,22-08-2020,48
+Netherlands,NLD,23-08-2020,51
+Netherlands,NLD,24-08-2020,51
+Netherlands,NLD,25-08-2020,46
+Netherlands,NLD,26-08-2020,44
+Netherlands,NLD,27-08-2020,44
+Netherlands,NLD,28-08-2020,42
+Netherlands,NLD,29-08-2020,42
+Netherlands,NLD,30-08-2020,47
+Netherlands,NLD,31-08-2020,46
+Netherlands,NLD,01-09-2020,42
+Netherlands,NLD,02-09-2020,40
+Netherlands,NLD,03-09-2020,42
+Netherlands,NLD,04-09-2020,46
+Netherlands,NLD,05-09-2020,42
+Netherlands,NLD,06-09-2020,46
+Netherlands,NLD,07-09-2020,47
+Netherlands,NLD,08-09-2020,48
+Netherlands,NLD,09-09-2020,47
+Netherlands,NLD,10-09-2020,50
+Netherlands,NLD,11-09-2020,55
+Netherlands,NLD,12-09-2020,59
+Netherlands,NLD,13-09-2020,61
+Netherlands,NLD,14-09-2020,71
+Netherlands,NLD,15-09-2020,72
+Netherlands,NLD,16-09-2020,67
+Netherlands,NLD,17-09-2020,67
+Netherlands,NLD,18-09-2020,71
+Netherlands,NLD,19-09-2020,82
+Netherlands,NLD,20-09-2020,95
+Netherlands,NLD,21-09-2020,104
+Netherlands,NLD,22-09-2020,112
+Netherlands,NLD,23-09-2020,119
+Netherlands,NLD,24-09-2020,126
+Netherlands,NLD,25-09-2020,140
+Netherlands,NLD,26-09-2020,145
+Netherlands,NLD,27-09-2020,157
+Netherlands,NLD,28-09-2020,164
+Netherlands,NLD,29-09-2020,172
+Netherlands,NLD,30-09-2020,176
+Netherlands,NLD,01-10-2020,182
+Netherlands,NLD,02-10-2020,182
+Netherlands,NLD,03-10-2020,191
+Netherlands,NLD,04-10-2020,204
+Netherlands,NLD,05-10-2020,219
+Netherlands,NLD,06-10-2020,240
+Netherlands,NLD,07-10-2020,253
+Netherlands,NLD,08-10-2020,259
+Netherlands,NLD,09-10-2020,275
+Netherlands,NLD,10-10-2020,274
+Netherlands,NLD,11-10-2020,279
+Netherlands,NLD,12-10-2020,303
+Netherlands,NLD,13-10-2020,322
+Netherlands,NLD,14-10-2020,340
+Netherlands,NLD,15-10-2020,360
+Netherlands,NLD,16-10-2020,398
+Netherlands,NLD,17-10-2020,392
+Netherlands,NLD,18-10-2020,412
+Netherlands,NLD,19-10-2020,449
+Netherlands,NLD,20-10-2020,476
+Netherlands,NLD,21-10-2020,492
+Netherlands,NLD,22-10-2020,505
+Netherlands,NLD,23-10-2020,516
+Netherlands,NLD,24-10-2020,525
+Netherlands,NLD,25-10-2020,538
+Netherlands,NLD,26-10-2020,564
+Netherlands,NLD,27-10-2020,578
+Netherlands,NLD,28-10-2020,596
+Netherlands,NLD,29-10-2020,605
+Netherlands,NLD,30-10-2020,615
+Netherlands,NLD,31-10-2020,622
+Netherlands,NLD,01-11-2020,628
+Netherlands,NLD,02-11-2020,655
+Netherlands,NLD,03-11-2020,655
+Netherlands,NLD,04-11-2020,660
+Netherlands,NLD,05-11-2020,657
+Netherlands,NLD,06-11-2020,653
+Netherlands,NLD,07-11-2020,644
+Netherlands,NLD,08-11-2020,649
+Netherlands,NLD,09-11-2020,654
+Netherlands,NLD,10-11-2020,654
+Netherlands,NLD,11-11-2020,649
+Netherlands,NLD,12-11-2020,655
+Netherlands,NLD,13-11-2020,655
+Netherlands,NLD,14-11-2020,623
+Netherlands,NLD,15-11-2020,625
+Netherlands,NLD,16-11-2020,622
+Netherlands,NLD,17-11-2020,607
+Netherlands,NLD,18-11-2020,591
+Netherlands,NLD,19-11-2020,593
+Netherlands,NLD,20-11-2020,586
+Netherlands,NLD,21-11-2020,569
+Netherlands,NLD,22-11-2020,566
+Portugal,PRT,03-03-2020,0
+Portugal,PRT,04-03-2020,0
+Portugal,PRT,05-03-2020,0
+Portugal,PRT,06-03-2020,0
+Portugal,PRT,07-03-2020,0
+Portugal,PRT,08-03-2020,0
+Portugal,PRT,09-03-2020,0
+Portugal,PRT,10-03-2020,0
+Portugal,PRT,11-03-2020,0
+Portugal,PRT,12-03-2020,0
+Portugal,PRT,13-03-2020,0
+Portugal,PRT,14-03-2020,10
+Portugal,PRT,15-03-2020,9
+Portugal,PRT,16-03-2020,18
+Portugal,PRT,17-03-2020,17
+Portugal,PRT,18-03-2020,20
+Portugal,PRT,19-03-2020,20
+Portugal,PRT,20-03-2020,26
+Portugal,PRT,21-03-2020,35
+Portugal,PRT,22-03-2020,41
+Portugal,PRT,23-03-2020,47
+Portugal,PRT,24-03-2020,48
+Portugal,PRT,25-03-2020,61
+Portugal,PRT,26-03-2020,61
+Portugal,PRT,27-03-2020,71
+Portugal,PRT,28-03-2020,89
+Portugal,PRT,29-03-2020,138
+Portugal,PRT,30-03-2020,164
+Portugal,PRT,31-03-2020,188
+Portugal,PRT,01-04-2020,230
+Portugal,PRT,02-04-2020,240
+Portugal,PRT,03-04-2020,245
+Portugal,PRT,04-04-2020,251
+Portugal,PRT,05-04-2020,267
+Portugal,PRT,06-04-2020,270
+Portugal,PRT,07-04-2020,271
+Portugal,PRT,08-04-2020,245
+Portugal,PRT,09-04-2020,241
+Portugal,PRT,10-04-2020,226
+Portugal,PRT,11-04-2020,233
+Portugal,PRT,12-04-2020,228
+Portugal,PRT,13-04-2020,188
+Portugal,PRT,14-04-2020,218
+Portugal,PRT,15-04-2020,208
+Portugal,PRT,16-04-2020,229
+Portugal,PRT,17-04-2020,222
+Portugal,PRT,18-04-2020,228
+Portugal,PRT,19-04-2020,224
+Portugal,PRT,20-04-2020,215
+Portugal,PRT,21-04-2020,213
+Portugal,PRT,22-04-2020,207
+Portugal,PRT,23-04-2020,204
+Portugal,PRT,24-04-2020,188
+Portugal,PRT,25-04-2020,186
+Portugal,PRT,26-04-2020,182
+Portugal,PRT,27-04-2020,176
+Portugal,PRT,28-04-2020,172
+Portugal,PRT,29-04-2020,169
+Portugal,PRT,30-04-2020,172
+Portugal,PRT,01-05-2020,154
+Portugal,PRT,02-05-2020,150
+Portugal,PRT,03-05-2020,144
+Portugal,PRT,04-05-2020,143
+Portugal,PRT,05-05-2020,134
+Portugal,PRT,06-05-2020,136
+Portugal,PRT,07-05-2020,135
+Portugal,PRT,08-05-2020,127
+Portugal,PRT,09-05-2020,120
+Portugal,PRT,10-05-2020,112
+Portugal,PRT,11-05-2020,112
+Portugal,PRT,12-05-2020,113
+Portugal,PRT,13-05-2020,103
+Portugal,PRT,14-05-2020,108
+Portugal,PRT,15-05-2020,112
+Portugal,PRT,16-05-2020,115
+Portugal,PRT,17-05-2020,108
+Portugal,PRT,18-05-2020,105
+Portugal,PRT,19-05-2020,101
+Portugal,PRT,20-05-2020,93
+Portugal,PRT,21-05-2020,92
+Portugal,PRT,22-05-2020,84
+Portugal,PRT,23-05-2020,80
+Portugal,PRT,24-05-2020,78
+Portugal,PRT,25-05-2020,72
+Portugal,PRT,26-05-2020,71
+Portugal,PRT,27-05-2020,66
+Portugal,PRT,28-05-2020,65
+Portugal,PRT,29-05-2020,66
+Portugal,PRT,30-05-2020,63
+Portugal,PRT,31-05-2020,64
+Portugal,PRT,01-06-2020,64
+Portugal,PRT,02-06-2020,58
+Portugal,PRT,03-06-2020,56
+Portugal,PRT,04-06-2020,58
+Portugal,PRT,05-06-2020,64
+Portugal,PRT,06-06-2020,57
+Portugal,PRT,07-06-2020,58
+Portugal,PRT,08-06-2020,55
+Portugal,PRT,09-06-2020,65
+Portugal,PRT,10-06-2020,70
+Portugal,PRT,11-06-2020,70
+Portugal,PRT,12-06-2020,73
+Portugal,PRT,13-06-2020,77
+Portugal,PRT,14-06-2020,73
+Portugal,PRT,15-06-2020,73
+Portugal,PRT,16-06-2020,71
+Portugal,PRT,17-06-2020,69
+Portugal,PRT,18-06-2020,67
+Portugal,PRT,19-06-2020,67
+Portugal,PRT,20-06-2020,70
+Portugal,PRT,21-06-2020,69
+Portugal,PRT,22-06-2020,72
+Portugal,PRT,23-06-2020,72
+Portugal,PRT,24-06-2020,73
+Portugal,PRT,25-06-2020,67
+Portugal,PRT,26-06-2020,67
+Portugal,PRT,27-06-2020,70
+Portugal,PRT,28-06-2020,75
+Portugal,PRT,29-06-2020,71
+Portugal,PRT,30-06-2020,73
+Portugal,PRT,01-07-2020,79
+Portugal,PRT,02-07-2020,77
+Portugal,PRT,03-07-2020,72
+Portugal,PRT,04-07-2020,73
+Portugal,PRT,05-07-2020,73
+Portugal,PRT,06-07-2020,74
+Portugal,PRT,07-07-2020,76
+Portugal,PRT,08-07-2020,74
+Portugal,PRT,09-07-2020,73
+Portugal,PRT,10-07-2020,66
+Portugal,PRT,11-07-2020,68
+Portugal,PRT,12-07-2020,64
+Portugal,PRT,13-07-2020,63
+Portugal,PRT,14-07-2020,69
+Portugal,PRT,15-07-2020,68
+Portugal,PRT,16-07-2020,72
+Portugal,PRT,17-07-2020,67
+Portugal,PRT,18-07-2020,65
+Portugal,PRT,19-07-2020,61
+Portugal,PRT,20-07-2020,61
+Portugal,PRT,21-07-2020,62
+Portugal,PRT,22-07-2020,59
+Portugal,PRT,23-07-2020,59
+Portugal,PRT,24-07-2020,52
+Portugal,PRT,25-07-2020,50
+Portugal,PRT,26-07-2020,48
+Portugal,PRT,27-07-2020,45
+Portugal,PRT,28-07-2020,41
+Portugal,PRT,29-07-2020,43
+Portugal,PRT,30-07-2020,42
+Portugal,PRT,31-07-2020,41
+Portugal,PRT,01-08-2020,40
+Portugal,PRT,02-08-2020,41
+Portugal,PRT,03-08-2020,42
+Portugal,PRT,04-08-2020,44
+Portugal,PRT,05-08-2020,41
+Portugal,PRT,06-08-2020,42
+Portugal,PRT,07-08-2020,36
+Portugal,PRT,08-08-2020,33
+Portugal,PRT,09-08-2020,33
+Portugal,PRT,10-08-2020,29
+Portugal,PRT,11-08-2020,35
+Portugal,PRT,12-08-2020,40
+Portugal,PRT,13-08-2020,39
+Portugal,PRT,14-08-2020,41
+Portugal,PRT,15-08-2020,37
+Portugal,PRT,16-08-2020,39
+Portugal,PRT,17-08-2020,39
+Portugal,PRT,18-08-2020,38
+Portugal,PRT,19-08-2020,35
+Portugal,PRT,20-08-2020,39
+Portugal,PRT,21-08-2020,41
+Portugal,PRT,22-08-2020,42
+Portugal,PRT,23-08-2020,47
+Portugal,PRT,24-08-2020,44
+Portugal,PRT,25-08-2020,41
+Portugal,PRT,26-08-2020,38
+Portugal,PRT,27-08-2020,35
+Portugal,PRT,28-08-2020,38
+Portugal,PRT,29-08-2020,40
+Portugal,PRT,30-08-2020,41
+Portugal,PRT,31-08-2020,41
+Portugal,PRT,01-09-2020,44
+Portugal,PRT,02-09-2020,41
+Portugal,PRT,03-09-2020,44
+Portugal,PRT,04-09-2020,40
+Portugal,PRT,05-09-2020,41
+Portugal,PRT,06-09-2020,43
+Portugal,PRT,07-09-2020,49
+Portugal,PRT,08-09-2020,50
+Portugal,PRT,09-09-2020,52
+Portugal,PRT,10-09-2020,57
+Portugal,PRT,11-09-2020,54
+Portugal,PRT,12-09-2020,59
+Portugal,PRT,13-09-2020,57
+Portugal,PRT,14-09-2020,61
+Portugal,PRT,15-09-2020,59
+Portugal,PRT,16-09-2020,61
+Portugal,PRT,17-09-2020,59
+Portugal,PRT,18-09-2020,57
+Portugal,PRT,19-09-2020,64
+Portugal,PRT,20-09-2020,63
+Portugal,PRT,21-09-2020,61
+Portugal,PRT,22-09-2020,70
+Portugal,PRT,23-09-2020,77
+Portugal,PRT,24-09-2020,85
+Portugal,PRT,25-09-2020,86
+Portugal,PRT,26-09-2020,85
+Portugal,PRT,27-09-2020,89
+Portugal,PRT,28-09-2020,98
+Portugal,PRT,29-09-2020,99
+Portugal,PRT,30-09-2020,105
+Portugal,PRT,01-10-2020,107
+Portugal,PRT,02-10-2020,107
+Portugal,PRT,03-10-2020,106
+Portugal,PRT,04-10-2020,105
+Portugal,PRT,05-10-2020,106
+Portugal,PRT,06-10-2020,104
+Portugal,PRT,07-10-2020,104
+Portugal,PRT,08-10-2020,115
+Portugal,PRT,09-10-2020,125
+Portugal,PRT,10-10-2020,122
+Portugal,PRT,11-10-2020,124
+Portugal,PRT,12-10-2020,128
+Portugal,PRT,13-10-2020,132
+Portugal,PRT,14-10-2020,135
+Portugal,PRT,15-10-2020,139
+Portugal,PRT,16-10-2020,144
+Portugal,PRT,17-10-2020,148
+Portugal,PRT,18-10-2020,155
+Portugal,PRT,19-10-2020,165
+Portugal,PRT,20-10-2020,176
+Portugal,PRT,21-10-2020,187
+Portugal,PRT,22-10-2020,200
+Portugal,PRT,23-10-2020,198
+Portugal,PRT,24-10-2020,221
+Portugal,PRT,25-10-2020,230
+Portugal,PRT,26-10-2020,240
+Portugal,PRT,27-10-2020,253
+Portugal,PRT,28-10-2020,262
+Portugal,PRT,29-10-2020,262
+Portugal,PRT,30-10-2020,275
+Portugal,PRT,31-10-2020,286
+Portugal,PRT,01-11-2020,284
+Portugal,PRT,02-11-2020,294
+Portugal,PRT,03-11-2020,320
+Portugal,PRT,04-11-2020,325
+Portugal,PRT,05-11-2020,320
+Portugal,PRT,06-11-2020,340
+Portugal,PRT,07-11-2020,366
+Portugal,PRT,08-11-2020,378
+Portugal,PRT,09-11-2020,391
+Portugal,PRT,10-11-2020,382
+Portugal,PRT,11-11-2020,391
+Portugal,PRT,12-11-2020,383
+Portugal,PRT,13-11-2020,388
+Portugal,PRT,14-11-2020,413
+Portugal,PRT,15-11-2020,415
+Portugal,PRT,16-11-2020,426
+Portugal,PRT,17-11-2020,431
+Portugal,PRT,18-11-2020,432
+Portugal,PRT,19-11-2020,458
+Portugal,PRT,20-11-2020,481
+Portugal,PRT,21-11-2020,485
+Portugal,PRT,22-11-2020,491
+Romania,ROU,19-03-2020,6
+Romania,ROU,20-03-2020,11
+Romania,ROU,21-03-2020,14
+Romania,ROU,22-03-2020,14
+Romania,ROU,23-03-2020,15
+Romania,ROU,24-03-2020,16
+Romania,ROU,25-03-2020,18
+Romania,ROU,26-03-2020,29
+Romania,ROU,28-03-2020,34
+Romania,ROU,29-03-2020,38
+Romania,ROU,30-03-2020,53
+Romania,ROU,31-03-2020,62
+Romania,ROU,02-04-2020,78
+Romania,ROU,03-04-2020,83
+Romania,ROU,05-04-2020,141
+Romania,ROU,06-04-2020,179
+Romania,ROU,07-04-2020,274
+Romania,ROU,08-04-2020,162
+Romania,ROU,09-04-2020,178
+Romania,ROU,10-04-2020,183
+Romania,ROU,11-04-2020,208
+Romania,ROU,12-04-2020,204
+Romania,ROU,13-04-2020,231
+Romania,ROU,14-04-2020,241
+Romania,ROU,15-04-2020,245
+Romania,ROU,16-04-2020,243
+Romania,ROU,17-04-2020,258
+Romania,ROU,18-04-2020,248
+Romania,ROU,19-04-2020,256
+Romania,ROU,20-04-2020,261
+Romania,ROU,21-04-2020,245
+Romania,ROU,22-04-2020,288
+Romania,ROU,23-04-2020,236
+Romania,ROU,24-04-2020,241
+Romania,ROU,25-04-2020,235
+Romania,ROU,26-04-2020,236
+Romania,ROU,27-04-2020,227
+Romania,ROU,28-04-2020,243
+Romania,ROU,29-04-2020,247
+Romania,ROU,30-04-2020,221
+Romania,ROU,01-05-2020,249
+Romania,ROU,02-05-2020,265
+Romania,ROU,03-05-2020,255
+Romania,ROU,04-05-2020,243
+Romania,ROU,05-05-2020,244
+Romania,ROU,06-05-2020,244
+Romania,ROU,07-05-2020,234
+Romania,ROU,08-05-2020,232
+Romania,ROU,09-05-2020,245
+Romania,ROU,10-05-2020,242
+Romania,ROU,11-05-2020,255
+Romania,ROU,12-05-2020,238
+Romania,ROU,14-05-2020,225
+Romania,ROU,15-05-2020,219
+Romania,ROU,16-05-2020,206
+Romania,ROU,17-05-2020,205
+Romania,ROU,18-05-2020,193
+Romania,ROU,19-05-2020,195
+Romania,ROU,20-05-2020,198
+Romania,ROU,22-05-2020,200
+Romania,ROU,23-05-2020,196
+Romania,ROU,24-05-2020,188
+Romania,ROU,25-05-2020,177
+Romania,ROU,26-05-2020,181
+Romania,ROU,28-05-2020,182
+Romania,ROU,29-05-2020,182
+Romania,ROU,30-05-2020,160
+Romania,ROU,31-05-2020,160
+Romania,ROU,01-06-2020,159
+Romania,ROU,02-06-2020,166
+Romania,ROU,03-06-2020,162
+Romania,ROU,05-06-2020,152
+Romania,ROU,06-06-2020,153
+Romania,ROU,07-06-2020,144
+Romania,ROU,08-06-2020,146
+Romania,ROU,10-06-2020,150
+Romania,ROU,11-06-2020,153
+Romania,ROU,12-06-2020,171
+Romania,ROU,13-06-2020,171
+Romania,ROU,14-06-2020,165
+Romania,ROU,15-06-2020,175
+Romania,ROU,16-06-2020,173
+Romania,ROU,17-06-2020,161
+Romania,ROU,18-06-2020,178
+Romania,ROU,19-06-2020,184
+Romania,ROU,20-06-2020,190
+Romania,ROU,21-06-2020,195
+Romania,ROU,22-06-2020,195
+Romania,ROU,23-06-2020,200
+Romania,ROU,24-06-2020,186
+Romania,ROU,25-06-2020,199
+Romania,ROU,26-06-2020,186
+Romania,ROU,27-06-2020,199
+Romania,ROU,28-06-2020,217
+Romania,ROU,30-06-2020,205
+Romania,ROU,01-07-2020,222
+Romania,ROU,02-07-2020,237
+Romania,ROU,03-07-2020,224
+Romania,ROU,04-07-2020,223
+Romania,ROU,05-07-2020,215
+Romania,ROU,06-07-2020,227
+Romania,ROU,07-07-2020,231
+Romania,ROU,09-07-2020,240
+Romania,ROU,10-07-2020,236
+Romania,ROU,11-07-2020,239
+Romania,ROU,12-07-2020,243
+Romania,ROU,13-07-2020,235
+Romania,ROU,14-07-2020,234
+Romania,ROU,15-07-2020,248
+Romania,ROU,16-07-2020,261
+Romania,ROU,18-07-2020,280
+Romania,ROU,19-07-2020,286
+Romania,ROU,20-07-2020,293
+Romania,ROU,21-07-2020,297
+Romania,ROU,22-07-2020,293
+Romania,ROU,23-07-2020,285
+Romania,ROU,24-07-2020,301
+Romania,ROU,25-07-2020,315
+Romania,ROU,26-07-2020,351
+Romania,ROU,27-07-2020,353
+Romania,ROU,28-07-2020,357
+Romania,ROU,29-07-2020,377
+Romania,ROU,30-07-2020,402
+Romania,ROU,31-07-2020,409
+Romania,ROU,01-08-2020,401
+Romania,ROU,02-08-2020,412
+Romania,ROU,03-08-2020,419
+Romania,ROU,04-08-2020,436
+Romania,ROU,05-08-2020,464
+Romania,ROU,06-08-2020,458
+Romania,ROU,07-08-2020,446
+Romania,ROU,08-08-2020,448
+Romania,ROU,09-08-2020,458
+Romania,ROU,10-08-2020,476
+Romania,ROU,11-08-2020,485
+Romania,ROU,12-08-2020,485
+Romania,ROU,13-08-2020,478
+Romania,ROU,14-08-2020,473
+Romania,ROU,16-08-2020,479
+Romania,ROU,17-08-2020,497
+Romania,ROU,18-08-2020,479
+Romania,ROU,19-08-2020,480
+Romania,ROU,20-08-2020,489
+Romania,ROU,21-08-2020,497
+Romania,ROU,22-08-2020,504
+Romania,ROU,23-08-2020,480
+Romania,ROU,24-08-2020,494
+Romania,ROU,25-08-2020,490
+Romania,ROU,26-08-2020,502
+Romania,ROU,27-08-2020,492
+Romania,ROU,28-08-2020,497
+Romania,ROU,29-08-2020,490
+Romania,ROU,30-08-2020,492
+Romania,ROU,31-08-2020,506
+Romania,ROU,01-09-2020,522
+Romania,ROU,02-09-2020,519
+Romania,ROU,03-09-2020,503
+Romania,ROU,04-09-2020,485
+Romania,ROU,05-09-2020,476
+Romania,ROU,06-09-2020,474
+Romania,ROU,07-09-2020,465
+Romania,ROU,08-09-2020,460
+Romania,ROU,09-09-2020,459
+Romania,ROU,10-09-2020,459
+Romania,ROU,11-09-2020,478
+Romania,ROU,12-09-2020,467
+Romania,ROU,13-09-2020,465
+Romania,ROU,14-09-2020,456
+Romania,ROU,15-09-2020,460
+Romania,ROU,16-09-2020,471
+Romania,ROU,17-09-2020,460
+Romania,ROU,18-09-2020,447
+Romania,ROU,19-09-2020,461
+Romania,ROU,20-09-2020,470
+Romania,ROU,21-09-2020,464
+Romania,ROU,22-09-2020,496
+Romania,ROU,23-09-2020,498
+Romania,ROU,24-09-2020,506
+Romania,ROU,25-09-2020,508
+Romania,ROU,26-09-2020,512
+Romania,ROU,27-09-2020,535
+Romania,ROU,28-09-2020,557
+Romania,ROU,29-09-2020,551
+Romania,ROU,30-09-2020,550
+Romania,ROU,01-10-2020,557
+Romania,ROU,02-10-2020,571
+Romania,ROU,03-10-2020,583
+Romania,ROU,04-10-2020,598
+Romania,ROU,05-10-2020,592
+Romania,ROU,06-10-2020,608
+Romania,ROU,07-10-2020,612
+Romania,ROU,08-10-2020,607
+Romania,ROU,09-10-2020,613
+Romania,ROU,10-10-2020,629
+Romania,ROU,11-10-2020,628
+Romania,ROU,12-10-2020,628
+Romania,ROU,13-10-2020,651
+Romania,ROU,14-10-2020,686
+Romania,ROU,15-10-2020,721
+Romania,ROU,16-10-2020,726
+Romania,ROU,17-10-2020,745
+Romania,ROU,18-10-2020,749
+Romania,ROU,19-10-2020,757
+Romania,ROU,20-10-2020,768
+Romania,ROU,21-10-2020,766
+Romania,ROU,22-10-2020,778
+Romania,ROU,23-10-2020,782
+Romania,ROU,24-10-2020,787
+Romania,ROU,25-10-2020,828
+Romania,ROU,26-10-2020,823
+Romania,ROU,27-10-2020,824
+Romania,ROU,28-10-2020,861
+Romania,ROU,29-10-2020,868
+Romania,ROU,30-10-2020,917
+Romania,ROU,31-10-2020,923
+Romania,ROU,01-11-2020,910
+Romania,ROU,02-11-2020,916
+Romania,ROU,03-11-2020,974
+Romania,ROU,04-11-2020,1001
+Romania,ROU,05-11-2020,1014
+Romania,ROU,06-11-2020,1001
+Romania,ROU,07-11-2020,1048
+Romania,ROU,08-11-2020,1056
+Romania,ROU,09-11-2020,1076
+Romania,ROU,10-11-2020,1093
+Romania,ROU,11-11-2020,1092
+Romania,ROU,12-11-2020,1152
+Romania,ROU,13-11-2020,1149
+Romania,ROU,14-11-2020,1172
+Romania,ROU,15-11-2020,1169
+Romania,ROU,16-11-2020,1187
+Romania,ROU,17-11-2020,1174
+Romania,ROU,18-11-2020,1174
+Romania,ROU,19-11-2020,1131
+Romania,ROU,20-11-2020,1139
+Romania,ROU,21-11-2020,1132
+Romania,ROU,22-11-2020,1174
+Slovenia,SVN,10-03-2020,1
+Slovenia,SVN,11-03-2020,1
+Slovenia,SVN,12-03-2020,2
+Slovenia,SVN,13-03-2020,4
+Slovenia,SVN,14-03-2020,4
+Slovenia,SVN,15-03-2020,3
+Slovenia,SVN,16-03-2020,5
+Slovenia,SVN,17-03-2020,5
+Slovenia,SVN,18-03-2020,5
+Slovenia,SVN,19-03-2020,7
+Slovenia,SVN,20-03-2020,8
+Slovenia,SVN,21-03-2020,8
+Slovenia,SVN,22-03-2020,11
+Slovenia,SVN,23-03-2020,10
+Slovenia,SVN,24-03-2020,11
+Slovenia,SVN,25-03-2020,14
+Slovenia,SVN,26-03-2020,16
+Slovenia,SVN,27-03-2020,22
+Slovenia,SVN,28-03-2020,23
+Slovenia,SVN,29-03-2020,24
+Slovenia,SVN,30-03-2020,29
+Slovenia,SVN,31-03-2020,28
+Slovenia,SVN,01-04-2020,31
+Slovenia,SVN,02-04-2020,30
+Slovenia,SVN,03-04-2020,30
+Slovenia,SVN,04-04-2020,32
+Slovenia,SVN,05-04-2020,31
+Slovenia,SVN,06-04-2020,30
+Slovenia,SVN,07-04-2020,32
+Slovenia,SVN,08-04-2020,35
+Slovenia,SVN,09-04-2020,34
+Slovenia,SVN,10-04-2020,36
+Slovenia,SVN,11-04-2020,35
+Slovenia,SVN,12-04-2020,35
+Slovenia,SVN,13-04-2020,33
+Slovenia,SVN,14-04-2020,35
+Slovenia,SVN,15-04-2020,34
+Slovenia,SVN,16-04-2020,30
+Slovenia,SVN,17-04-2020,28
+Slovenia,SVN,18-04-2020,27
+Slovenia,SVN,19-04-2020,26
+Slovenia,SVN,20-04-2020,26
+Slovenia,SVN,21-04-2020,25
+Slovenia,SVN,22-04-2020,24
+Slovenia,SVN,23-04-2020,23
+Slovenia,SVN,24-04-2020,23
+Slovenia,SVN,25-04-2020,23
+Slovenia,SVN,26-04-2020,23
+Slovenia,SVN,27-04-2020,22
+Slovenia,SVN,28-04-2020,23
+Slovenia,SVN,29-04-2020,22
+Slovenia,SVN,30-04-2020,22
+Slovenia,SVN,01-05-2020,21
+Slovenia,SVN,02-05-2020,21
+Slovenia,SVN,03-05-2020,20
+Slovenia,SVN,04-05-2020,20
+Slovenia,SVN,05-05-2020,16
+Slovenia,SVN,06-05-2020,14
+Slovenia,SVN,07-05-2020,13
+Slovenia,SVN,08-05-2020,11
+Slovenia,SVN,09-05-2020,10
+Slovenia,SVN,10-05-2020,10
+Slovenia,SVN,11-05-2020,10
+Slovenia,SVN,12-05-2020,9
+Slovenia,SVN,13-05-2020,9
+Slovenia,SVN,14-05-2020,7
+Slovenia,SVN,15-05-2020,7
+Slovenia,SVN,16-05-2020,6
+Slovenia,SVN,17-05-2020,5
+Slovenia,SVN,18-05-2020,5
+Slovenia,SVN,19-05-2020,5
+Slovenia,SVN,20-05-2020,4
+Slovenia,SVN,21-05-2020,3
+Slovenia,SVN,22-05-2020,4
+Slovenia,SVN,23-05-2020,3
+Slovenia,SVN,24-05-2020,3
+Slovenia,SVN,25-05-2020,3
+Slovenia,SVN,26-05-2020,2
+Slovenia,SVN,27-05-2020,2
+Slovenia,SVN,28-05-2020,2
+Slovenia,SVN,29-05-2020,2
+Slovenia,SVN,30-05-2020,2
+Slovenia,SVN,31-05-2020,2
+Slovenia,SVN,01-06-2020,1
+Slovenia,SVN,02-06-2020,1
+Slovenia,SVN,03-06-2020,0
+Slovenia,SVN,04-06-2020,0
+Slovenia,SVN,05-06-2020,0
+Slovenia,SVN,06-06-2020,0
+Slovenia,SVN,07-06-2020,0
+Slovenia,SVN,08-06-2020,0
+Slovenia,SVN,09-06-2020,0
+Slovenia,SVN,10-06-2020,0
+Slovenia,SVN,11-06-2020,0
+Slovenia,SVN,12-06-2020,0
+Slovenia,SVN,13-06-2020,0
+Slovenia,SVN,14-06-2020,0
+Slovenia,SVN,15-06-2020,1
+Slovenia,SVN,16-06-2020,1
+Slovenia,SVN,17-06-2020,1
+Slovenia,SVN,18-06-2020,1
+Slovenia,SVN,19-06-2020,1
+Slovenia,SVN,20-06-2020,1
+Slovenia,SVN,21-06-2020,1
+Slovenia,SVN,22-06-2020,1
+Slovenia,SVN,23-06-2020,1
+Slovenia,SVN,24-06-2020,2
+Slovenia,SVN,25-06-2020,2
+Slovenia,SVN,26-06-2020,1
+Slovenia,SVN,27-06-2020,0
+Slovenia,SVN,28-06-2020,0
+Slovenia,SVN,29-06-2020,0
+Slovenia,SVN,30-06-2020,0
+Slovenia,SVN,01-07-2020,0
+Slovenia,SVN,02-07-2020,0
+Slovenia,SVN,03-07-2020,0
+Slovenia,SVN,04-07-2020,0
+Slovenia,SVN,05-07-2020,0
+Slovenia,SVN,06-07-2020,0
+Slovenia,SVN,07-07-2020,0
+Slovenia,SVN,08-07-2020,0
+Slovenia,SVN,09-07-2020,0
+Slovenia,SVN,10-07-2020,0
+Slovenia,SVN,11-07-2020,0
+Slovenia,SVN,12-07-2020,1
+Slovenia,SVN,13-07-2020,1
+Slovenia,SVN,14-07-2020,1
+Slovenia,SVN,15-07-2020,2
+Slovenia,SVN,16-07-2020,1
+Slovenia,SVN,17-07-2020,1
+Slovenia,SVN,18-07-2020,2
+Slovenia,SVN,19-07-2020,3
+Slovenia,SVN,20-07-2020,3
+Slovenia,SVN,21-07-2020,3
+Slovenia,SVN,22-07-2020,2
+Slovenia,SVN,23-07-2020,2
+Slovenia,SVN,24-07-2020,2
+Slovenia,SVN,25-07-2020,4
+Slovenia,SVN,26-07-2020,4
+Slovenia,SVN,27-07-2020,3
+Slovenia,SVN,28-07-2020,3
+Slovenia,SVN,29-07-2020,4
+Slovenia,SVN,30-07-2020,5
+Slovenia,SVN,31-07-2020,5
+Slovenia,SVN,01-08-2020,5
+Slovenia,SVN,02-08-2020,2
+Slovenia,SVN,03-08-2020,1
+Slovenia,SVN,04-08-2020,2
+Slovenia,SVN,05-08-2020,3
+Slovenia,SVN,06-08-2020,3
+Slovenia,SVN,07-08-2020,4
+Slovenia,SVN,08-08-2020,3
+Slovenia,SVN,09-08-2020,3
+Slovenia,SVN,10-08-2020,3
+Slovenia,SVN,11-08-2020,2
+Slovenia,SVN,12-08-2020,2
+Slovenia,SVN,13-08-2020,3
+Slovenia,SVN,14-08-2020,3
+Slovenia,SVN,15-08-2020,3
+Slovenia,SVN,16-08-2020,3
+Slovenia,SVN,17-08-2020,3
+Slovenia,SVN,18-08-2020,3
+Slovenia,SVN,19-08-2020,3
+Slovenia,SVN,20-08-2020,2
+Slovenia,SVN,21-08-2020,0
+Slovenia,SVN,22-08-2020,0
+Slovenia,SVN,23-08-2020,0
+Slovenia,SVN,24-08-2020,0
+Slovenia,SVN,25-08-2020,0
+Slovenia,SVN,26-08-2020,0
+Slovenia,SVN,27-08-2020,1
+Slovenia,SVN,28-08-2020,1
+Slovenia,SVN,29-08-2020,2
+Slovenia,SVN,30-08-2020,3
+Slovenia,SVN,31-08-2020,3
+Slovenia,SVN,01-09-2020,3
+Slovenia,SVN,02-09-2020,4
+Slovenia,SVN,03-09-2020,4
+Slovenia,SVN,04-09-2020,3
+Slovenia,SVN,05-09-2020,3
+Slovenia,SVN,06-09-2020,3
+Slovenia,SVN,07-09-2020,4
+Slovenia,SVN,08-09-2020,4
+Slovenia,SVN,09-09-2020,4
+Slovenia,SVN,10-09-2020,5
+Slovenia,SVN,11-09-2020,6
+Slovenia,SVN,12-09-2020,6
+Slovenia,SVN,13-09-2020,7
+Slovenia,SVN,14-09-2020,9
+Slovenia,SVN,15-09-2020,10
+Slovenia,SVN,16-09-2020,11
+Slovenia,SVN,17-09-2020,11
+Slovenia,SVN,18-09-2020,11
+Slovenia,SVN,19-09-2020,10
+Slovenia,SVN,20-09-2020,13
+Slovenia,SVN,21-09-2020,15
+Slovenia,SVN,22-09-2020,13
+Slovenia,SVN,23-09-2020,10
+Slovenia,SVN,24-09-2020,13
+Slovenia,SVN,25-09-2020,15
+Slovenia,SVN,26-09-2020,17
+Slovenia,SVN,27-09-2020,17
+Slovenia,SVN,28-09-2020,16
+Slovenia,SVN,29-09-2020,16
+Slovenia,SVN,30-09-2020,16
+Slovenia,SVN,01-10-2020,15
+Slovenia,SVN,02-10-2020,15
+Slovenia,SVN,03-10-2020,15
+Slovenia,SVN,04-10-2020,16
+Slovenia,SVN,05-10-2020,21
+Slovenia,SVN,06-10-2020,20
+Slovenia,SVN,07-10-2020,22
+Slovenia,SVN,08-10-2020,21
+Slovenia,SVN,09-10-2020,23
+Slovenia,SVN,10-10-2020,21
+Slovenia,SVN,11-10-2020,27
+Slovenia,SVN,12-10-2020,26
+Slovenia,SVN,13-10-2020,31
+Slovenia,SVN,14-10-2020,35
+Slovenia,SVN,15-10-2020,40
+Slovenia,SVN,16-10-2020,43
+Slovenia,SVN,17-10-2020,44
+Slovenia,SVN,18-10-2020,49
+Slovenia,SVN,19-10-2020,56
+Slovenia,SVN,20-10-2020,55
+Slovenia,SVN,21-10-2020,55
+Slovenia,SVN,22-10-2020,62
+Slovenia,SVN,23-10-2020,66
+Slovenia,SVN,24-10-2020,66
+Slovenia,SVN,25-10-2020,73
+Slovenia,SVN,26-10-2020,82
+Slovenia,SVN,27-10-2020,88
+Slovenia,SVN,28-10-2020,102
+Slovenia,SVN,29-10-2020,114
+Slovenia,SVN,30-10-2020,123
+Slovenia,SVN,31-10-2020,123
+Slovenia,SVN,01-11-2020,131
+Slovenia,SVN,02-11-2020,140
+Slovenia,SVN,03-11-2020,145
+Slovenia,SVN,04-11-2020,155
+Slovenia,SVN,05-11-2020,165
+Slovenia,SVN,06-11-2020,165
+Slovenia,SVN,07-11-2020,174
+Slovenia,SVN,08-11-2020,175
+Slovenia,SVN,09-11-2020,189
+Slovenia,SVN,10-11-2020,193
+Slovenia,SVN,11-11-2020,198
+Slovenia,SVN,12-11-2020,193
+Slovenia,SVN,13-11-2020,200
+Slovenia,SVN,14-11-2020,207
+Slovenia,SVN,15-11-2020,202
+Slovenia,SVN,16-11-2020,207
+Slovenia,SVN,17-11-2020,209
+Slovenia,SVN,18-11-2020,208
+Slovenia,SVN,19-11-2020,203
+Slovenia,SVN,20-11-2020,201
+Slovenia,SVN,21-11-2020,196
+Slovenia,SVN,22-11-2020,197
+Spain,ESP,20-08-2020,522
+Spain,ESP,21-08-2020,541
+Spain,ESP,24-08-2020,658
+Spain,ESP,25-08-2020,677
+Spain,ESP,26-08-2020,697
+Spain,ESP,27-08-2020,715
+Spain,ESP,28-08-2020,751
+Spain,ESP,31-08-2020,846
+Spain,ESP,01-09-2020,823
+Spain,ESP,02-09-2020,874
+Spain,ESP,03-09-2020,930
+Spain,ESP,04-09-2020,976
+Spain,ESP,07-09-2020,1034
+Spain,ESP,08-09-2020,1051
+Spain,ESP,09-09-2020,1131
+Spain,ESP,10-09-2020,1136
+Spain,ESP,11-09-2020,1181
+Spain,ESP,14-09-2020,1157
+Spain,ESP,15-09-2020,1273
+Spain,ESP,16-09-2020,1281
+Spain,ESP,17-09-2020,1331
+Spain,ESP,18-09-2020,1345
+Spain,ESP,21-09-2020,1417
+Spain,ESP,22-09-2020,1438
+Spain,ESP,23-09-2020,1436
+Spain,ESP,24-09-2020,1445
+Spain,ESP,25-09-2020,1465
+Spain,ESP,28-09-2020,1529
+Spain,ESP,29-09-2020,1535
+Spain,ESP,30-09-2020,1539
+Spain,ESP,01-10-2020,1561
+Spain,ESP,02-10-2020,1566
+Spain,ESP,05-10-2020,1580
+Spain,ESP,06-10-2020,1544
+Spain,ESP,07-10-2020,1568
+Spain,ESP,08-10-2020,1585
+Spain,ESP,09-10-2020,1590
+Spain,ESP,12-10-2020,1546
+Spain,ESP,13-10-2020,1595
+Spain,ESP,14-10-2020,1652
+Spain,ESP,15-10-2020,1702
+Spain,ESP,16-10-2020,1768
+Spain,ESP,19-10-2020,1857
+Spain,ESP,20-10-2020,1911
+Spain,ESP,21-10-2020,1930
+Spain,ESP,22-10-2020,1966
+Spain,ESP,23-10-2020,2031
+Spain,ESP,26-10-2020,2163
+Spain,ESP,27-10-2020,2292
+Spain,ESP,28-10-2020,2368
+Spain,ESP,29-10-2020,2404
+Spain,ESP,30-10-2020,2482
+Spain,ESP,02-11-2020,2650
+Spain,ESP,03-11-2020,2754
+Spain,ESP,04-11-2020,2786
+Spain,ESP,05-11-2020,2802
+Spain,ESP,06-11-2020,2863
+Spain,ESP,09-11-2020,3007
+Spain,ESP,10-11-2020,3064
+Spain,ESP,11-11-2020,3093
+Spain,ESP,12-11-2020,3123
+Spain,ESP,13-11-2020,3125
+Spain,ESP,16-11-2020,3156
+Spain,ESP,17-11-2020,3127
+Spain,ESP,18-11-2020,3120
+Spain,ESP,19-11-2020,3125
+Spain,ESP,20-11-2020,3054
+United Kingdom,GBR,02-04-2020,1813
+United Kingdom,GBR,03-04-2020,2120
+United Kingdom,GBR,04-04-2020,2309
+United Kingdom,GBR,05-04-2020,2469
+United Kingdom,GBR,06-04-2020,2644
+United Kingdom,GBR,07-04-2020,2864
+United Kingdom,GBR,08-04-2020,2967
+United Kingdom,GBR,09-04-2020,2963
+United Kingdom,GBR,10-04-2020,3228
+United Kingdom,GBR,11-04-2020,3274
+United Kingdom,GBR,12-04-2020,3301
+United Kingdom,GBR,13-04-2020,3277
+United Kingdom,GBR,14-04-2020,3234
+United Kingdom,GBR,15-04-2020,3228
+United Kingdom,GBR,16-04-2020,3222
+United Kingdom,GBR,17-04-2020,3162
+United Kingdom,GBR,18-04-2020,3247
+United Kingdom,GBR,19-04-2020,3176
+United Kingdom,GBR,20-04-2020,3130
+United Kingdom,GBR,21-04-2020,3036
+United Kingdom,GBR,22-04-2020,2964
+United Kingdom,GBR,23-04-2020,2867
+United Kingdom,GBR,24-04-2020,2703
+United Kingdom,GBR,25-04-2020,2702
+United Kingdom,GBR,26-04-2020,2580
+United Kingdom,GBR,27-04-2020,2454
+United Kingdom,GBR,28-04-2020,2347
+United Kingdom,GBR,29-04-2020,2286
+United Kingdom,GBR,30-04-2020,2224
+United Kingdom,GBR,01-05-2020,2178
+United Kingdom,GBR,02-05-2020,2068
+United Kingdom,GBR,03-05-2020,2009
+United Kingdom,GBR,04-05-2020,1936
+United Kingdom,GBR,05-05-2020,1874
+United Kingdom,GBR,06-05-2020,1802
+United Kingdom,GBR,07-05-2020,1685
+United Kingdom,GBR,08-05-2020,1641
+United Kingdom,GBR,09-05-2020,1585
+United Kingdom,GBR,10-05-2020,1538
+United Kingdom,GBR,11-05-2020,1485
+United Kingdom,GBR,12-05-2020,1414
+United Kingdom,GBR,13-05-2020,1342
+United Kingdom,GBR,14-05-2020,1314
+United Kingdom,GBR,15-05-2020,1302
+United Kingdom,GBR,16-05-2020,1234
+United Kingdom,GBR,17-05-2020,1196
+United Kingdom,GBR,18-05-2020,1141
+United Kingdom,GBR,19-05-2020,1106
+United Kingdom,GBR,20-05-2020,1034
+United Kingdom,GBR,21-05-2020,1008
+United Kingdom,GBR,22-05-2020,964
+United Kingdom,GBR,23-05-2020,926
+United Kingdom,GBR,24-05-2020,886
+United Kingdom,GBR,25-05-2020,863
+United Kingdom,GBR,26-05-2020,847
+United Kingdom,GBR,27-05-2020,783
+United Kingdom,GBR,28-05-2020,751
+United Kingdom,GBR,29-05-2020,719
+United Kingdom,GBR,30-05-2020,704
+United Kingdom,GBR,31-05-2020,679
+United Kingdom,GBR,01-06-2020,652
+United Kingdom,GBR,02-06-2020,636
+United Kingdom,GBR,03-06-2020,602
+United Kingdom,GBR,04-06-2020,571
+United Kingdom,GBR,05-06-2020,554
+United Kingdom,GBR,06-06-2020,540
+United Kingdom,GBR,07-06-2020,515
+United Kingdom,GBR,08-06-2020,509
+United Kingdom,GBR,09-06-2020,491
+United Kingdom,GBR,10-06-2020,439
+United Kingdom,GBR,11-06-2020,390
+United Kingdom,GBR,12-06-2020,393
+United Kingdom,GBR,13-06-2020,390
+United Kingdom,GBR,14-06-2020,393
+United Kingdom,GBR,15-06-2020,385
+United Kingdom,GBR,16-06-2020,378
+United Kingdom,GBR,17-06-2020,357
+United Kingdom,GBR,18-06-2020,352
+United Kingdom,GBR,19-06-2020,330
+United Kingdom,GBR,20-06-2020,315
+United Kingdom,GBR,21-06-2020,310
+United Kingdom,GBR,22-06-2020,340
+United Kingdom,GBR,23-06-2020,311
+United Kingdom,GBR,24-06-2020,316
+United Kingdom,GBR,25-06-2020,276
+United Kingdom,GBR,26-06-2020,268
+United Kingdom,GBR,27-06-2020,270
+United Kingdom,GBR,28-06-2020,270
+United Kingdom,GBR,29-06-2020,262
+United Kingdom,GBR,30-06-2020,279
+United Kingdom,GBR,01-07-2020,259
+United Kingdom,GBR,02-07-2020,239
+United Kingdom,GBR,03-07-2020,231
+United Kingdom,GBR,04-07-2020,220
+United Kingdom,GBR,05-07-2020,217
+United Kingdom,GBR,06-07-2020,209
+United Kingdom,GBR,07-07-2020,197
+United Kingdom,GBR,08-07-2020,185
+United Kingdom,GBR,09-07-2020,188
+United Kingdom,GBR,10-07-2020,191
+United Kingdom,GBR,11-07-2020,168
+United Kingdom,GBR,12-07-2020,159
+United Kingdom,GBR,13-07-2020,162
+United Kingdom,GBR,14-07-2020,145
+United Kingdom,GBR,15-07-2020,153
+United Kingdom,GBR,16-07-2020,142
+United Kingdom,GBR,17-07-2020,143
+United Kingdom,GBR,18-07-2020,137
+United Kingdom,GBR,19-07-2020,131
+United Kingdom,GBR,20-07-2020,129
+United Kingdom,GBR,21-07-2020,137
+United Kingdom,GBR,22-07-2020,110
+United Kingdom,GBR,23-07-2020,111
+United Kingdom,GBR,24-07-2020,104
+United Kingdom,GBR,25-07-2020,93
+United Kingdom,GBR,26-07-2020,92
+United Kingdom,GBR,27-07-2020,97
+United Kingdom,GBR,28-07-2020,93
+United Kingdom,GBR,29-07-2020,87
+United Kingdom,GBR,30-07-2020,84
+United Kingdom,GBR,31-07-2020,86
+United Kingdom,GBR,01-08-2020,92
+United Kingdom,GBR,02-08-2020,81
+United Kingdom,GBR,03-08-2020,77
+United Kingdom,GBR,04-08-2020,76
+United Kingdom,GBR,05-08-2020,73
+United Kingdom,GBR,06-08-2020,69
+United Kingdom,GBR,07-08-2020,67
+United Kingdom,GBR,08-08-2020,62
+United Kingdom,GBR,09-08-2020,65
+United Kingdom,GBR,10-08-2020,70
+United Kingdom,GBR,11-08-2020,73
+United Kingdom,GBR,12-08-2020,80
+United Kingdom,GBR,13-08-2020,75
+United Kingdom,GBR,14-08-2020,73
+United Kingdom,GBR,15-08-2020,76
+United Kingdom,GBR,16-08-2020,78
+United Kingdom,GBR,17-08-2020,73
+United Kingdom,GBR,18-08-2020,73
+United Kingdom,GBR,19-08-2020,70
+United Kingdom,GBR,20-08-2020,76
+United Kingdom,GBR,21-08-2020,72
+United Kingdom,GBR,22-08-2020,71
+United Kingdom,GBR,23-08-2020,72
+United Kingdom,GBR,24-08-2020,68
+United Kingdom,GBR,25-08-2020,68
+United Kingdom,GBR,26-08-2020,64
+United Kingdom,GBR,27-08-2020,71
+United Kingdom,GBR,28-08-2020,60
+United Kingdom,GBR,29-08-2020,66
+United Kingdom,GBR,30-08-2020,68
+United Kingdom,GBR,31-08-2020,71
+United Kingdom,GBR,01-09-2020,82
+United Kingdom,GBR,02-09-2020,81
+United Kingdom,GBR,03-09-2020,76
+United Kingdom,GBR,04-09-2020,69
+United Kingdom,GBR,05-09-2020,65
+United Kingdom,GBR,06-09-2020,69
+United Kingdom,GBR,07-09-2020,77
+United Kingdom,GBR,08-09-2020,80
+United Kingdom,GBR,09-09-2020,80
+United Kingdom,GBR,10-09-2020,78
+United Kingdom,GBR,11-09-2020,77
+United Kingdom,GBR,12-09-2020,86
+United Kingdom,GBR,13-09-2020,92
+United Kingdom,GBR,14-09-2020,105
+United Kingdom,GBR,15-09-2020,115
+United Kingdom,GBR,16-09-2020,124
+United Kingdom,GBR,17-09-2020,127
+United Kingdom,GBR,18-09-2020,138
+United Kingdom,GBR,19-09-2020,144
+United Kingdom,GBR,20-09-2020,165
+United Kingdom,GBR,21-09-2020,181
+United Kingdom,GBR,22-09-2020,211
+United Kingdom,GBR,23-09-2020,228
+United Kingdom,GBR,24-09-2020,243
+United Kingdom,GBR,25-09-2020,262
+United Kingdom,GBR,26-09-2020,261
+United Kingdom,GBR,27-09-2020,276
+United Kingdom,GBR,28-09-2020,297
+United Kingdom,GBR,29-09-2020,314
+United Kingdom,GBR,30-09-2020,332
+United Kingdom,GBR,01-10-2020,341
+United Kingdom,GBR,02-10-2020,368
+United Kingdom,GBR,03-10-2020,369
+United Kingdom,GBR,04-10-2020,369
+United Kingdom,GBR,05-10-2020,393
+United Kingdom,GBR,06-10-2020,410
+United Kingdom,GBR,07-10-2020,442
+United Kingdom,GBR,08-10-2020,436
+United Kingdom,GBR,09-10-2020,440
+United Kingdom,GBR,10-10-2020,470
+United Kingdom,GBR,11-10-2020,477
+United Kingdom,GBR,12-10-2020,507
+United Kingdom,GBR,13-10-2020,516
+United Kingdom,GBR,14-10-2020,563
+United Kingdom,GBR,15-10-2020,581
+United Kingdom,GBR,16-10-2020,592
+United Kingdom,GBR,17-10-2020,613
+United Kingdom,GBR,18-10-2020,629
+United Kingdom,GBR,19-10-2020,657
+United Kingdom,GBR,20-10-2020,697
+United Kingdom,GBR,21-10-2020,711
+United Kingdom,GBR,22-10-2020,707
+United Kingdom,GBR,23-10-2020,743
+United Kingdom,GBR,24-10-2020,787
+United Kingdom,GBR,25-10-2020,827
+United Kingdom,GBR,26-10-2020,852
+United Kingdom,GBR,27-10-2020,902
+United Kingdom,GBR,28-10-2020,957
+United Kingdom,GBR,29-10-2020,974
+United Kingdom,GBR,30-10-2020,978
+United Kingdom,GBR,31-10-2020,1002
+United Kingdom,GBR,01-11-2020,977
+United Kingdom,GBR,02-11-2020,1075
+United Kingdom,GBR,03-11-2020,1142
+United Kingdom,GBR,04-11-2020,1191
+United Kingdom,GBR,05-11-2020,1181
+United Kingdom,GBR,06-11-2020,1185
+United Kingdom,GBR,07-11-2020,1205
+United Kingdom,GBR,08-11-2020,1230
+United Kingdom,GBR,09-11-2020,1269
+United Kingdom,GBR,10-11-2020,1219
+United Kingdom,GBR,11-11-2020,1268
+United Kingdom,GBR,12-11-2020,1275
+United Kingdom,GBR,13-11-2020,1355
+United Kingdom,GBR,14-11-2020,1365
+United Kingdom,GBR,15-11-2020,1397
+United Kingdom,GBR,16-11-2020,1391
+United Kingdom,GBR,17-11-2020,1420
+United Kingdom,GBR,18-11-2020,1430
+United Kingdom,GBR,19-11-2020,1426
+United Kingdom,GBR,20-11-2020,1421
+United Kingdom,GBR,21-11-2020,1447
+United Kingdom,GBR,22-11-2020,1454
+United States,USA,26-03-2020,1299
+United States,USA,27-03-2020,1792
+United States,USA,28-03-2020,2174
+United States,USA,29-03-2020,2456
+United States,USA,30-03-2020,3087
+United States,USA,31-03-2020,3487
+United States,USA,01-04-2020,3937
+United States,USA,02-04-2020,4513
+United States,USA,03-04-2020,4928
+United States,USA,04-04-2020,5500
+United States,USA,05-04-2020,5811
+United States,USA,06-04-2020,7079
+United States,USA,07-04-2020,9978
+United States,USA,08-04-2020,10337
+United States,USA,09-04-2020,12450
+United States,USA,10-04-2020,12693
+United States,USA,11-04-2020,13285
+United States,USA,12-04-2020,13620
+United States,USA,13-04-2020,13620
+United States,USA,14-04-2020,14039
+United States,USA,15-04-2020,14646
+United States,USA,16-04-2020,15130
+United States,USA,17-04-2020,14890
+United States,USA,18-04-2020,14769
+United States,USA,19-04-2020,14385
+United States,USA,20-04-2020,14463
+United States,USA,21-04-2020,14941
+United States,USA,22-04-2020,15013
+United States,USA,23-04-2020,14744
+United States,USA,24-04-2020,14605
+United States,USA,25-04-2020,14415
+United States,USA,26-04-2020,14104
+United States,USA,27-04-2020,13812
+United States,USA,28-04-2020,13562
+United States,USA,29-04-2020,13535
+United States,USA,30-04-2020,13255
+United States,USA,01-05-2020,12845
+United States,USA,02-05-2020,12905
+United States,USA,03-05-2020,12720
+United States,USA,04-05-2020,12696
+United States,USA,05-05-2020,12628
+United States,USA,06-05-2020,12478
+United States,USA,07-05-2020,12136
+United States,USA,08-05-2020,11780
+United States,USA,09-05-2020,11496
+United States,USA,10-05-2020,11393
+United States,USA,11-05-2020,11148
+United States,USA,12-05-2020,11240
+United States,USA,13-05-2020,10990
+United States,USA,14-05-2020,10655
+United States,USA,15-05-2020,10484
+United States,USA,16-05-2020,10278
+United States,USA,17-05-2020,9934
+United States,USA,18-05-2020,9754
+United States,USA,19-05-2020,9598
+United States,USA,20-05-2020,9521
+United States,USA,21-05-2020,9090
+United States,USA,22-05-2020,9049
+United States,USA,23-05-2020,8733
+United States,USA,24-05-2020,8485
+United States,USA,25-05-2020,8467
+United States,USA,26-05-2020,8585
+United States,USA,27-05-2020,8547
+United States,USA,28-05-2020,8389
+United States,USA,29-05-2020,8174
+United States,USA,30-05-2020,7956
+United States,USA,31-05-2020,7626
+United States,USA,01-06-2020,7591
+United States,USA,02-06-2020,7407
+United States,USA,03-06-2020,7227
+United States,USA,04-06-2020,7057
+United States,USA,05-06-2020,6920
+United States,USA,06-06-2020,6762
+United States,USA,07-06-2020,6501
+United States,USA,08-06-2020,6402
+United States,USA,09-06-2020,6457
+United States,USA,10-06-2020,6249
+United States,USA,11-06-2020,6074
+United States,USA,12-06-2020,6017
+United States,USA,13-06-2020,5883
+United States,USA,14-06-2020,5749
+United States,USA,15-06-2020,5703
+United States,USA,16-06-2020,5570
+United States,USA,17-06-2020,5612
+United States,USA,18-06-2020,5464
+United States,USA,19-06-2020,5341
+United States,USA,20-06-2020,5229
+United States,USA,21-06-2020,5195
+United States,USA,22-06-2020,5323
+United States,USA,23-06-2020,5402
+United States,USA,24-06-2020,5293
+United States,USA,25-06-2020,5320
+United States,USA,26-06-2020,5283
+United States,USA,27-06-2020,5314
+United States,USA,28-06-2020,5252
+United States,USA,29-06-2020,5380
+United States,USA,30-06-2020,5424
+United States,USA,01-07-2020,5512
+United States,USA,02-07-2020,5626
+United States,USA,03-07-2020,5597
+United States,USA,04-07-2020,5633
+United States,USA,05-07-2020,5653
+United States,USA,06-07-2020,5687
+United States,USA,07-07-2020,5832
+United States,USA,08-07-2020,5874
+United States,USA,09-07-2020,5845
+United States,USA,10-07-2020,5896
+United States,USA,11-07-2020,5939
+United States,USA,12-07-2020,5930
+United States,USA,13-07-2020,6074
+United States,USA,14-07-2020,6235
+United States,USA,15-07-2020,6317
+United States,USA,16-07-2020,6359
+United States,USA,17-07-2020,6452
+United States,USA,18-07-2020,6397
+United States,USA,19-07-2020,6384
+United States,USA,20-07-2020,6557
+United States,USA,21-07-2020,6711
+United States,USA,22-07-2020,10457
+United States,USA,23-07-2020,10414
+United States,USA,24-07-2020,10395
+United States,USA,25-07-2020,10380
+United States,USA,26-07-2020,10353
+United States,USA,27-07-2020,10328
+United States,USA,28-07-2020,10463
+United States,USA,29-07-2020,10539
+United States,USA,30-07-2020,10523
+United States,USA,31-07-2020,10472
+United States,USA,01-08-2020,10450
+United States,USA,02-08-2020,10415
+United States,USA,03-08-2020,10230
+United States,USA,04-08-2020,10207
+United States,USA,05-08-2020,9986
+United States,USA,06-08-2020,9994
+United States,USA,07-08-2020,9691
+United States,USA,08-08-2020,9662
+United States,USA,09-08-2020,9307
+United States,USA,10-08-2020,9216
+United States,USA,11-08-2020,9136
+United States,USA,12-08-2020,9555
+United States,USA,13-08-2020,9487
+United States,USA,14-08-2020,9277
+United States,USA,15-08-2020,9087
+United States,USA,16-08-2020,8958
+United States,USA,17-08-2020,8871
+United States,USA,18-08-2020,8866
+United States,USA,19-08-2020,8744
+United States,USA,20-08-2020,8483
+United States,USA,21-08-2020,8357
+United States,USA,22-08-2020,8207
+United States,USA,23-08-2020,7949
+United States,USA,24-08-2020,7851
+United States,USA,25-08-2020,7863
+United States,USA,26-08-2020,7737
+United States,USA,27-08-2020,7717
+United States,USA,28-08-2020,7558
+United States,USA,29-08-2020,7413
+United States,USA,30-08-2020,7268
+United States,USA,31-08-2020,7043
+United States,USA,01-09-2020,7090
+United States,USA,02-09-2020,7087
+United States,USA,03-09-2020,6921
+United States,USA,04-09-2020,6924
+United States,USA,05-09-2020,6766
+United States,USA,06-09-2020,6700
+United States,USA,07-09-2020,6630
+United States,USA,08-09-2020,6542
+United States,USA,09-09-2020,6646
+United States,USA,10-09-2020,6531
+United States,USA,11-09-2020,6379
+United States,USA,12-09-2020,6451
+United States,USA,13-09-2020,6233
+United States,USA,14-09-2020,6238
+United States,USA,15-09-2020,6310
+United States,USA,16-09-2020,6308
+United States,USA,17-09-2020,6278
+United States,USA,18-09-2020,6175
+United States,USA,19-09-2020,6070
+United States,USA,20-09-2020,6015
+United States,USA,21-09-2020,6071
+United States,USA,22-09-2020,6111
+United States,USA,23-09-2020,6113
+United States,USA,24-09-2020,6168
+United States,USA,25-09-2020,6133
+United States,USA,26-09-2020,6057
+United States,USA,27-09-2020,6080
+United States,USA,28-09-2020,5981
+United States,USA,29-09-2020,6106
+United States,USA,30-09-2020,6145
+United States,USA,01-10-2020,6173
+United States,USA,02-10-2020,6106
+United States,USA,03-10-2020,5996
+United States,USA,04-10-2020,5974
+United States,USA,05-10-2020,6209
+United States,USA,06-10-2020,6438
+United States,USA,07-10-2020,6507
+United States,USA,08-10-2020,6621
+United States,USA,09-10-2020,6713
+United States,USA,10-10-2020,6683
+United States,USA,11-10-2020,6679
+United States,USA,12-10-2020,6807
+United States,USA,13-10-2020,7020
+United States,USA,14-10-2020,7156
+United States,USA,15-10-2020,7220
+United States,USA,16-10-2020,7251
+United States,USA,17-10-2020,7384
+United States,USA,18-10-2020,7292
+United States,USA,19-10-2020,7997
+United States,USA,20-10-2020,8131
+United States,USA,21-10-2020,8182
+United States,USA,22-10-2020,8086
+United States,USA,23-10-2020,8237
+United States,USA,24-10-2020,8561
+United States,USA,25-10-2020,8489
+United States,USA,26-10-2020,8842
+United States,USA,27-10-2020,8909
+United States,USA,28-10-2020,9034
+United States,USA,29-10-2020,9208
+United States,USA,30-10-2020,9437
+United States,USA,31-10-2020,9499
+United States,USA,01-11-2020,9553
+United States,USA,02-11-2020,9867
+United States,USA,03-11-2020,10406
+United States,USA,04-11-2020,10761
+United States,USA,05-11-2020,10918
+United States,USA,06-11-2020,11085
+United States,USA,07-11-2020,11082
+United States,USA,08-11-2020,11120
+United States,USA,09-11-2020,11533
+United States,USA,10-11-2020,11961
+United States,USA,11-11-2020,12518
+United States,USA,12-11-2020,12796
+United States,USA,13-11-2020,13132
+United States,USA,14-11-2020,13337
+United States,USA,15-11-2020,13693
+United States,USA,16-11-2020,14317
+United States,USA,17-11-2020,14851
+United States,USA,18-11-2020,15350
+United States,USA,19-11-2020,15572
+United States,USA,20-11-2020,15929
+United States,USA,21-11-2020,16058
+United States,USA,22-11-2020,16212
+United States,USA,23-11-2020,16915
+United States,USA,24-11-2020,17127
+United States,USA,25-11-2020,17526
